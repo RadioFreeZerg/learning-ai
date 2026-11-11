@@ -29,7 +29,7 @@ Un dato compartido por error no se puede recuperar. Y usar un contenido sin sabe
 
 ## Conceptos clave
 
-**Qué ocurre con lo que escribes.** Lo que envías a un asistente sale de tu equipo y se procesa en servidores de terceros. Según el servicio y su configuración, puede conservarse o usarse para mejorarlo. Revisa las condiciones y los ajustes de privacidad de la herramienta que uses.
+**Qué ocurre con lo que escribes.** Lo que envías a un asistente sale de tu equipo y se procesa en sistemas de terceros. Según el servicio y su configuración, puede conservarse o usarse para mejorarlo. Revisa las condiciones y los ajustes de privacidad de la herramienta que uses.
 
 **Semáforo de datos.** Verde: información pública o inventada, que puedes compartir. Amarillo: información interna poco sensible; compártela solo anonimizada o con permiso. Rojo: datos personales identificables, de salud, financieros, secretos comerciales o confidenciales de terceros; no los compartas.
 
@@ -76,7 +76,7 @@ OBJETIVOS DE LA LECCIÓN
 SESIONES: reparte la lección en 2 a 4 sesiones de como máximo 12 mensajes míos. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso, Punto actual, Siguiente paso).
 
 QUÉ ENSEÑAR, UNA IDEA CADA VEZ Y CON EJEMPLOS DE MI ÁREA
-**Qué ocurre con lo que escribes.** Lo que envías a un asistente sale de tu equipo y se procesa en servidores de terceros. Según el servicio y su configuración, puede conservarse o usarse para mejorarlo. Revisa las condiciones y los ajustes de privacidad de la herramienta que uses.
+**Qué ocurre con lo que escribes.** Lo que envías a un asistente sale de tu equipo y se procesa en sistemas de terceros. Según el servicio y su configuración, puede conservarse o usarse para mejorarlo. Revisa las condiciones y los ajustes de privacidad de la herramienta que uses.
 
 **Semáforo de datos.** Verde: información pública o inventada, que puedes compartir. Amarillo: información interna poco sensible; compártela solo anonimizada o con permiso. Rojo: datos personales identificables, de salud, financieros, secretos comerciales o confidenciales de terceros; no los compartas.
 
