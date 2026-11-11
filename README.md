@@ -19,25 +19,15 @@ Curso de 12 semanas (~70 horas) para aprender a usar la IA con criterio y respon
 
 ### Cómo empezar
 
-**Ruta A: chat de texto (recomendada; funciona en cualquier plan gratuito)**
+**Sigue la guía paso a paso: [EMPEZAR.md](EMPEZAR.md).** En resumen: abres una lección, copias su prompt, lo pegas en un chat nuevo de tu asistente de IA y guardas la tarjeta que te da al final.
 
-1. Descarga este repositorio como archivo ZIP y descomprímelo, o lee los archivos desde la página del proyecto.
-2. Abre `curriculum/es/l00-welcome.md`.
-3. Copia el bloque «Prompt para tu asistente» y pégalo en un chat nuevo de tu asistente de IA.
-4. Sigue la conversación. Al final de cada sesión el tutor te entrega una *tarjeta de continuidad*: guárdala y pégala al abrir el chat siguiente.
-
-**Ruta B: asistente con acceso a archivos**
-
-1. Abre esta carpeta con tu asistente.
-2. Escribe: «Continuemos el curso».
-3. El asistente lee `AGENTS.md`, crea `PROFILE.md` y `progress.json`, y te guía.
-
-Detalles de la ruta A en [`docs/no-file-access.md`](docs/no-file-access.md).
+Si tu asistente puede leer archivos, también puedes abrir esta carpeta con él y escribir «Continuemos el curso»; leerá `AGENTS.md` y te guiará. Es opcional.
 
 ### Qué hay en el repositorio
 
 | Ruta | Contenido |
 | --- | --- |
+| `EMPEZAR.md`, `START.md` | Guía de inicio paso a paso |
 | `COURSE.md` | Índice y mapa de 12 semanas |
 | `AGENTS.md` | Instrucciones para el tutor (el asistente de IA) |
 | `curriculum/es/`, `curriculum/en/` | Las 12 lecciones en cada idioma |
@@ -70,20 +60,9 @@ A 12-week course (~70 hours) on using AI with judgment and responsibility in stu
 
 ### Getting started
 
-**Route A: text chat (recommended; works on any free plan)**
+**Follow the step-by-step guide: [START.md](START.md).** In short: open a lesson, copy its prompt, paste it into a new chat with your AI assistant and save the card it gives you at the end.
 
-1. Download this repository as a ZIP file and unzip it, or read the files from the project page.
-2. Open `curriculum/en/l00-welcome.md`.
-3. Copy the "Prompt for your assistant" block and paste it into a new chat with your AI assistant.
-4. Follow the conversation. At the end of each session the tutor gives you a *continuity card*: save it and paste it when you open the next chat.
-
-**Route B: assistant with file access**
-
-1. Open this folder with your assistant.
-2. Type: "Let's continue the course."
-3. The assistant reads `AGENTS.md`, creates `PROFILE.md` and `progress.json`, and guides you.
-
-Route A details are in [`docs/no-file-access.md`](docs/no-file-access.md).
+If your assistant can read files, you can also open this folder with it and type "Let's continue the course"; it will read `AGENTS.md` and guide you. This is optional.
 
 ### Privacy
 
