@@ -182,8 +182,8 @@ Una alumna en la semana 5: L0–L2 completadas, L3 completada con aviso, L4 en p
 
 Cuando el asistente no puede escribir archivos, entrega al final de la sesión un **fragmento de parche**: un objeto JSON con solo lo que cambió. El alumno lo guarda tal cual en un archivo de notas, o lo aplica a mano siguiendo estas reglas:
 
-- `lessons[]` y `exercises[]`: la entrada con el mismo `id` sustituye a la anterior.
-- `exercises[].attempts[]` en un parche contiene **todos** los intentos del ejercicio, no solo el nuevo.
+- `lessons[]` y `exercises[]`: la entrada con el mismo `id` se actualiza campo a campo; los campos presentes en el parche sustituyen a los del archivo y los ausentes se mantienen.
+- `exercises[].attempts[]` en un parche contiene **todos** los intentos del ejercicio, no solo el nuevo, y sustituye a la lista completa.
 - `warnings[]`: se añade la entrada si el `id` no existe; si existe, sustituye a la anterior.
 - `student`, `current` y `updatedAt`: se copian.
 
