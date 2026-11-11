@@ -107,14 +107,18 @@ Las fases 1 a 3 fijan la mecánica con poco contenido; si algo del diseño falla
 
 ## 7. Criterios de aceptación
 
-- [ ] El temario no menciona certificaciones, marcas ni productos.
-- [ ] No hay código en el curso; los agentes de programación solo aparecen como concepto en L9.
-- [ ] `curriculum/` y `exercises/` tienen carpetas `es/` y `en/` con los mismos nombres: 12 lecciones y 10 ejercicios.
-- [ ] La regla de traducción define `lang`, `translationOf`, `version` y `sourceVersion`.
-- [ ] El ejemplo de `progress.json` es JSON válido y cubre todos los estados.
-- [ ] El protocolo contempla el segundo fallo sin bloquear.
-- [ ] La rúbrica tiene 5 dimensiones y 4 niveles.
-- [ ] El mapa suma 70 horas en 12 semanas.
-- [ ] Ninguna lección ni ejercicio exige pago, adjuntos, búsqueda web del asistente ni funciones fuera del chat de texto.
-- [ ] Cada prompt y cada sesión cumplen el presupuesto de diseño.
+- [x] El temario no menciona certificaciones, marcas ni productos.
+- [x] No hay código en el curso; los agentes de programación solo aparecen como concepto en L9.
+- [x] `curriculum/` y `exercises/` tienen carpetas `es/` y `en/` con los mismos nombres: 12 lecciones y 10 ejercicios.
+- [x] La regla de traducción define `lang`, `translationOf`, `version` y `sourceVersion`.
+- [x] El ejemplo de `progress.json` es JSON válido y cubre todos los estados.
+- [x] El protocolo contempla el segundo fallo sin bloquear.
+- [x] La rúbrica tiene 5 dimensiones y 4 niveles.
+- [x] El mapa suma 70 horas en 12 semanas.
+- [x] Ninguna lección ni ejercicio exige pago, adjuntos, búsqueda web del asistente ni funciones fuera del chat de texto.
+- [x] Cada prompt y cada sesión cumplen el presupuesto de diseño.
 - [ ] El ciclo entrevista → L1 → E1 se ha completado en el plan gratuito de al menos cuatro asistentes, tres de ellos solo con chat de texto.
+
+## 8. Estado de la implementación
+
+Fases 1 a 6 implementadas en la rama `feature/course-scaffold` (contenido ES y EN completo, plantillas, rúbrica, glosario, accesibilidad y estado de traducción). Pendiente, porque exige personas y asistentes reales: el piloto del último criterio de aceptación (entrevista → L1 → E1 en los planes gratuitos de al menos cuatro asistentes) y la matriz de planes gratuitos con fecha de revisión.

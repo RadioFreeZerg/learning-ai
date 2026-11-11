@@ -46,3 +46,7 @@ El asistente del mantenedor recorre los pares de `curriculum/`, `exercises/` y `
 ## Cuando el alumno estudia en inglés
 
 Si su lección está atrasada, el tutor se lo avisa una vez y ofrece trabajar desde el original en español. Ver `AGENTS.md`, regla 2.3.
+
+## Coherencia entre lección y prompt
+
+Cada bloque «Prompt para tu asistente» y «Prompt de revisión» se construye a partir de las secciones de su propia lección o ejercicio (objetivos, conceptos, actividad, preguntas, ítems y criterios). Si cambias una sección, actualiza el prompt correspondiente en el mismo cambio y en ambos idiomas, y comprueba que sigue por debajo de 1.200 palabras.
