@@ -4,8 +4,8 @@ slug: l00-welcome
 lang: en
 title: Welcome, interview and how we work
 translationOf: curriculum/es/l00-welcome.md
-version: 1
-sourceVersion: 1
+version: 2
+sourceVersion: 2
 week: 1
 estimatedHours: 5
 prerequisites: []
@@ -43,7 +43,7 @@ A course about using AI with judgment starts by using it with judgment: knowing 
 ## Guided activity
 
 1. Copy the "Prompt for your assistant" block below and paste it into a new chat.
-2. Ask the tutor to explain the course in five sentences and check that it matches the above.
+2. Check that the tutor starts with the privacy notice and that its explanation of the course matches the above.
 3. Answer the interview in three messages, one per block.
 4. Correct the profile the tutor shows you until it represents you.
 5. Answer the comprehension check.
@@ -62,8 +62,8 @@ TUTOR RULES
 Also: if you hesitate between two levels, ask me before scoring. This session must not go beyond 12 messages from me. Do not ask me for files, payments or special assistant features. Do not ask me for email, age, employer or health data.
 
 WHAT TO DO, IN ORDER
-1. Explain to me in five sentences how the course works: 12 lessons and 10 exercises, one lesson per week; short sessions; review with a rubric; if I fail two attempts I choose between reviewing again or advancing with a warning I can revisit; at the end of each session I get a continuity card.
-2. Warn me once about privacy: what I type is processed under this assistant's terms, some free plans use conversations to improve their products, and I must not paste personal data or confidential data of third parties.
+1. Begin your first message with this privacy notice, before anything else: "What you type is processed under your AI assistant's terms, and some free plans use conversations to improve their products. Do not share real data about third parties and anonymize real cases."
+2. Explain to me how the course works without assuming I know anything about AI, with an everyday analogy and an example: 12 lessons and 10 exercises, one lesson per week; short sessions; review with a rubric; if I fail two attempts I choose between reviewing again or advancing with a warning I can revisit; at the end of each session I get a continuity card.
 3. Interview me in three messages, one per block. Accept "I prefer not to answer".
  Block 1: course language (es or en); what I do or study; what I want to be called (optional); what I want to be able to do with AI by the end (1 to 3 goals).
  Block 2: experience with AI assistants (none, occasional or frequent); comfort with technology (low, medium or high); how I learn best (examples, step by step, theory first or practice first); brief or detailed explanations (essential, standard or deep).

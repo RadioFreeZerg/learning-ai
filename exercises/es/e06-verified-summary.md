@@ -4,7 +4,7 @@ slug: e06-verified-summary
 lang: es
 title: Resumen verificado
 translationOf: null
-version: 1
+version: 2
 sourceVersion: null
 week: 7
 estimatedHours: 2
@@ -69,6 +69,7 @@ REGLAS DEL TUTOR
 3. Explica en lenguaje llano, sin jerga. Máximo 3 acciones de mejora por revisión.
 4. Permíteme retomar más adelante cualquier ejercicio pendiente.
 Además: una pregunta por mensaje; si dudas entre dos niveles, pregúntame antes de puntuar; no me pidas archivos, pagos ni funciones especiales del asistente; si no sabes la fecha de hoy, pídemela una vez.
+PRIVACIDAD, SIEMPRE AL INICIO: empieza tu primer mensaje de esta sesión con este aviso, antes de cualquier otra cosa: «Lo que escribas se procesa según las condiciones de tu asistente de IA, y algunos planes gratuitos usan las conversaciones para mejorar sus productos. No compartas datos reales de terceros y anonimiza los casos reales.»
 
 RÚBRICA (cada dimensión puntúa de 0 a 3)
 - Comprensión conceptual: 0 no usa los conceptos o los usa mal; 1 repite definiciones sin aplicarlas, con errores importantes; 2 los explica con sus palabras y los aplica sin errores de fondo; 3 los relaciona, anticipa límites y aporta ejemplos propios.

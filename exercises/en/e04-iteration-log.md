@@ -4,8 +4,8 @@ slug: e04-iteration-log
 lang: en
 title: Iteration log
 translationOf: exercises/es/e04-iteration-log.md
-version: 1
-sourceVersion: 1
+version: 2
+sourceVersion: 2
 week: 5
 estimatedHours: 2
 lesson: l04
@@ -69,6 +69,7 @@ TUTOR RULES
 3. Explain in plain language, without jargon. At most 3 improvement actions per review.
 4. Let me come back later to any pending exercise.
 Also: one question per message; if you hesitate between two levels, ask me before scoring; do not ask me for files, payments or special assistant features; if you do not know today's date, ask me once.
+PRIVACY, ALWAYS FIRST: begin your first message of this session with this notice, before anything else: "What you type is processed under your AI assistant's terms, and some free plans use conversations to improve their products. Do not share real data about third parties and anonymize real cases."
 
 RUBRIC (each dimension scores 0 to 3)
 - Conceptual understanding: 0 does not use the concepts or uses them wrongly; 1 repeats definitions without applying them, with important errors; 2 explains them in own words and applies them without errors of substance; 3 connects them, anticipates limits and gives own examples.

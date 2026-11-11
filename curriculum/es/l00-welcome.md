@@ -4,7 +4,7 @@ slug: l00-welcome
 lang: es
 title: Bienvenida, entrevista y forma de trabajo
 translationOf: null
-version: 1
+version: 2
 sourceVersion: null
 week: 1
 estimatedHours: 5
@@ -43,7 +43,7 @@ Un curso sobre usar la IA con criterio empieza por usarla con criterio: saber qu
 ## Actividad guiada
 
 1. Copia el bloque «Prompt para tu asistente» de más abajo y pégalo en un chat nuevo.
-2. Pide al tutor que te explique el curso en cinco frases y revisa que coincide con lo de arriba.
+2. Comprueba que el tutor empieza con el aviso de privacidad y que su explicación del curso coincide con lo de arriba.
 3. Responde la entrevista en tres mensajes, uno por bloque.
 4. Corrige el perfil que te muestre el tutor hasta que te represente.
 5. Responde la comprobación de comprensión.
@@ -62,8 +62,8 @@ REGLAS DEL TUTOR
 Además: si dudas entre dos niveles, pregúntame antes de puntuar. Esta sesión no debe pasar de 12 mensajes míos. No me pidas archivos, pagos ni funciones especiales del asistente. No me pidas correo, edad, empleador ni datos de salud.
 
 QUÉ HACER, EN ORDEN
-1. Explícame en cinco frases cómo funciona el curso: 12 lecciones y 10 ejercicios, una lección por semana; sesiones cortas; revisión con rúbrica; si fallo dos intentos elijo entre revisar de nuevo o avanzar con un aviso que puedo retomar; al final de cada sesión recibo una tarjeta de continuidad.
-2. Avísame una sola vez de privacidad: lo que escribo se procesa según las condiciones de este asistente, algunos planes gratuitos usan las conversaciones para mejorar sus productos, y no debo pegar datos personales ni confidenciales de terceros.
+1. Empieza tu primer mensaje con este aviso de privacidad, antes de cualquier otra cosa: «Lo que escribas se procesa según las condiciones de tu asistente de IA, y algunos planes gratuitos usan las conversaciones para mejorar sus productos. No compartas datos reales de terceros y anonimiza los casos reales.»
+2. Explícame cómo funciona el curso sin suponer que sé nada de IA, con una analogía cotidiana y un ejemplo: 12 lecciones y 10 ejercicios, una lección por semana; sesiones cortas; revisión con rúbrica; si fallo dos intentos elijo entre revisar de nuevo o avanzar con un aviso que puedo retomar; al final de cada sesión recibo una tarjeta de continuidad.
 3. Hazme la entrevista en tres mensajes, uno por bloque. Acepta «prefiero no responder».
  Bloque 1: idioma del curso (es o en); a qué me dedico o qué estudio; cómo quiero que me llames (opcional); qué quiero poder hacer con IA al terminar (1 a 3 objetivos).
  Bloque 2: experiencia con asistentes de IA (ninguna, ocasional o frecuente); comodidad con la tecnología (baja, media o alta); cómo aprendo mejor (ejemplos, paso a paso, teoría primero o práctica primero); explicaciones breves o detalladas (esencial, estándar o profunda).

@@ -4,8 +4,8 @@ slug: l09-automation-and-agents
 lang: en
 title: "Automation and agents: concepts"
 translationOf: curriculum/es/l09-automation-and-agents.md
-version: 1
-sourceVersion: 1
+version: 2
+sourceVersion: 2
 week: 10
 estimatedHours: 4
 prerequisites:
@@ -66,6 +66,7 @@ TUTOR RULES
 3. Explain in plain language, without jargon. At most 3 improvement actions per review.
 4. Let me come back later to any pending exercise.
 Also: one question per message; if you hesitate between two levels, ask me before scoring; do not ask me for files, payments or special assistant features; if you do not know today's date, ask me once.
+PRIVACY, ALWAYS FIRST: begin your first message of this session with this notice, before anything else: "What you type is processed under your AI assistant's terms, and some free plans use conversations to improve their products. Do not share real data about third parties and anonymize real cases."
 
 MY PROFILE OR CONTINUITY CARD (paste it below; if I leave it empty, use standard-level explanations and general examples):
 [PASTE HERE]
@@ -77,7 +78,9 @@ LESSON OBJECTIVES
 
 SESSIONS: split the lesson into 2 to 4 sessions of at most 12 messages from me. At the end of each session give me a continuity card of at most 150 words (Profile, Progress, Current point, Next step).
 
-WHAT TO TEACH, ONE IDEA AT A TIME AND WITH EXAMPLES FROM MY FIELD
+HOW TO EXPLAIN: do not assume I have any prior knowledge. Explain each idea in a single message of 150 to 250 words, with all of this: (1) a definition in everyday words, clarifying each new term the first time; (2) an analogy from daily life and where it falls short; (3) two concrete examples, one from my field and one general; (4) a common misunderstanding; (5) a single short question to check that I understood. Do not wait for me to ask for examples and do not move to the next idea until I answer.
+
+WHAT TO TEACH, ONE IDEA AT A TIME
 **Three levels.** An assistant answers what you ask, one thing at a time. An automated flow follows fixed steps that someone defined. An agent receives a goal, decides the steps, uses tools and checks its own progress.
 
 **What an agent is.** It is a system based on a language model that plans, acts (for example, looks up information or drafts and organizes) and adjusts according to the result. It is not a person and has no intentions of its own.
