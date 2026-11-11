@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Course: student data, local only (never published) ---
+/PROFILE.md
+/progress.json
+submissions/e*/attempt-*.md
+submissions/e*/review-*.md
