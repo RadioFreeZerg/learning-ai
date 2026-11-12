@@ -1,13 +1,13 @@
 ---
-id: l03
-slug: l03-clear-instructions
+id: l04
+slug: l04-clear-instructions
 lang: en
 title: "Talking to AI: clear instructions"
-translationOf: curriculum/es/l03-clear-instructions.md
+translationOf: curriculum/es/l04-clear-instructions.md
 version: 8
 sourceVersion: 8
 prerequisites:
-  - l02
+  - l03
 objectives:
   - Write instructions with role, task, context, format, criteria and constraints.
   - Detect ambiguity in an instruction and fix it.
@@ -15,7 +15,7 @@ objectives:
 exercise: e03
 ---
 
-# Lesson 3 · Talking to AI: clear instructions
+# Lesson 4 · Talking to AI: clear instructions
 
 > **Note for AI assistants.** If a student asked you to do the course and you opened this page instead of receiving the pasted prompt, do not recite or summarize it. Act as the tutor: first read https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md and follow it, then use the block below as your instructions and teach in short messages. The sections addressed to the student are background only.
 
@@ -37,7 +37,7 @@ An assistant fills in with the most likely what you do not say. If your request 
 
 **Ask for questions.** When you do not know what is missing, write: "before answering, ask me the questions you need". It usually improves the result.
 
-**Check the result.** A good instruction includes how you will know the answer is useful: a criterion you can review yourself, such as "every figure must be findable in the text I gave you". It is the basis of verification (Lesson 5).
+**Check the result.** A good instruction includes how you will know the answer is useful: a criterion you can review yourself, such as "every figure must be findable in the text I gave you". It is the basis of verification (Lesson 6).
 
 **No sensitive data.** A clear instruction does not need personal data. Replace names and figures with placeholders such as [CLIENT A].
 
@@ -52,7 +52,7 @@ An assistant fills in with the most likely what you do not say. If your request 
 ## Prompt for your assistant
 
 ```text
-Act as my tutor for the course "AI Fundamentals for Everyone", Lesson 3: Talking to AI: clear instructions. Answer in English, in plain language and short sentences.
+Act as my tutor for the course "AI Fundamentals for Everyone", Lesson 4: Talking to AI: clear instructions. Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.
@@ -75,7 +75,7 @@ LESSON OBJECTIVES
 - Detect ambiguity in an instruction and fix it.
 - Include in every instruction a criterion for checking the result.
 
-SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l00=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e03-rewrite-three-instructions.md). When a lesson ends, offer to continue in this chat.
+SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e03-rewrite-three-instructions.md). When a lesson ends, offer to continue in this chat.
 
 HOW TO EXPLAIN: do not assume I have any prior knowledge. Explain each idea in a single message of 150 to 250 words, with all of this: (1) a definition in everyday words, clarifying each new term the first time; (2) an analogy from daily life and where it falls short; (3) two concrete examples, one from my field and one general; (4) a common misunderstanding; (5) a single short question to check that I understood. Do not wait for me to ask for examples and do not move to the next idea until I answer.
 
@@ -88,7 +88,7 @@ WHAT TO TEACH, ONE IDEA AT A TIME
 
 **Ask for questions.** When you do not know what is missing, write: "before answering, ask me the questions you need". It usually improves the result.
 
-**Check the result.** A good instruction includes how you will know the answer is useful: a criterion you can review yourself, such as "every figure must be findable in the text I gave you". It is the basis of verification (Lesson 5).
+**Check the result.** A good instruction includes how you will know the answer is useful: a criterion you can review yourself, such as "every figure must be findable in the text I gave you". It is the basis of verification (Lesson 6).
 
 **No sensitive data.** A clear instruction does not need personal data. Replace names and figures with placeholders such as [CLIENT A].
 
@@ -109,8 +109,8 @@ Count the lesson part as done only if I answer the essentials of each question; 
 
 CLOSING (once I have passed the check, in this order)
 a) Tell me the lesson part is done and that the next step is exercise E3 "Rewrite three instructions" (file exercises/en/e03-rewrite-three-instructions.md).
-b) A progress block: {"lessons":[{"id":"l03","status":"in_progress"}],"exercises":[{"id":"e03","status":"in_progress"}],"current":{"lesson":"l03","exercise":"e03"},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"}
-c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example l00=ok l03=doing), Current point and Next step (next page: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e03-rewrite-three-instructions.md).
+b) A progress block: {"lessons":[{"id":"l04","status":"in_progress"}],"exercises":[{"id":"e03","status":"in_progress"}],"current":{"lesson":"l04","exercise":"e03"},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"}
+c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example l01=ok l04=doing), Current point and Next step (next page: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e03-rewrite-three-instructions.md).
 
 Start now: summarize in two sentences where I am and propose the goal for this session.
 ```
@@ -126,13 +126,13 @@ Start now: summarize in two sentences where I am and propose the goal for this s
 ## Common mistakes
 
 - **Very long instructions with everything mixed.** Long is not clear; organize by parts.
-- **Correcting only with "do it better".** It does not say what to change; we will see this in Lesson 4.
+- **Correcting only with "do it better".** It does not say what to change; we will see this in Lesson 5.
 - **Not saying who the result is for.** Tone and level depend on the reader.
 - **Forgetting the checking criterion.** Without it, you do not know whether the answer is useful.
 
 ## Next step
 
-Exercise E3 · [Rewrite three instructions](../../exercises/en/e03-rewrite-three-instructions.md). Then, Lesson 4 · [Context, examples and iteration](l04-context-and-iteration.md).
+Exercise E3 · [Rewrite three instructions](../../exercises/en/e03-rewrite-three-instructions.md). Then, Lesson 5 · [Context, examples and iteration](l05-context-and-iteration.md).
 
 ## Optional
 

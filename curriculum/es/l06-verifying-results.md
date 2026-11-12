@@ -1,13 +1,13 @@
 ---
-id: l05
-slug: l05-verifying-results
+id: l06
+slug: l06-verifying-results
 lang: es
 title: "Verificar resultados: errores, invenciones y fuentes"
 translationOf: null
 version: 8
 sourceVersion: null
 prerequisites:
-  - l04
+  - l05
 objectives:
   - Reconocer los tipos de error más frecuentes en las respuestas de un asistente.
   - Elegir cuánta verificación pide cada uso con un semáforo de riesgo.
@@ -75,7 +75,7 @@ OBJETIVOS DE LA LECCIÓN
 - Elegir cuánta verificación pide cada uso con un semáforo de riesgo.
 - Comprobar afirmaciones con métodos independientes del asistente y documentar el resultado.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l00=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e05-verification-report.md). Al terminar una lección, ofréceme seguir en este chat.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e05-verification-report.md). Al terminar una lección, ofréceme seguir en este chat.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 
@@ -109,8 +109,8 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E5 «Informe de verificación» (archivo exercises/es/e05-verification-report.md).
-b) Un bloque de progreso: {"lessons":[{"id":"l05","status":"in_progress"}],"exercises":[{"id":"e05","status":"in_progress"}],"current":{"lesson":"l05","exercise":"e05"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo l00=ok l05=doing), Punto actual y Siguiente paso (página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e05-verification-report.md).
+b) Un bloque de progreso: {"lessons":[{"id":"l06","status":"in_progress"}],"exercises":[{"id":"e05","status":"in_progress"}],"current":{"lesson":"l06","exercise":"e05"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo l01=ok l06=doing), Punto actual y Siguiente paso (página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e05-verification-report.md).
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -132,7 +132,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E5 · [Informe de verificación](../../exercises/es/e05-verification-report.md). Después, Lección 7 · [Trabajar con documentos y datos propios](l06-documents-and-data.md).
+Ejercicio E5 · [Informe de verificación](../../exercises/es/e05-verification-report.md). Después, Lección 7 · [Trabajar con documentos y datos propios](l07-documents-and-data.md).
 
 ## Opcional
 

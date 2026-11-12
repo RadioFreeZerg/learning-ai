@@ -26,9 +26,9 @@ Cada sesión termina con una tarjeta de 150 palabras como máximo. El alumno la 
 ```text
 TARJETA DE CONTINUIDAD
 Perfil: idioma=es; rol=...; profundidad=...; accesibilidad=...   (o: omitido)
-Progreso: l00=ok l01=ok l02=doing | E1=ok
-Punto actual: l02 (Lección 3), parte 2 de 3; falta: la actividad guiada
-Siguiente paso: seguir en el mismo chat o abrir uno nuevo con esta tarjeta; página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l03-clear-instructions.md
+Progreso: l01=ok l02=ok l03=doing | E1=ok
+Punto actual: l03 (Lección 3), parte 2 de 3; falta: la actividad guiada
+Siguiente paso: seguir en el mismo chat o abrir uno nuevo con esta tarjeta; página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l04-clear-instructions.md
 ```
 
 ### Línea de progreso

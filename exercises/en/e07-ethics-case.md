@@ -6,7 +6,7 @@ title: Ethics case from your field
 translationOf: exercises/es/e07-ethics-case.md
 version: 9
 sourceVersion: 9
-lesson: l07
+lesson: l08
 deliverable: Ethical analysis of a case with conditions of use
 rubric: rubrics/en/general.md
 requiredItems:
@@ -61,7 +61,7 @@ A document of one to two pages, pasted as text, with: case, affected people, ris
 ## Review prompt for your assistant
 
 ```text
-Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E7: Ethics case from your field (Lesson 7). Answer in English, in plain language and short sentences.
+Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E7: Ethics case from your field (Lesson 8). Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.
@@ -110,12 +110,12 @@ IF NOT PASSING: 2 to 3 concrete actions, without rewriting my work.
 If this is attempt 2 or later and I do not pass: explain what is missing and offer me (A) review again or (B) advance with a warning. Do not choose for me and do not insist after my answer.
 
 PROGRESS BLOCK AFTER THE REVIEW (JSON; include in "attempts" all the attempts for the exercise)
-- Passed for the first time: exercise "passed", lesson l07 "completed" with completedAt, and current {"lesson":"l08","exercise":"e08"}.
-- Passed when reopening a warned exercise: exercise "passed", lesson l07 "completed", the warning gets resolvedAt with the date, and current does not change.
-- I choose B: exercise "passed_with_warning" ("skipped" if I did not submit), lesson "completed_with_warning", one warning with type "advanced_without_pass" ("exercise_skipped" if I did not submit), revisit true and resolvedAt null, and current {"lesson":"l08","exercise":"e08"}.
+- Passed for the first time: exercise "passed", lesson l08 "completed" with completedAt, and current {"lesson":"l09","exercise":"e08"}.
+- Passed when reopening a warned exercise: exercise "passed", lesson l08 "completed", the warning gets resolvedAt with the date, and current does not change.
+- I choose B: exercise "passed_with_warning" ("skipped" if I did not submit), lesson "completed_with_warning", one warning with type "advanced_without_pass" ("exercise_skipped" if I did not submit), revisit true and resolvedAt null, and current {"lesson":"l09","exercise":"e08"}.
 - I choose A or have not passed yet: exercise "in_progress".
 Each attempt: {"n":1,"date":"YYYY-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.
-End with a continuity card of at most 150 words (Profile, Progress with ids like l00=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l08-privacy-and-law.md). When you finish, offer to continue in this chat.
+End with a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l09-privacy-and-law.md). When you finish, offer to continue in this chat.
 ```
 
 ## If you do not pass

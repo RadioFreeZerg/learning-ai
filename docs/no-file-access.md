@@ -12,7 +12,7 @@ Esta ruta funciona en cualquier chat de texto, incluidos los planes gratuitos: c
 
 ### Cómo se trabaja
 
-1. **Primera vez.** Pega en un chat nuevo el mensaje de una línea de `EMPEZAR.md`: si tu asistente puede abrir enlaces, lee las reglas y la lección por su cuenta. Si no puede, o te devuelve el texto de la página en lugar de enseñarte, abre `curriculum/es/l00-welcome.md` en tu navegador, copia el bloque «Prompt para tu asistente» y pégalo en un chat nuevo. El tutor te hace la entrevista.
+1. **Primera vez.** Pega en un chat nuevo el mensaje de una línea de `EMPEZAR.md`: si tu asistente puede abrir enlaces, lee las reglas y la lección por su cuenta. Si no puede, o te devuelve el texto de la página en lugar de enseñarte, abre `curriculum/es/l01-welcome.md` en tu navegador, copia el bloque «Prompt para tu asistente» y pégalo en un chat nuevo. El tutor te hace la entrevista.
 2. **Al terminar cada sesión.** El tutor te entrega una *tarjeta de continuidad* de 150 palabras como máximo. Cópiala a tu archivo de notas.
 3. **Al empezar la sesión siguiente.** Normalmente sigues en el mismo chat. Si abres uno nuevo, pega el mensaje de continuación de `EMPEZAR.md` con tu tarjeta: el tutor lee la página del «Siguiente paso». Si no puede abrir enlaces, pega el «Prompt para tu asistente» de esa lección y, donde dice `[PEGA AQUÍ]`, tu tarjeta: la tarjeta sola no le da al tutor el contenido de la lección.
 4. **Ejercicios.** Haz el entregable en tu archivo de notas. Cuando esté listo, pega en un solo mensaje el «Prompt de revisión» del ejercicio, el número de intento y tu entrega. El tutor devuelve la revisión completa en una respuesta.
@@ -42,7 +42,7 @@ Lo que escribas lo procesa tu asistente según sus condiciones; algunos planes g
 
 ### How to work
 
-1. **First time.** Paste the one-message start from `START.md` into a new chat: if your assistant can open links, it reads the rules and the lesson on its own. If it cannot, or it hands you the page text instead of teaching, open `curriculum/en/l00-welcome.md` in your browser, copy the "Prompt for your assistant" block and paste it into a new chat. The tutor runs the interview.
+1. **First time.** Paste the one-message start from `START.md` into a new chat: if your assistant can open links, it reads the rules and the lesson on its own. If it cannot, or it hands you the page text instead of teaching, open `curriculum/en/l01-welcome.md` in your browser, copy the "Prompt for your assistant" block and paste it into a new chat. The tutor runs the interview.
 2. **At the end of every session.** The tutor hands you a *continuity card* of at most 150 words. Copy it to your notes file.
 3. **At the start of the next session.** Usually you keep going in the same chat. If you open a new one, paste the continuation message from `START.md` with your card: the tutor reads the page in "Next step". If it cannot open links, paste that lesson's "Prompt for your assistant" and, where it says `[PASTE HERE]`, your card: the card alone does not give the tutor the lesson content.
 4. **Exercises.** Write the deliverable in your notes file. When it is ready, paste the exercise's "Review prompt", the attempt number and your submission in a single message. The tutor returns the full review in one answer.

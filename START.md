@@ -7,12 +7,12 @@ You do not need to install anything, code or pay. You only need a chat with an A
 1. **Paste this message into a new chat** with your AI assistant and send it:
 
 ```text
-Be my tutor for the course "AI Fundamentals for Everyone". First read https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md and follow its rules. Then read https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l00-welcome.md and start Lesson 0 with its "Prompt for your assistant" block. Do not recite the pages to me: teach me in short messages. If you cannot open the links, tell me in one sentence and I will paste the prompt.
+Be my tutor for the course "AI Fundamentals for Everyone". First read https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md and follow its rules. Then read https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l01-welcome.md and start Lesson 1 with its "Prompt for your assistant" block. Do not recite the pages to me: teach me in short messages. If you cannot open the links, tell me in one sentence and I will paste the prompt.
 ```
 
 2. **Save what it gives you at the end.** The tutor finishes each lesson with a *continuity card* (a short summary). Copy it into your notes: you will need it if you change chat or assistant.
 
-**If the assistant says it cannot open the links** (some free plans cannot), use the manual route: open [Lesson 0 · Welcome](curriculum/en/l00-welcome.md) in your browser, scroll to the section "Prompt for your assistant", copy that block (the copy button is in its top-right corner) and paste it into a new chat.
+**If the assistant says it cannot open the links** (some free plans cannot), use the manual route: open [Lesson 1 · Welcome](curriculum/en/l01-welcome.md) in your browser, scroll to the section "Prompt for your assistant", copy that block (the copy button is in its top-right corner) and paste it into a new chat.
 
 ## The following sessions
 

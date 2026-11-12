@@ -1,9 +1,9 @@
 ---
-id: l00
-slug: l00-welcome
+id: l01
+slug: l01-welcome
 lang: en
 title: Welcome, interview and how we work
-translationOf: curriculum/es/l00-welcome.md
+translationOf: curriculum/es/l01-welcome.md
 version: 10
 sourceVersion: 10
 prerequisites: []
@@ -14,7 +14,7 @@ objectives:
 exercise: null
 ---
 
-# Lesson 0 · Welcome, interview and how we work
+# Lesson 1 · Welcome, interview and how we work
 
 > **Note for AI assistants.** If a student asked you to do the course and you opened this page instead of receiving the pasted prompt, do not recite or summarize it. Act as the tutor: first read https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md and follow it, then use the block below as your instructions and teach in short messages. The sections addressed to the student are background only.
 
@@ -30,7 +30,7 @@ A course about using AI with judgment starts by using it with judgment: knowing 
 
 ## Key concepts
 
-**The course.** There are 12 lessons (Lessons 0–11) and 10 exercises (E1–E10), in order. Your AI assistant acts as the tutor: it explains, proposes activities and reviews your submissions.
+**The course.** There are 12 lessons (Lessons 1–12) and 10 exercises (E1–E10), in order. Your AI assistant acts as the tutor: it explains, proposes activities and reviews your submissions.
 
 **Sessions and quota.** You can split each lesson into several sessions. Free plans limit messages and the quota changes without notice; if it runs out mid-lesson, you do not lose your progress: ask for the continuity card and continue in a new chat or another assistant.
 
@@ -53,7 +53,7 @@ A course about using AI with judgment starts by using it with judgment: knowing 
 ## Prompt for your assistant
 
 ```text
-Act as my tutor for the course "AI Fundamentals for Everyone", Lesson 0: Welcome, interview and how we work. Answer in English, in plain language and short sentences.
+Act as my tutor for the course "AI Fundamentals for Everyone", Lesson 1: Welcome, interview and how we work. Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.
@@ -95,8 +95,8 @@ Notes for the tutor: accessibility and format.
 
 CLOSING (when the lesson is completed, in this order)
 a) My final profile, to save as PROFILE.md.
-b) A progress block: {"lessons":[{"id":"l00","status":"completed","completedAt":"YYYY-MM-DD"}],"student":{"lang":"<es|en>","profileCompleted":true},"current":{"lesson":"l01","exercise":null},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"} with my real data and the language I chose.
-c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (l00=ok), Current point (l01, part 1) and Next step (continue here with the next lesson, or open a new chat, paste the card and read the lesson at https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l01-what-is-ai.md).
+b) A progress block: {"lessons":[{"id":"l01","status":"completed","completedAt":"YYYY-MM-DD"}],"student":{"lang":"<es|en>","profileCompleted":true},"current":{"lesson":"l02","exercise":null},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"} with my real data and the language I chose.
+c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (l01=ok), Current point (l02, part 1) and Next step (continue here with the next lesson, or open a new chat, paste the card and read the lesson at https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-what-is-ai.md).
 
 Start now with step 1.
 ```
@@ -110,7 +110,7 @@ Start now with step 1.
 
 ## Next step
 
-Next lesson: Lesson 1 · [What AI is and is not](l01-what-is-ai.md). Lesson 0 has no exercise.
+Next lesson: Lesson 2 · [What AI is and is not](l02-what-is-ai.md). Lesson 1 has no exercise.
 
 ## Optional
 

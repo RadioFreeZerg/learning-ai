@@ -1,13 +1,13 @@
 ---
-id: l01
-slug: l01-what-is-ai
+id: l02
+slug: l02-what-is-ai
 lang: es
 title: Qué es y qué no es la IA
 translationOf: null
 version: 9
 sourceVersion: null
 prerequisites:
-  - l00
+  - l01
 objectives:
   - Distinguir un programa tradicional, una automatización y un asistente de IA generativa.
   - Explicar con tus palabras qué suele hacer bien y mal un asistente de IA.
@@ -77,7 +77,7 @@ OBJETIVOS DE LA LECCIÓN
 - Explicar con tus palabras qué suele hacer bien y mal un asistente de IA.
 - Reconocer los mitos más frecuentes sobre la IA y por qué son falsos o incompletos.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l00=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e01-myths-and-facts.md). Al terminar una lección, ofréceme seguir en este chat.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e01-myths-and-facts.md). Al terminar una lección, ofréceme seguir en este chat.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 
@@ -113,8 +113,8 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E1 «Mitos y realidades» (archivo exercises/es/e01-myths-and-facts.md).
-b) Un bloque de progreso: {"lessons":[{"id":"l01","status":"in_progress"}],"exercises":[{"id":"e01","status":"in_progress"}],"current":{"lesson":"l01","exercise":"e01"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo l00=ok l01=doing), Punto actual y Siguiente paso (página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e01-myths-and-facts.md).
+b) Un bloque de progreso: {"lessons":[{"id":"l02","status":"in_progress"}],"exercises":[{"id":"e01","status":"in_progress"}],"current":{"lesson":"l02","exercise":"e01"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo l01=ok l02=doing), Punto actual y Siguiente paso (página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e01-myths-and-facts.md).
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -138,7 +138,7 @@ El tutor te hace estas preguntas, de una en una:
 
 ## Siguiente paso
 
-Ejercicio E1 · [Mitos y realidades](../../exercises/es/e01-myths-and-facts.md). Después, Lección 3 · [Cómo funciona un modelo de lenguaje, sin matemáticas](l02-how-language-models-work.md).
+Ejercicio E1 · [Mitos y realidades](../../exercises/es/e01-myths-and-facts.md). Después, Lección 3 · [Cómo funciona un modelo de lenguaje, sin matemáticas](l03-how-language-models-work.md).
 
 ## Opcional
 

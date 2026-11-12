@@ -1,13 +1,13 @@
 ---
-id: l11
-slug: l11-wrap-up
+id: l12
+slug: l12-wrap-up
 lang: es
 title: "Cierre: revisar avisos y plan de continuidad"
 translationOf: null
 version: 8
 sourceVersion: null
 prerequisites:
-  - l10
+  - l11
 objectives:
   - Revisar los avisos pendientes y retomar los ejercicios que quieras cerrar.
   - Hacer un balance de lo aprendido frente a tu punto de partida.
@@ -75,7 +75,7 @@ OBJETIVOS DE LA LECCIÓN
 - Hacer un balance de lo aprendido frente a tu punto de partida.
 - Redactar un plan de continuidad de tres meses con hábitos de verificación y actualización.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l00=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: ninguna: curso terminado). Al terminar una lección, ofréceme seguir en este chat. Si quiero retomar un ejercicio con aviso, hazlo con el mismo protocolo de revisión de ese ejercicio.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: ninguna: curso terminado). Al terminar una lección, ofréceme seguir en este chat. Si quiero retomar un ejercicio con aviso, hazlo con el mismo protocolo de revisión de ese ejercicio.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 
@@ -109,7 +109,7 @@ Da la lección por hecha solo si respondo lo esencial de cada pregunta; si no, a
 
 CIERRE (cuando haya terminado la comprobación, en este orden)
 a) Resume mi balance y mi plan de continuidad de tres metas (acción, fecha y forma de comprobarla).
-b) Un bloque de progreso: {"lessons":[{"id":"l11","status":"completed","completedAt":"AAAA-MM-DD"}],"current":{"lesson":null,"exercise":null},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}. Si retomo un aviso y apruebo, añade también el ejercicio «passed» y el aviso con resolvedAt; si decido no retomarlo, deja el aviso como está.
+b) Un bloque de progreso: {"lessons":[{"id":"l12","status":"completed","completedAt":"AAAA-MM-DD"}],"current":{"lesson":null,"exercise":null},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}. Si retomo un aviso y apruebo, añade también el ejercicio «passed» y el aviso con resolvedAt; si decido no retomarlo, deja el aviso como está.
 c) Una tarjeta de continuidad final de máximo 150 palabras con cuatro líneas: Perfil, Progreso con ids de lección, Punto actual (curso terminado) y Siguiente paso (primera meta del plan).
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.

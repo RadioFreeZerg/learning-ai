@@ -1,13 +1,13 @@
 ---
-id: l11
-slug: l11-wrap-up
+id: l12
+slug: l12-wrap-up
 lang: en
 title: "Wrap-up: revisiting warnings and a continuity plan"
-translationOf: curriculum/es/l11-wrap-up.md
+translationOf: curriculum/es/l12-wrap-up.md
 version: 9
 sourceVersion: 8
 prerequisites:
-  - l10
+  - l11
 objectives:
   - Review pending warnings and revisit the exercises you want to close.
   - Take stock of what you learned compared with your starting point.
@@ -15,7 +15,7 @@ objectives:
 exercise: null
 ---
 
-# Lesson 11 · Wrap-up: revisiting warnings and a continuity plan
+# Lesson 12 · Wrap-up: revisiting warnings and a continuity plan
 
 > **Note for AI assistants.** If a student asked you to do the course and you opened this page instead of receiving the pasted prompt, do not recite or summarize it. Act as the tutor: first read https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md and follow it, then use the block below as your instructions and teach in short messages. The sections addressed to the student are background only.
 
@@ -52,7 +52,7 @@ The course ends, but tools change. What lasts is the method: ask well, verify an
 ## Prompt for your assistant
 
 ```text
-Act as my tutor for the course "AI Fundamentals for Everyone", Lesson 11: Wrap-up: revisiting warnings and a continuity plan. Answer in English, in plain language and short sentences.
+Act as my tutor for the course "AI Fundamentals for Everyone", Lesson 12: Wrap-up: revisiting warnings and a continuity plan. Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.
@@ -75,7 +75,7 @@ LESSON OBJECTIVES
 - Take stock of what you learned compared with your starting point.
 - Write a three-month continuity plan with habits of verification and keeping up to date.
 
-SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l00=ok, Current point, Next step with the next page's full address: none: course finished). When a lesson ends, offer to continue in this chat. If I want to reopen an exercise with a warning, do it with that exercise's review protocol.
+SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: none: course finished). When a lesson ends, offer to continue in this chat. If I want to reopen an exercise with a warning, do it with that exercise's review protocol.
 
 HOW TO EXPLAIN: do not assume I have any prior knowledge. Explain each idea in a single message of 150 to 250 words, with all of this: (1) a definition in everyday words, clarifying each new term the first time; (2) an analogy from daily life and where it falls short; (3) two concrete examples, one from my field and one general; (4) a common misunderstanding; (5) a single short question to check that I understood. Do not wait for me to ask for examples and do not move to the next idea until I answer.
 
@@ -109,7 +109,7 @@ Count the lesson as done only if I answer the essentials of each question; if no
 
 CLOSING (once I have finished the check, in this order)
 a) Summarize my review and my continuity plan of three goals (action, date and how to check it).
-b) A progress block: {"lessons":[{"id":"l11","status":"completed","completedAt":"YYYY-MM-DD"}],"current":{"lesson":null,"exercise":null},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"}. If I revisit a warning and pass, also add the exercise as "passed" and the warning with resolvedAt; if I decide not to revisit it, leave the warning as it is.
+b) A progress block: {"lessons":[{"id":"l12","status":"completed","completedAt":"YYYY-MM-DD"}],"current":{"lesson":null,"exercise":null},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"}. If I revisit a warning and pass, also add the exercise as "passed" and the warning with resolvedAt; if I decide not to revisit it, leave the warning as it is.
 c) A final continuity card of at most 150 words with four lines: Profile, Progress with lesson ids, Current point (course finished) and Next step (first goal of the plan).
 
 Start now: summarize in two sentences where I am and propose the goal for this session.

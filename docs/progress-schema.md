@@ -15,7 +15,7 @@
 | `student.profileFile` | texto | Siempre `PROFILE.md` |
 | `student.profileCompleted` | booleano | `true` cuando la entrevista terminó |
 | `student.startedAt` | fecha o `null` | `AAAA-MM-DD` |
-| `current.lesson` | `l00`–`l11` o `null` | Lección en curso; `null` cuando el curso ha terminado |
+| `current.lesson` | `l01`–`l12` o `null` | Lección en curso; `null` cuando el curso ha terminado |
 | `current.exercise` | `e01`–`e10` o `null` | Ejercicio en curso |
 | `lessons[]` | lista de 12 | `id`, `slug`, `status`, `startedAt`, `completedAt`, `warningId` |
 | `exercises[]` | lista de 10 | `id`, `slug`, `lesson`, `status`, `warningId`, `attempts[]` |
@@ -65,7 +65,7 @@ Las versiones anteriores del esquema incluían `course.totalWeeks`, `course.esti
 El tutor comprueba, sin corregir nada en silencio:
 
 1. El archivo es JSON válido.
-2. Hay 12 lecciones (`l00`–`l11`) y 10 ejercicios (`e01`–`e10`) con los `slug` de la plantilla.
+2. Hay 12 lecciones (`l01`–`l12`) y 10 ejercicios (`e01`–`e10`) con los `slug` de la plantilla.
 3. Cada estado es uno de los cinco permitidos para su tipo.
 4. `current.lesson` apunta a una lección que no está `completed` ni `completed_with_warning`, salvo que todo esté terminado; en ese caso, `current.lesson` y `current.exercise` son `null`.
 5. Todo `warningId` existe en `warnings[]` y viceversa.
@@ -95,24 +95,24 @@ Una alumna con Lecciones 1–3 completadas, Lección 4 completada con aviso, Lec
     "profileCompleted": true,
     "startedAt": "2026-11-16"
   },
-  "current": { "lesson": "l04", "exercise": "e04" },
+  "current": { "lesson": "l05", "exercise": "e04" },
   "lessons": [
-    { "id": "l00", "slug": "l00-welcome", "status": "completed", "startedAt": "2026-11-16", "completedAt": "2026-11-18", "warningId": null },
-    { "id": "l01", "slug": "l01-what-is-ai", "status": "completed", "startedAt": "2026-11-23", "completedAt": "2026-11-27", "warningId": null },
-    { "id": "l02", "slug": "l02-how-language-models-work", "status": "completed", "startedAt": "2026-11-30", "completedAt": "2026-12-06", "warningId": null },
-    { "id": "l03", "slug": "l03-clear-instructions", "status": "completed_with_warning", "startedAt": "2026-12-07", "completedAt": "2026-12-13", "warningId": "w001" },
-    { "id": "l04", "slug": "l04-context-and-iteration", "status": "in_progress", "startedAt": "2026-12-14", "completedAt": null, "warningId": null },
-    { "id": "l05", "slug": "l05-verifying-results", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null },
-    { "id": "l06", "slug": "l06-documents-and-data", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null },
-    { "id": "l07", "slug": "l07-ethics-and-bias", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null },
-    { "id": "l08", "slug": "l08-privacy-and-law", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null },
-    { "id": "l09", "slug": "l09-automation-and-agents", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null },
-    { "id": "l10", "slug": "l10-workflow-design", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null },
-    { "id": "l11", "slug": "l11-wrap-up", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null }
+    { "id": "l01", "slug": "l01-welcome", "status": "completed", "startedAt": "2026-11-16", "completedAt": "2026-11-18", "warningId": null },
+    { "id": "l02", "slug": "l02-what-is-ai", "status": "completed", "startedAt": "2026-11-23", "completedAt": "2026-11-27", "warningId": null },
+    { "id": "l03", "slug": "l03-how-language-models-work", "status": "completed", "startedAt": "2026-11-30", "completedAt": "2026-12-06", "warningId": null },
+    { "id": "l04", "slug": "l04-clear-instructions", "status": "completed_with_warning", "startedAt": "2026-12-07", "completedAt": "2026-12-13", "warningId": "w001" },
+    { "id": "l05", "slug": "l05-context-and-iteration", "status": "in_progress", "startedAt": "2026-12-14", "completedAt": null, "warningId": null },
+    { "id": "l06", "slug": "l06-verifying-results", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null },
+    { "id": "l07", "slug": "l07-documents-and-data", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null },
+    { "id": "l08", "slug": "l08-ethics-and-bias", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null },
+    { "id": "l09", "slug": "l09-privacy-and-law", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null },
+    { "id": "l10", "slug": "l10-automation-and-agents", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null },
+    { "id": "l11", "slug": "l11-workflow-design", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null },
+    { "id": "l12", "slug": "l12-wrap-up", "status": "not_started", "startedAt": null, "completedAt": null, "warningId": null }
   ],
   "exercises": [
     {
-      "id": "e01", "slug": "e01-myths-and-facts", "lesson": "l01", "status": "passed", "warningId": null,
+      "id": "e01", "slug": "e01-myths-and-facts", "lesson": "l02", "status": "passed", "warningId": null,
       "attempts": [
         {
           "n": 1, "date": "2026-11-27", "result": "pass", "requiredItemsMet": true,
@@ -122,7 +122,7 @@ Una alumna con Lecciones 1–3 completadas, Lección 4 completada con aviso, Lec
       ]
     },
     {
-      "id": "e02", "slug": "e02-explain-to-a-colleague", "lesson": "l02", "status": "passed", "warningId": null,
+      "id": "e02", "slug": "e02-explain-to-a-colleague", "lesson": "l03", "status": "passed", "warningId": null,
       "attempts": [
         {
           "n": 1, "date": "2026-12-03", "result": "fail", "requiredItemsMet": true,
@@ -137,7 +137,7 @@ Una alumna con Lecciones 1–3 completadas, Lección 4 completada con aviso, Lec
       ]
     },
     {
-      "id": "e03", "slug": "e03-rewrite-three-instructions", "lesson": "l03", "status": "passed_with_warning", "warningId": "w001",
+      "id": "e03", "slug": "e03-rewrite-three-instructions", "lesson": "l04", "status": "passed_with_warning", "warningId": "w001",
       "attempts": [
         {
           "n": 1, "date": "2026-12-10", "result": "fail", "requiredItemsMet": false,
@@ -151,20 +151,20 @@ Una alumna con Lecciones 1–3 completadas, Lección 4 completada con aviso, Lec
         }
       ]
     },
-    { "id": "e04", "slug": "e04-iteration-log", "lesson": "l04", "status": "in_progress", "warningId": null, "attempts": [] },
-    { "id": "e05", "slug": "e05-verification-report", "lesson": "l05", "status": "not_started", "warningId": null, "attempts": [] },
-    { "id": "e06", "slug": "e06-verified-summary", "lesson": "l06", "status": "not_started", "warningId": null, "attempts": [] },
-    { "id": "e07", "slug": "e07-ethics-case", "lesson": "l07", "status": "not_started", "warningId": null, "attempts": [] },
-    { "id": "e08", "slug": "e08-data-traffic-light", "lesson": "l08", "status": "not_started", "warningId": null, "attempts": [] },
-    { "id": "e09", "slug": "e09-automation-map", "lesson": "l09", "status": "not_started", "warningId": null, "attempts": [] },
-    { "id": "e10", "slug": "e10-final-workflow", "lesson": "l10", "status": "not_started", "warningId": null, "attempts": [] }
+    { "id": "e04", "slug": "e04-iteration-log", "lesson": "l05", "status": "in_progress", "warningId": null, "attempts": [] },
+    { "id": "e05", "slug": "e05-verification-report", "lesson": "l06", "status": "not_started", "warningId": null, "attempts": [] },
+    { "id": "e06", "slug": "e06-verified-summary", "lesson": "l07", "status": "not_started", "warningId": null, "attempts": [] },
+    { "id": "e07", "slug": "e07-ethics-case", "lesson": "l08", "status": "not_started", "warningId": null, "attempts": [] },
+    { "id": "e08", "slug": "e08-data-traffic-light", "lesson": "l09", "status": "not_started", "warningId": null, "attempts": [] },
+    { "id": "e09", "slug": "e09-automation-map", "lesson": "l10", "status": "not_started", "warningId": null, "attempts": [] },
+    { "id": "e10", "slug": "e10-final-workflow", "lesson": "l11", "status": "not_started", "warningId": null, "attempts": [] }
   ],
   "warnings": [
     {
       "id": "w001",
       "type": "advanced_without_pass",
       "exercise": "e03",
-      "lesson": "l03",
+      "lesson": "l04",
       "failedDimensions": ["verification"],
       "missingRequiredItems": [],
       "note": "Las instrucciones reescritas no indican cómo comprobar el resultado.",
@@ -191,7 +191,7 @@ Ejemplo: Lección 4 completada y E3 avanzado con aviso.
 
 ```json
 {
-  "lessons": [{ "id": "l03", "slug": "l03-clear-instructions", "status": "completed_with_warning", "startedAt": "2026-12-07", "completedAt": "2026-12-13", "warningId": "w001" }],
+  "lessons": [{ "id": "l04", "slug": "l04-clear-instructions", "status": "completed_with_warning", "startedAt": "2026-12-07", "completedAt": "2026-12-13", "warningId": "w001" }],
   "exercises": [{
     "id": "e03",
     "status": "passed_with_warning",
@@ -201,8 +201,8 @@ Ejemplo: Lección 4 completada y E3 avanzado con aviso.
       { "n": 2, "date": "2026-12-13", "result": "fail", "requiredItemsMet": true, "scores": { "concept": 2, "clarity": 2, "verification": 1, "ethics": 2, "applicability": 2 } }
     ]
   }],
-  "warnings": [{ "id": "w001", "type": "advanced_without_pass", "exercise": "e03", "lesson": "l03", "failedDimensions": ["verification"], "missingRequiredItems": [], "note": "Las instrucciones reescritas no indican cómo comprobar el resultado.", "createdAt": "2026-12-13", "revisit": true, "resolvedAt": null }],
-  "current": { "lesson": "l04", "exercise": "e04" },
+  "warnings": [{ "id": "w001", "type": "advanced_without_pass", "exercise": "e03", "lesson": "l04", "failedDimensions": ["verification"], "missingRequiredItems": [], "note": "Las instrucciones reescritas no indican cómo comprobar el resultado.", "createdAt": "2026-12-13", "revisit": true, "resolvedAt": null }],
+  "current": { "lesson": "l05", "exercise": "e04" },
   "updatedAt": "2026-12-13T20:00:00Z"
 }
 ```

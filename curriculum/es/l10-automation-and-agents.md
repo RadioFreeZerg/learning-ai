@@ -1,13 +1,13 @@
 ---
-id: l09
-slug: l09-automation-and-agents
+id: l10
+slug: l10-automation-and-agents
 lang: es
 title: "Automatización y agentes: conceptos"
 translationOf: null
 version: 8
 sourceVersion: null
 prerequisites:
-  - l08
+  - l09
 objectives:
   - Distinguir un asistente que responde, un flujo automatizado y un agente que actúa por pasos.
   - Identificar tareas de tu trabajo que se pueden automatizar y cuáles no.
@@ -81,7 +81,7 @@ OBJETIVOS DE LA LECCIÓN
 - Identificar tareas de tu trabajo que se pueden automatizar y cuáles no.
 - Valorar los riesgos de dar autonomía a una herramienta y definir puntos de control humano.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l00=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e09-automation-map.md). Al terminar una lección, ofréceme seguir en este chat.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e09-automation-map.md). Al terminar una lección, ofréceme seguir en este chat.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 
@@ -121,8 +121,8 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E9 «Mapa de automatización» (archivo exercises/es/e09-automation-map.md).
-b) Un bloque de progreso: {"lessons":[{"id":"l09","status":"in_progress"}],"exercises":[{"id":"e09","status":"in_progress"}],"current":{"lesson":"l09","exercise":"e09"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo l00=ok l09=doing), Punto actual y Siguiente paso (página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e09-automation-map.md).
+b) Un bloque de progreso: {"lessons":[{"id":"l10","status":"in_progress"}],"exercises":[{"id":"e09","status":"in_progress"}],"current":{"lesson":"l10","exercise":"e09"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo l01=ok l10=doing), Punto actual y Siguiente paso (página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e09-automation-map.md).
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -144,7 +144,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E9 · [Mapa de automatización](../../exercises/es/e09-automation-map.md). Después, Lección 11 · [Diseñar un flujo de trabajo asistido por IA](l10-workflow-design.md).
+Ejercicio E9 · [Mapa de automatización](../../exercises/es/e09-automation-map.md). Después, Lección 11 · [Diseñar un flujo de trabajo asistido por IA](l11-workflow-design.md).
 
 ## Opcional
 

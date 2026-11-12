@@ -6,7 +6,7 @@ title: Myths and facts
 translationOf: exercises/es/e01-myths-and-facts.md
 version: 9
 sourceVersion: 9
-lesson: l01
+lesson: l02
 deliverable: Table or list of 6 statements classified and justified
 rubric: rubrics/en/general.md
 requiredItems:
@@ -58,7 +58,7 @@ A Markdown table with 6 rows and 4 columns (or a list with the same four fields)
 
 | Dimension | For a 2 | For a 3 |
 | --- | --- | --- |
-| Conceptual understanding | The classifications are defensible in at least 5 of 6 and the justifications use the concepts of Lesson 1 (predicts, does not know; generative; responsibility). | All six are defensible and, for those that depend on context, it says what they depend on. |
+| Conceptual understanding | The classifications are defensible in at least 5 of 6 and the justifications use the concepts of Lesson 2 (predicts, does not know; generative; responsibility). | All six are defensible and, for those that depend on context, it says what they depend on. |
 | Clarity and structure | Complete, readable table or equivalent list, one entry per statement. | Concise justifications, understandable without having read the task. |
 | Verification and rigor | At least 2 statements checked against a real excerpt and it says what was observed. | Checks 4 or more, or explains how each observation was checked and admits what could not be checked. |
 | Ethics and risks | Identifies at least one risk of taking an answer as true (for example, spreading an error) and a measure. | Links the risk to a concrete consequence in their field and sets a limit of use. |
@@ -67,7 +67,7 @@ A Markdown table with 6 rows and 4 columns (or a list with the same four fields)
 ## Review prompt for your assistant
 
 ```text
-Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E1: Myths and facts (Lesson 1). Answer in English, in plain language and short sentences.
+Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E1: Myths and facts (Lesson 2). Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.
@@ -95,7 +95,7 @@ REQUIRED ITEMS FOR THIS EXERCISE
 - e1-area: At least one statement is related to a specific task in the student's field.
 
 CRITERIA FOR THIS EXERCISE
-- Conceptual understanding — 2: The classifications are defensible in at least 5 of 6 and the justifications use the concepts of Lesson 1 (predicts, does not know; generative; responsibility). 3: All six are defensible and, for those that depend on context, it says what they depend on.
+- Conceptual understanding — 2: The classifications are defensible in at least 5 of 6 and the justifications use the concepts of Lesson 2 (predicts, does not know; generative; responsibility). 3: All six are defensible and, for those that depend on context, it says what they depend on.
 - Clarity and structure — 2: Complete, readable table or equivalent list, one entry per statement. 3: Concise justifications, understandable without having read the task.
 - Verification and rigor — 2: At least 2 statements checked against a real excerpt and it says what was observed. 3: Checks 4 or more, or explains how each observation was checked and admits what could not be checked.
 - Ethics and risks — 2: Identifies at least one risk of taking an answer as true (for example, spreading an error) and a measure. 3: Links the risk to a concrete consequence in their field and sets a limit of use.
@@ -116,12 +116,12 @@ IF NOT PASSING: 2 to 3 concrete actions, without rewriting my work.
 If this is attempt 2 or later and I do not pass: explain what is missing and offer me (A) review again or (B) advance with a warning. Do not choose for me and do not insist after my answer.
 
 PROGRESS BLOCK AFTER THE REVIEW (JSON; include in "attempts" all the attempts for the exercise)
-- Passed for the first time: exercise "passed", lesson l01 "completed" with completedAt, and current {"lesson":"l02","exercise":"e02"}.
-- Passed when reopening a warned exercise: exercise "passed", lesson l01 "completed", the warning gets resolvedAt with the date, and current does not change.
-- I choose B: exercise "passed_with_warning" ("skipped" if I did not submit), lesson "completed_with_warning", one warning with type "advanced_without_pass" ("exercise_skipped" if I did not submit), revisit true and resolvedAt null, and current {"lesson":"l02","exercise":"e02"}.
+- Passed for the first time: exercise "passed", lesson l02 "completed" with completedAt, and current {"lesson":"l03","exercise":"e02"}.
+- Passed when reopening a warned exercise: exercise "passed", lesson l02 "completed", the warning gets resolvedAt with the date, and current does not change.
+- I choose B: exercise "passed_with_warning" ("skipped" if I did not submit), lesson "completed_with_warning", one warning with type "advanced_without_pass" ("exercise_skipped" if I did not submit), revisit true and resolvedAt null, and current {"lesson":"l03","exercise":"e02"}.
 - I choose A or have not passed yet: exercise "in_progress".
 Each attempt: {"n":1,"date":"YYYY-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.
-End with a continuity card of at most 150 words (Profile, Progress with ids like l00=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-how-language-models-work.md). When you finish, offer to continue in this chat.
+End with a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l03-how-language-models-work.md). When you finish, offer to continue in this chat.
 ```
 
 ## If you do not pass

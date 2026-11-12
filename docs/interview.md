@@ -1,6 +1,6 @@
 # Entrevista inicial · Initial interview
 
-La entrevista ocurre en la Lección 1 y genera `PROFILE.md`. / The interview happens in Lesson 0 and produces `PROFILE.md`.
+La entrevista ocurre en la Lección 1 y genera `PROFILE.md`. / The interview happens in Lesson 1 and produces `PROFILE.md`.
 
 ## Reglas · Rules
 

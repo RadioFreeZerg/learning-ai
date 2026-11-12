@@ -9,7 +9,7 @@ El español es el original; el inglés es una traducción con el mismo slug. Cad
 | `lang` | `es` | `en` |
 | `slug` | Igual al nombre del archivo sin `.md` | Idéntico al de ES |
 | `version` | Entero; sube en 1 con cada cambio de contenido | Entero propio de la traducción |
-| `translationOf` | `null` | Ruta del original, por ejemplo `curriculum/es/l05-verifying-results.md` |
+| `translationOf` | `null` | Ruta del original, por ejemplo `curriculum/es/l06-verifying-results.md` |
 | `sourceVersion` | `null` | `version` del original que se tradujo |
 
 Las plantillas del repositorio (`templates/`) y los documentos de `docs/` no llevan estos campos; se sincronizan a mano.
@@ -41,7 +41,7 @@ El asistente del mantenedor recorre los pares de `curriculum/`, `exercises/` y `
 
 - Se traduce el texto de lecciones, ejercicios y rúbrica, incluidos los prompts de los bloques «Prompt para tu asistente» y «Prompt de revisión».
 - Los identificadores no se traducen: claves de `progress.json`, estados, códigos del perfil (`none`, `occasional`…), identificadores de ítems imprescindibles y nombres de archivo.
-- Los nombres visibles de las lecciones se renumeran por idioma: en español, «Lección 1»–«Lección 12» corresponden a `l00`–`l11`; en inglés, «Lesson 0»–«Lesson 11». Los ids, slugs y nombres de archivo no cambian.
+- Los nombres visibles de las lecciones coinciden en los dos idiomas con su id: «Lección N» y «Lesson N» son `lNN`, de 1 a 12. Los ids, slugs y nombres de archivo son iguales en ambos idiomas.
 - Los títulos y términos clave siguen el [glosario](glossary.md).
 
 ## Cuando el alumno estudia en inglés

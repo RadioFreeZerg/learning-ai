@@ -1,13 +1,13 @@
 ---
-id: l02
-slug: l02-how-language-models-work
+id: l03
+slug: l03-how-language-models-work
 lang: es
 title: Cómo funciona un modelo de lenguaje, sin matemáticas
 translationOf: null
 version: 8
 sourceVersion: null
 prerequisites:
-  - l01
+  - l02
 objectives:
   - Explicar con una analogía propia cómo un modelo de lenguaje genera texto.
   - Describir qué es el contexto de una conversación y por qué tiene un límite.
@@ -79,7 +79,7 @@ OBJETIVOS DE LA LECCIÓN
 - Describir qué es el contexto de una conversación y por qué tiene un límite.
 - Explicar por qué un asistente puede inventar datos y por qué no recuerda chats anteriores.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l00=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e02-explain-to-a-colleague.md). Al terminar una lección, ofréceme seguir en este chat.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e02-explain-to-a-colleague.md). Al terminar una lección, ofréceme seguir en este chat.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 
@@ -117,8 +117,8 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E2 «Explícalo a un colega» (archivo exercises/es/e02-explain-to-a-colleague.md).
-b) Un bloque de progreso: {"lessons":[{"id":"l02","status":"in_progress"}],"exercises":[{"id":"e02","status":"in_progress"}],"current":{"lesson":"l02","exercise":"e02"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo l00=ok l02=doing), Punto actual y Siguiente paso (página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e02-explain-to-a-colleague.md).
+b) Un bloque de progreso: {"lessons":[{"id":"l03","status":"in_progress"}],"exercises":[{"id":"e02","status":"in_progress"}],"current":{"lesson":"l03","exercise":"e02"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo l01=ok l03=doing), Punto actual y Siguiente paso (página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e02-explain-to-a-colleague.md).
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -140,7 +140,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E2 · [Explícalo a un colega](../../exercises/es/e02-explain-to-a-colleague.md). Después, Lección 4 · [Comunicarse con la IA: instrucciones claras](l03-clear-instructions.md).
+Ejercicio E2 · [Explícalo a un colega](../../exercises/es/e02-explain-to-a-colleague.md). Después, Lección 4 · [Comunicarse con la IA: instrucciones claras](l04-clear-instructions.md).
 
 ## Opcional
 

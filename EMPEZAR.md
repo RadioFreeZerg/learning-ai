@@ -7,12 +7,12 @@ No necesitas instalar nada, programar ni pagar. Solo un chat con un asistente de
 1. **Pega este mensaje en un chat nuevo** de tu asistente de IA y envíalo:
 
 ```text
-Sé mi tutor del curso "Fundamentos de IA para todos". Lee primero https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md y sigue sus reglas. Después lee https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l00-welcome.md y empieza la Lección 1 con su bloque «Prompt para tu asistente». No me recites las páginas: enséñame en mensajes cortos. Si no puedes abrir los enlaces, dímelo en una frase y te pego el prompt.
+Sé mi tutor del curso "Fundamentos de IA para todos". Lee primero https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md y sigue sus reglas. Después lee https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l01-welcome.md y empieza la Lección 1 con su bloque «Prompt para tu asistente». No me recites las páginas: enséñame en mensajes cortos. Si no puedes abrir los enlaces, dímelo en una frase y te pego el prompt.
 ```
 
 2. **Guarda lo que te da al final.** El tutor termina cada lección con una *tarjeta de continuidad* (un resumen corto). Cópiala en tus notas: la necesitarás si cambias de chat o de asistente.
 
-**Si el asistente dice que no puede abrir los enlaces** (algunos planes gratuitos no pueden), usa la ruta manual: abre [Lección 1 · Bienvenida](curriculum/es/l00-welcome.md) en tu navegador, baja hasta la sección «Prompt para tu asistente», copia ese bloque (el botón de copiar está en su esquina superior derecha) y pégalo en un chat nuevo.
+**Si el asistente dice que no puede abrir los enlaces** (algunos planes gratuitos no pueden), usa la ruta manual: abre [Lección 1 · Bienvenida](curriculum/es/l01-welcome.md) en tu navegador, baja hasta la sección «Prompt para tu asistente», copia ese bloque (el botón de copiar está en su esquina superior derecha) y pégalo en un chat nuevo.
 
 ## Las siguientes sesiones
 

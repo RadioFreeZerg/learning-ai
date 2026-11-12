@@ -6,7 +6,7 @@ title: Rewrite three instructions
 translationOf: exercises/es/e03-rewrite-three-instructions.md
 version: 8
 sourceVersion: 8
-lesson: l03
+lesson: l04
 deliverable: Three before/after pairs with the reason for each change
 rubric: rubrics/en/general.md
 requiredItems:
@@ -65,7 +65,7 @@ Three "Before / After / Why" blocks, at most 600 words in total, pasted as text.
 ## Review prompt for your assistant
 
 ```text
-Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E3: Rewrite three instructions (Lesson 3). Answer in English, in plain language and short sentences.
+Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E3: Rewrite three instructions (Lesson 4). Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.
@@ -114,12 +114,12 @@ IF NOT PASSING: 2 to 3 concrete actions, without rewriting my work.
 If this is attempt 2 or later and I do not pass: explain what is missing and offer me (A) review again or (B) advance with a warning. Do not choose for me and do not insist after my answer.
 
 PROGRESS BLOCK AFTER THE REVIEW (JSON; include in "attempts" all the attempts for the exercise)
-- Passed for the first time: exercise "passed", lesson l03 "completed" with completedAt, and current {"lesson":"l04","exercise":"e04"}.
-- Passed when reopening a warned exercise: exercise "passed", lesson l03 "completed", the warning gets resolvedAt with the date, and current does not change.
-- I choose B: exercise "passed_with_warning" ("skipped" if I did not submit), lesson "completed_with_warning", one warning with type "advanced_without_pass" ("exercise_skipped" if I did not submit), revisit true and resolvedAt null, and current {"lesson":"l04","exercise":"e04"}.
+- Passed for the first time: exercise "passed", lesson l04 "completed" with completedAt, and current {"lesson":"l05","exercise":"e04"}.
+- Passed when reopening a warned exercise: exercise "passed", lesson l04 "completed", the warning gets resolvedAt with the date, and current does not change.
+- I choose B: exercise "passed_with_warning" ("skipped" if I did not submit), lesson "completed_with_warning", one warning with type "advanced_without_pass" ("exercise_skipped" if I did not submit), revisit true and resolvedAt null, and current {"lesson":"l05","exercise":"e04"}.
 - I choose A or have not passed yet: exercise "in_progress".
 Each attempt: {"n":1,"date":"YYYY-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.
-End with a continuity card of at most 150 words (Profile, Progress with ids like l00=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l04-context-and-iteration.md). When you finish, offer to continue in this chat.
+End with a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l05-context-and-iteration.md). When you finish, offer to continue in this chat.
 ```
 
 ## If you do not pass

@@ -6,7 +6,7 @@ title: Explícalo a un colega
 translationOf: null
 version: 8
 sourceVersion: null
-lesson: l02
+lesson: l03
 deliverable: Explicación de una página con analogía propia y tres límites
 rubric: rubrics/es/general.md
 requiredItems:
@@ -110,12 +110,12 @@ SI NO APRUEBA: de 2 a 3 acciones concretas, sin reescribir mi trabajo.
 Si es el intento 2 o posterior y no apruebo: explica qué falta y ofréceme (A) revisar de nuevo o (B) avanzar con un aviso. No elijas por mí y no insistas después de mi respuesta.
 
 BLOQUE DE PROGRESO TRAS LA REVISIÓN (JSON; incluye en «attempts» todos los intentos del ejercicio)
-- Aprobado por primera vez: ejercicio «passed», lección l02 «completed» con completedAt, y current {"lesson":"l03","exercise":"e03"}.
-- Aprobado al retomar un ejercicio con aviso: ejercicio «passed», lección l02 «completed», el aviso pasa a resolvedAt con la fecha, y current no cambia.
-- Elijo B: ejercicio «passed_with_warning» («skipped» si no entregué), lección «completed_with_warning», un aviso con type «advanced_without_pass» («exercise_skipped» si no entregué), revisit true y resolvedAt null, y current {"lesson":"l03","exercise":"e03"}.
+- Aprobado por primera vez: ejercicio «passed», lección l03 «completed» con completedAt, y current {"lesson":"l04","exercise":"e03"}.
+- Aprobado al retomar un ejercicio con aviso: ejercicio «passed», lección l03 «completed», el aviso pasa a resolvedAt con la fecha, y current no cambia.
+- Elijo B: ejercicio «passed_with_warning» («skipped» si no entregué), lección «completed_with_warning», un aviso con type «advanced_without_pass» («exercise_skipped» si no entregué), revisit true y resolvedAt null, y current {"lesson":"l04","exercise":"e03"}.
 - Elijo A o aún no apruebo: ejercicio «in_progress».
 Cada intento: {"n":1,"date":"AAAA-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.
-Termina con una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l00=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l03-clear-instructions.md). Al terminar, ofréceme seguir en este chat.
+Termina con una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l04-clear-instructions.md). Al terminar, ofréceme seguir en este chat.
 ```
 
 ## Si no apruebas
