@@ -71,7 +71,7 @@ No hay un número fijo de mensajes por sesión ni por lección: reparte la lecci
 | Claude | Límite por sesión que se renueva cada cinco horas; el límite y la ventana de contexto varían según la demanda ([fuente](https://support.claude.com/en/articles/8602283-about-free-claude-usage)) | Sesiones cortas; prompts cortos |
 | ChatGPT | El modelo y los límites del plan gratuito cambian con el tiempo; subir archivos, imágenes y análisis de datos tienen límites propios ([fuente](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq)) | Cero adjuntos obligatorios |
 | Gemini | Límites por plan que pueden cambiar; la capacidad se renueva periódicamente ([fuente](https://support.google.com/gemini/answer/16275805)) | Poder parar y retomar; tarjeta de continuidad |
-| OpenCode | Modelos gratuitos sin cuenta y con lista cambiante; los datos se guardan cuando se usan esos modelos gratuitos ([fuente](https://opencode.ai/), [modelos](https://opencode.ai/docs/zen)) | Ninguna lección depende de un modelo concreto; con estos modelos, el aviso de privacidad pesa todavía más |
+| OpenCode | Modelos gratuitos con lista cambiante y, según OpenCode, disponibles de forma temporal; la política de datos varía según el modelo ([fuente](https://opencode.ai/), [modelos](https://opencode.ai/docs/zen)) | Ninguna lección depende de un modelo concreto; consulta la política de cada modelo; el aviso de privacidad pesa todavía más |
 
 ## Cuando cambie un límite
 
