@@ -4,7 +4,7 @@ slug: l03-how-language-models-work
 lang: es
 title: Cómo funciona un modelo de lenguaje, sin matemáticas
 translationOf: null
-version: 8
+version: 9
 sourceVersion: null
 prerequisites:
   - l02
@@ -79,7 +79,7 @@ OBJETIVOS DE LA LECCIÓN
 - Describir qué es el contexto de una conversación y por qué tiene un límite.
 - Explicar por qué un asistente puede inventar datos y por qué no recuerda chats anteriores.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e02-explain-to-a-colleague.md). Al terminar una lección, ofréceme seguir en este chat.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e02-explain-to-a-colleague.md). Para seguir aquí, dame la línea «Sigue con <página siguiente>» para que yo te la envíe.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 
@@ -140,7 +140,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E2 · [Explícalo a un colega](../../exercises/es/e02-explain-to-a-colleague.md). Después, Lección 4 · [Comunicarse con la IA: instrucciones claras](l04-clear-instructions.md).
+Ejercicio E2 · Explícalo a un colega (https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e02-explain-to-a-colleague.md). Después, Lección 4 · Comunicarse con la IA: instrucciones claras (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l04-clear-instructions.md).
 
 ## Opcional
 

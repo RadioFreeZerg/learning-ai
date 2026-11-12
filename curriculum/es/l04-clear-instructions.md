@@ -4,7 +4,7 @@ slug: l04-clear-instructions
 lang: es
 title: "Comunicarse con la IA: instrucciones claras"
 translationOf: null
-version: 8
+version: 9
 sourceVersion: null
 prerequisites:
   - l03
@@ -75,7 +75,7 @@ OBJETIVOS DE LA LECCIÓN
 - Detectar la ambigüedad en una instrucción y corregirla.
 - Incluir en cada instrucción un criterio para comprobar el resultado.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e03-rewrite-three-instructions.md). Al terminar una lección, ofréceme seguir en este chat.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e03-rewrite-three-instructions.md). Para seguir aquí, dame la línea «Sigue con <página siguiente>» para que yo te la envíe.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 
@@ -132,7 +132,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E3 · [Reescribe tres instrucciones](../../exercises/es/e03-rewrite-three-instructions.md). Después, Lección 5 · [Contexto, ejemplos e iteración](l05-context-and-iteration.md).
+Ejercicio E3 · Reescribe tres instrucciones (https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e03-rewrite-three-instructions.md). Después, Lección 5 · Contexto, ejemplos e iteración (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l05-context-and-iteration.md).
 
 ## Opcional
 

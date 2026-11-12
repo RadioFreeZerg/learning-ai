@@ -4,7 +4,7 @@ slug: l01-welcome
 lang: es
 title: Bienvenida, entrevista y forma de trabajo
 translationOf: null
-version: 10
+version: 11
 sourceVersion: null
 prerequisites: []
 objectives:
@@ -96,7 +96,7 @@ Notas para el tutor: accesibilidad y formato.
 CIERRE (cuando la lección esté completada, en este orden)
 a) Mi perfil final, para guardarlo como PROFILE.md.
 b) Un bloque de progreso: {"lessons":[{"id":"l01","status":"completed","completedAt":"AAAA-MM-DD"}],"student":{"lang":"<es|en>","profileCompleted":true},"current":{"lesson":"l02","exercise":null},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"} con mis datos reales y el idioma que elegí.
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (l01=ok), Punto actual (l02, parte 1) y Siguiente paso (sigue aquí con la lección siguiente, o abre un chat nuevo, pega la tarjeta y lee la lección en https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md).
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (l01=ok), Punto actual (l02, parte 1) y Siguiente paso (abre un chat nuevo, pega la tarjeta y lee la lección en https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md). Después dame la línea «Sigue con https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md» para que yo te la envíe y seguir aquí.
 
 Empieza ahora con el paso 1.
 ```
@@ -110,7 +110,7 @@ Empieza ahora con el paso 1.
 
 ## Siguiente paso
 
-Lección siguiente: Lección 2 · [Qué es y qué no es la IA](l02-what-is-ai.md). La Lección 1 no tiene ejercicio.
+Lección siguiente: Lección 2 · Qué es y qué no es la IA (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md). La Lección 1 no tiene ejercicio.
 
 ## Opcional
 

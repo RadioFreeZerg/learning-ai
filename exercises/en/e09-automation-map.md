@@ -4,8 +4,8 @@ slug: e09-automation-map
 lang: en
 title: Automation map
 translationOf: exercises/es/e09-automation-map.md
-version: 9
-sourceVersion: 9
+version: 10
+sourceVersion: 10
 lesson: l10
 deliverable: Map of tasks with decision to automate and controls
 rubric: rubrics/en/general.md
@@ -118,7 +118,7 @@ PROGRESS BLOCK AFTER THE REVIEW (JSON; include in "attempts" all the attempts fo
 - I choose B: exercise "passed_with_warning" ("skipped" if I did not submit), lesson "completed_with_warning", one warning with type "advanced_without_pass" ("exercise_skipped" if I did not submit), revisit true and resolvedAt null, and current {"lesson":"l11","exercise":"e10"}.
 - I choose A or have not passed yet: exercise "in_progress".
 Each attempt: {"n":1,"date":"YYYY-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.
-End with a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l11-workflow-design.md). When you finish, offer to continue in this chat.
+End with a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l11-workflow-design.md). To continue here, give me the line "Continue with <next page>" for me to send back.
 ```
 
 ## If you do not pass

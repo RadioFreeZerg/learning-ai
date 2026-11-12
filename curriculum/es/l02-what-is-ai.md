@@ -4,7 +4,7 @@ slug: l02-what-is-ai
 lang: es
 title: Qué es y qué no es la IA
 translationOf: null
-version: 9
+version: 10
 sourceVersion: null
 prerequisites:
   - l01
@@ -77,7 +77,7 @@ OBJETIVOS DE LA LECCIÓN
 - Explicar con tus palabras qué suele hacer bien y mal un asistente de IA.
 - Reconocer los mitos más frecuentes sobre la IA y por qué son falsos o incompletos.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e01-myths-and-facts.md). Al terminar una lección, ofréceme seguir en este chat.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e01-myths-and-facts.md). Para seguir aquí, dame la línea «Sigue con <página siguiente>» para que yo te la envíe.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 
@@ -138,7 +138,7 @@ El tutor te hace estas preguntas, de una en una:
 
 ## Siguiente paso
 
-Ejercicio E1 · [Mitos y realidades](../../exercises/es/e01-myths-and-facts.md). Después, Lección 3 · [Cómo funciona un modelo de lenguaje, sin matemáticas](l03-how-language-models-work.md).
+Ejercicio E1 · Mitos y realidades (https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e01-myths-and-facts.md). Después, Lección 3 · Cómo funciona un modelo de lenguaje, sin matemáticas (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l03-how-language-models-work.md).
 
 ## Opcional
 

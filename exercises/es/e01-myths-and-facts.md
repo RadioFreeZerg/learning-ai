@@ -4,7 +4,7 @@ slug: e01-myths-and-facts
 lang: es
 title: Mitos y realidades
 translationOf: null
-version: 9
+version: 10
 sourceVersion: null
 lesson: l02
 deliverable: Tabla o lista de 6 afirmaciones clasificadas y justificadas
@@ -121,7 +121,7 @@ BLOQUE DE PROGRESO TRAS LA REVISIÓN (JSON; incluye en «attempts» todos los in
 - Elijo B: ejercicio «passed_with_warning» («skipped» si no entregué), lección «completed_with_warning», un aviso con type «advanced_without_pass» («exercise_skipped» si no entregué), revisit true y resolvedAt null, y current {"lesson":"l03","exercise":"e02"}.
 - Elijo A o aún no apruebo: ejercicio «in_progress».
 Cada intento: {"n":1,"date":"AAAA-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.
-Termina con una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l03-how-language-models-work.md). Al terminar, ofréceme seguir en este chat.
+Termina con una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l03-how-language-models-work.md). Para seguir aquí, dame la línea «Sigue con <página siguiente>» para que yo te la envíe.
 ```
 
 ## Si no apruebas

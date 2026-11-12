@@ -4,7 +4,7 @@ slug: l06-verifying-results
 lang: es
 title: "Verificar resultados: errores, invenciones y fuentes"
 translationOf: null
-version: 8
+version: 9
 sourceVersion: null
 prerequisites:
   - l05
@@ -75,7 +75,7 @@ OBJETIVOS DE LA LECCIÓN
 - Elegir cuánta verificación pide cada uso con un semáforo de riesgo.
 - Comprobar afirmaciones con métodos independientes del asistente y documentar el resultado.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e05-verification-report.md). Al terminar una lección, ofréceme seguir en este chat.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e05-verification-report.md). Para seguir aquí, dame la línea «Sigue con <página siguiente>» para que yo te la envíe.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 
@@ -132,7 +132,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E5 · [Informe de verificación](../../exercises/es/e05-verification-report.md). Después, Lección 7 · [Trabajar con documentos y datos propios](l07-documents-and-data.md).
+Ejercicio E5 · Informe de verificación (https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e05-verification-report.md). Después, Lección 7 · Trabajar con documentos y datos propios (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l07-documents-and-data.md).
 
 ## Opcional
 

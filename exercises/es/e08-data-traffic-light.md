@@ -4,7 +4,7 @@ slug: e08-data-traffic-light
 lang: es
 title: Semáforo de datos
 translationOf: null
-version: 9
+version: 10
 sourceVersion: null
 lesson: l09
 deliverable: Clasificación de datos de su trabajo y guía de uso
@@ -118,7 +118,7 @@ BLOQUE DE PROGRESO TRAS LA REVISIÓN (JSON; incluye en «attempts» todos los in
 - Elijo B: ejercicio «passed_with_warning» («skipped» si no entregué), lección «completed_with_warning», un aviso con type «advanced_without_pass» («exercise_skipped» si no entregué), revisit true y resolvedAt null, y current {"lesson":"l10","exercise":"e09"}.
 - Elijo A o aún no apruebo: ejercicio «in_progress».
 Cada intento: {"n":1,"date":"AAAA-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.
-Termina con una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l10-automation-and-agents.md). Al terminar, ofréceme seguir en este chat.
+Termina con una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l10-automation-and-agents.md). Para seguir aquí, dame la línea «Sigue con <página siguiente>» para que yo te la envíe.
 ```
 
 ## Si no apruebas

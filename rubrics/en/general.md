@@ -33,7 +33,7 @@ An exercise passes if it meets **all the required items** and scores **2 or more
 3. If in doubt between two levels, asks the student before scoring.
 4. Does not pass out of politeness or for effort: scores what was submitted.
 5. If not passing, gives 2 to 3 concrete actions, without rewriting the student's work.
-6. After the second failed attempt, offers to review again or advance with a warning (see [`docs/review-protocol.en.md`](../../docs/review-protocol.en.md)).
+6. After the second failed attempt, offers to review again or advance with a warning (see [`docs/review-protocol.en.md`](https://github.com/RadioFreeZerg/learning-ai/blob/main/docs/review-protocol.en.md)).
 
 ## A second opinion
 

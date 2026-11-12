@@ -4,8 +4,8 @@ slug: l07-documents-and-data
 lang: en
 title: Working with your own documents and data
 translationOf: curriculum/es/l07-documents-and-data.md
-version: 8
-sourceVersion: 8
+version: 9
+sourceVersion: 9
 prerequisites:
   - l06
 objectives:
@@ -77,7 +77,7 @@ LESSON OBJECTIVES
 - Prepare the material (trim, anonymize, paste as text) so that it fits and is safe.
 - Check the result against the original and detect what was omitted or invented.
 
-SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e06-verified-summary.md). When a lesson ends, offer to continue in this chat.
+SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e06-verified-summary.md). To continue here, give me the line "Continue with <next page>" for me to send back.
 
 HOW TO EXPLAIN: do not assume I have any prior knowledge. Explain each idea in a single message of 150 to 250 words, with all of this: (1) a definition in everyday words, clarifying each new term the first time; (2) an analogy from daily life and where it falls short; (3) two concrete examples, one from my field and one general; (4) a common misunderstanding; (5) a single short question to check that I understood. Do not wait for me to ask for examples and do not move to the next idea until I answer.
 
@@ -136,7 +136,7 @@ Start now: summarize in two sentences where I am and propose the goal for this s
 
 ## Next step
 
-Exercise E6 · [Verified summary](../../exercises/en/e06-verified-summary.md). Then, Lesson 8 · [Ethics, bias and responsible use](l08-ethics-and-bias.md).
+Exercise E6 · Verified summary (https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e06-verified-summary.md). Then, Lesson 8 · Ethics, bias and responsible use (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l08-ethics-and-bias.md).
 
 ## Optional
 

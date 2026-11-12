@@ -4,8 +4,8 @@ slug: l05-context-and-iteration
 lang: en
 title: Context, examples and iteration
 translationOf: curriculum/es/l05-context-and-iteration.md
-version: 8
-sourceVersion: 8
+version: 9
+sourceVersion: 9
 prerequisites:
   - l04
 objectives:
@@ -77,7 +77,7 @@ LESSON OBJECTIVES
 - Improve a result in rounds with concrete corrections.
 - Decide when to close a chat and continue in a new one with a continuity card.
 
-SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e04-iteration-log.md). When a lesson ends, offer to continue in this chat.
+SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e04-iteration-log.md). To continue here, give me the line "Continue with <next page>" for me to send back.
 
 HOW TO EXPLAIN: do not assume I have any prior knowledge. Explain each idea in a single message of 150 to 250 words, with all of this: (1) a definition in everyday words, clarifying each new term the first time; (2) an analogy from daily life and where it falls short; (3) two concrete examples, one from my field and one general; (4) a common misunderstanding; (5) a single short question to check that I understood. Do not wait for me to ask for examples and do not move to the next idea until I answer.
 
@@ -136,7 +136,7 @@ Start now: summarize in two sentences where I am and propose the goal for this s
 
 ## Next step
 
-Exercise E4 · [Iteration log](../../exercises/en/e04-iteration-log.md). Then, Lesson 6 · [Checking results: mistakes, inventions and sources](l06-verifying-results.md).
+Exercise E4 · Iteration log (https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e04-iteration-log.md). Then, Lesson 6 · Checking results: mistakes, inventions and sources (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l06-verifying-results.md).
 
 ## Optional
 
