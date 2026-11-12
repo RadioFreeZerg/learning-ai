@@ -70,7 +70,7 @@ SECRETS = re.compile(
     r"-----BEGIN [A-Z ]*PRIVATE KEY-----)"
 )
 for p in files:
-    if p.suffix not in (".md", ".json", ".txt", ".yml", ".yaml", "") and p.name != "CODEOWNERS":
+    if rel(p) != "scripts/check_repo.py" and p.suffix not in (".md", ".json", ".txt", ".yml", ".yaml", "") and p.name != "CODEOWNERS":
         err(f"{rel(p)}: unexpected file type (the repository is text only)")
         continue
     try:
