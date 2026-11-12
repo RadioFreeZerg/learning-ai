@@ -4,7 +4,7 @@ slug: e07-ethics-case
 lang: es
 title: Caso ético de tu área
 translationOf: null
-version: 6
+version: 7
 sourceVersion: null
 lesson: l07
 deliverable: Análisis ético de un caso con condiciones de uso
@@ -30,7 +30,7 @@ Demostrar que sabes analizar un uso concreto de la IA desde la ética y converti
 
 ## Enunciado
 
-Elige un caso de uso de IA de tu área que afecte a otras personas. Descríbelo, analiza riesgos y posibles sesgos (puedes apoyarte en el asistente, pero decide tú) y termina con condiciones de uso responsable.
+Elige un caso de uso de IA de tu área que afecte a otras personas. Descríbelo, analiza riesgos y posibles sesgos (puedes apoyarte en el asistente, pero decide tú) y termina con condiciones de uso responsable. Si usas un caso real, anonimiza nombres y datos de terceros.
 
 Variante para tu área: usa un caso que ya ocurre o que podría plantearse en tu entorno.
 

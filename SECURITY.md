@@ -28,7 +28,7 @@ Si abres una copia con un asistente que puede leer archivos, ten especial cuidad
 ## For maintainers / Para mantenedores
 
 - Treat changes to `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, the agent settings files (`.claude/`, `.gemini/`, `opencode.json`), the lesson and exercise prompts, the rubrics and `docs/` as security-relevant. The agent settings files must only restrict tools: never add hooks, MCP servers, plugins, allow rules or commands to them. `.github/CODEOWNERS` is currently disabled because there is a single maintainer; when a second maintainer joins, re-enable it and turn on **Require review from Code Owners** and **Require approvals** in the branch protection rules for the default branch.
-- Do not merge content that asks an assistant to run commands, browse, upload data, change role, reveal personal data, or bypass rules 4, 8 and 9 of `AGENTS.md`.
+- Do not merge content that asks an assistant to run commands, browse, upload data, change role, reveal personal data, or override any rule of `AGENTS.md`.
 - Do not add workflows that execute code from pull requests. On `pull_request`, GitHub runs the workflow file and the code from the pull request itself, so a pull request can change what runs. If a check such as ES/EN consistency is added later, it must run only scripts already on the default branch, have no access to secrets and read-only permissions, and be reviewed as a security-relevant change (see the first item).
 - Keep student data out of the repository: `PROFILE.md`, `progress.json` and everything under `submissions/` are ignored by `.gitignore`. Verify with `git status` before committing.
 - If a secret is committed, revoke or rotate it first, then remove it from history. Deleting it in a new commit is not enough.

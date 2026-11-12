@@ -22,7 +22,7 @@
 | e04-iteration-log | 7 | 7 | sincronizado |
 | e05-verification-report | 7 | 7 | sincronizado |
 | e06-verified-summary | 7 | 7 | sincronizado |
-| e07-ethics-case | 6 | 6 | sincronizado |
+| e07-ethics-case | 7 | 7 | sincronizado |
 | e08-data-traffic-light | 7 | 7 | sincronizado |
 | e09-automation-map | 7 | 7 | sincronizado |
 | e10-final-workflow | 7 | 7 | sincronizado |

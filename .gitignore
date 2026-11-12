@@ -9,3 +9,12 @@
 /*.bundle
 /*.tar.gz
 /*.zip
+
+# --- Secrets and agent-local config (safeguard, not a guarantee: check `git status`) ---
+.env
+.env.*
+*.pem
+*.key
+credentials*
+.claude/settings.local.json
+.mcp.json

@@ -4,8 +4,8 @@ slug: e07-ethics-case
 lang: en
 title: Ethics case from your field
 translationOf: exercises/es/e07-ethics-case.md
-version: 6
-sourceVersion: 6
+version: 7
+sourceVersion: 7
 lesson: l07
 deliverable: Ethical analysis of a case with conditions of use
 rubric: rubrics/en/general.md
@@ -30,7 +30,7 @@ Show that you can analyze a specific use of AI from an ethical standpoint and tu
 
 ## Task
 
-Choose a use case of AI in your field that affects other people. Describe it, analyze risks and possible biases (you may use the assistant for support, but you decide) and finish with conditions for responsible use.
+Choose a use case of AI in your field that affects other people. Describe it, analyze risks and possible biases (you may use the assistant for support, but you decide) and finish with conditions for responsible use. If you use a real case, anonymize names and data of third parties.
 
 Variant for your field: use a case that already happens or could arise in your environment.
 
