@@ -4,7 +4,7 @@ slug: l11-workflow-design
 lang: es
 title: Diseñar un flujo de trabajo asistido por IA
 translationOf: null
-version: 8
+version: 9
 sourceVersion: null
 prerequisites:
   - l10
@@ -81,7 +81,7 @@ OBJETIVOS DE LA LECCIÓN
 - Incorporar en el flujo instrucciones, verificación, protección de datos y puntos de control.
 - Definir cómo medirás si el flujo funciona y cuándo lo revisarás.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e10-final-workflow.md). Al terminar una lección, ofréceme seguir en este chat.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e10-final-workflow.md). Luego pregúntame si seguimos; si sí, abre tú la página siguiente; solo si falla, dame la línea «Sigue con <página siguiente>» para enviártela.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 
@@ -144,7 +144,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E10 · [Flujo de trabajo final](../../exercises/es/e10-final-workflow.md). Después, Lección 12 · [Cierre: revisar avisos y plan de continuidad](l12-wrap-up.md).
+Ejercicio E10 · Flujo de trabajo final (https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e10-final-workflow.md). Después, Lección 12 · Cierre: revisar avisos y plan de continuidad (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l12-wrap-up.md).
 
 ## Opcional
 

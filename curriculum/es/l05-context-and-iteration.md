@@ -4,7 +4,7 @@ slug: l05-context-and-iteration
 lang: es
 title: Contexto, ejemplos e iteración
 translationOf: null
-version: 8
+version: 9
 sourceVersion: null
 prerequisites:
   - l04
@@ -77,7 +77,7 @@ OBJETIVOS DE LA LECCIÓN
 - Mejorar un resultado en rondas con correcciones concretas.
 - Decidir cuándo cerrar un chat y continuar en uno nuevo con una tarjeta de continuidad.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e04-iteration-log.md). Al terminar una lección, ofréceme seguir en este chat.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e04-iteration-log.md). Luego pregúntame si seguimos; si sí, abre tú la página siguiente; solo si falla, dame la línea «Sigue con <página siguiente>» para enviártela.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 
@@ -136,7 +136,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E4 · [Bitácora de iteración](../../exercises/es/e04-iteration-log.md). Después, Lección 6 · [Verificar resultados: errores, invenciones y fuentes](l06-verifying-results.md).
+Ejercicio E4 · Bitácora de iteración (https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e04-iteration-log.md). Después, Lección 6 · Verificar resultados: errores, invenciones y fuentes (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l06-verifying-results.md).
 
 ## Opcional
 

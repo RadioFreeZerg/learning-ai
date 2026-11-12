@@ -12,11 +12,11 @@ Be my tutor for the course "AI Fundamentals for Everyone". First read https://gi
 
 2. **Save what it gives you at the end.** The tutor finishes each lesson with a *continuity card* (a short summary). Copy it into your notes: you will need it if you change chat or assistant.
 
-**If the assistant says it cannot open the links** (some free plans cannot), use the manual route: open [Lesson 1 · Welcome](curriculum/en/l01-welcome.md) in your browser, scroll to the section "Prompt for your assistant", copy that block (the copy button is in its top-right corner) and paste it into a new chat.
+**If the assistant says it cannot open the links** (some free plans cannot), use the manual route: open [Lesson 1 · Welcome](https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l01-welcome.md) in your browser, scroll to the section "Prompt for your assistant", copy that block (the copy button is in its top-right corner) and paste it into a new chat.
 
 ## The following sessions
 
-Usually you just keep going in the same chat: when a lesson ends, the tutor offers the next one. If you open a new chat or run out of free messages, paste this message and put your continuity card where it says `[PASTE HERE]`:
+Usually you just keep going in the same chat: when a lesson ends, the tutor asks whether to continue; answer "yes". If it cannot open the page on its own, it gives you a line like "Continue with https://…": copy it and send it as is. If you open a new chat or run out of free messages, paste this message and put your continuity card where it says `[PASTE HERE]`:
 
 ```text
 Continue my course "AI Fundamentals for Everyone". First read https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md and follow its rules. Then read the page named in "Next step" of my card and continue from there. Do not recite the pages to me: teach me in short messages. If you cannot open the links, tell me in one sentence and I will paste the prompt.
@@ -25,7 +25,7 @@ Continue my course "AI Fundamentals for Everyone". First read https://github.com
 <<<END OF STUDENT DATA>>>
 ```
 
-Manual route: open in your browser the page whose address is in the "Next step" of your card, copy its prompt, paste it into a new chat and, where it says `[PASTE HERE]`, paste your card. The [course map](COURSE.md) lists every lesson.
+Manual route: open in your browser the page whose address is in the "Next step" of your card, copy its prompt, paste it into a new chat and, where it says `[PASTE HERE]`, paste your card. The [course map](https://github.com/RadioFreeZerg/learning-ai/blob/main/COURSE.md) lists every lesson.
 
 When the tutor says it is time for an exercise, do the same with the exercise's prompt: it is in the section "Review prompt for your assistant".
 
@@ -49,4 +49,4 @@ When the tutor says it is time for an exercise, do the same with the exercise's 
 | The tutor explains something different from the lesson | Open a new chat and paste the lesson's prompt again. |
 | I disagree with a review | Paste the same prompt and the same submission into another assistant and compare. |
 
-More detail: [`docs/no-file-access.md`](docs/no-file-access.md).
+More detail: [`docs/no-file-access.md`](https://github.com/RadioFreeZerg/learning-ai/blob/main/docs/no-file-access.md).

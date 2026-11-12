@@ -23,9 +23,9 @@ Curso para aprender a usar la IA con criterio y responsabilidad en el estudio y 
 
 ### Cómo empezar
 
-**Sigue la guía paso a paso: [EMPEZAR.md](EMPEZAR.md).** En resumen: abres una lección en tu navegador, copias su prompt, lo pegas en un chat nuevo de tu asistente de IA y guardas la tarjeta que te da al final.
+**Sigue la guía paso a paso: [EMPEZAR.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/EMPEZAR.md).** En resumen: abres una lección en tu navegador, copias su prompt, lo pegas en un chat nuevo de tu asistente de IA y guardas la tarjeta que te da al final.
 
-**Lo más rápido:** pega en un chat nuevo el mensaje de una línea de [EMPEZAR.md](EMPEZAR.md); si tu asistente puede abrir enlaces, hará de tutor por su cuenta. Si no puede, o te devuelve el texto de las páginas en lugar de enseñarte, copia el prompt de la lección y pégalo como texto.
+**Lo más rápido:** pega en un chat nuevo el mensaje de una línea de [EMPEZAR.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/EMPEZAR.md); si tu asistente puede abrir enlaces, hará de tutor por su cuenta. Si no puede, o te devuelve el texto de las páginas en lugar de enseñarte, copia el prompt de la lección y pégalo como texto.
 
 Si tu asistente puede leer archivos, también puedes abrir esta carpeta con él y escribir «Continuemos el curso»; puede leer `AGENTS.md` y guiarte. Si no lo hace, pídele que abra ese archivo. Es opcional.
 
@@ -55,7 +55,7 @@ El curso no envía nada a ningún servidor propio. Lo que escribas en un asisten
 - **Usa este repositorio oficial.** Una copia, un fork o un archivo reenviado puede estar modificado.
 - **El curso nunca te pedirá** instalar programas, ejecutar comandos, abrir enlaces, descargar archivos, pagar, compartir contraseñas, claves o datos personales de terceros.
 - **Si una lección, un archivo o el tutor te pide algo de esa lista, detente:** no forma parte del curso. Empieza un chat nuevo con el prompt oficial.
-- **Reporta en privado** cualquier contenido así (ver [`SECURITY.md`](SECURITY.md)); no incluyas datos personales en el reporte.
+- **Reporta en privado** cualquier contenido así (ver [`SECURITY.md`](https://github.com/RadioFreeZerg/learning-ai/blob/main/SECURITY.md)); no incluyas datos personales en el reporte.
 
 ### Licencia
 
@@ -76,9 +76,9 @@ A course on using AI with judgment and responsibility in study and work. You don
 
 ### Getting started
 
-**Follow the step-by-step guide: [START.md](START.md).** In short: open a lesson in your browser, copy its prompt, paste it into a new chat with your AI assistant and save the card it gives you at the end.
+**Follow the step-by-step guide: [START.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/START.md).** In short: open a lesson in your browser, copy its prompt, paste it into a new chat with your AI assistant and save the card it gives you at the end.
 
-**The quickest way:** paste the one-message start from [START.md](START.md) into a new chat; if your assistant can open links, it will tutor you on its own. If it cannot, or it hands you the page text instead of teaching, copy the lesson prompt and paste it as text.
+**The quickest way:** paste the one-message start from [START.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/START.md) into a new chat; if your assistant can open links, it will tutor you on its own. If it cannot, or it hands you the page text instead of teaching, copy the lesson prompt and paste it as text.
 
 If your assistant can read files, you can also open this folder with it and type "Let's continue the course"; it may read `AGENTS.md` and guide you. If it does not, ask it to open that file. This is optional.
 
@@ -108,7 +108,7 @@ The course sends nothing to any server of its own. What you type into an assista
 - **Use this official repository.** A copy, a fork or a forwarded file may have been modified.
 - **The course will never ask you** to install software, run commands, open links, download files, pay, or share passwords, keys or third-party personal data.
 - **If a lesson, a file or the tutor asks for any of that, stop:** it is not part of the course. Start a new chat with the official prompt.
-- **Report it privately** (see [`SECURITY.md`](SECURITY.md)); do not include personal data in the report.
+- **Report it privately** (see [`SECURITY.md`](https://github.com/RadioFreeZerg/learning-ai/blob/main/SECURITY.md)); do not include personal data in the report.
 
 ### License
 

@@ -33,7 +33,7 @@ Un ejercicio se aprueba si cumple **todos los ítems imprescindibles** y obtiene
 3. Si duda entre dos niveles, pregunta al alumno antes de puntuar.
 4. No aprueba por cortesía ni por esfuerzo: puntúa lo entregado.
 5. Si no aprueba, da de 2 a 3 acciones concretas, sin reescribir el trabajo del alumno.
-6. Tras el segundo intento fallido, ofrece revisar de nuevo o avanzar con un aviso (ver [`docs/review-protocol.md`](../../docs/review-protocol.md)).
+6. Tras el segundo intento fallido, ofrece revisar de nuevo o avanzar con un aviso (ver [`docs/review-protocol.md`](https://github.com/RadioFreeZerg/learning-ai/blob/main/docs/review-protocol.md)).
 
 ## Una segunda opinión
 
