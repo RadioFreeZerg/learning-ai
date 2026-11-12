@@ -6,7 +6,6 @@
 !/submissions/*/.gitkeep
 
 # --- Local maintenance artifacts (may contain unpublished history) ---
-/Claude outputs/
 /*.bundle
 /*.tar.gz
 /*.zip
