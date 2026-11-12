@@ -49,10 +49,10 @@ The course must be completable on the free plan of common assistants. Details an
 
 ## 6. Teaching a lesson
 
-6.1. Follow the lesson sections in order: objectives, why it matters, key concepts, guided activity, comprehension check, common mistakes, next step.
+6.1. Follow the lesson sections in order: objectives, why it matters, key concepts, guided activity, comprehension check (when the lesson has one), common mistakes, next step.
 6.2. One concept at a time, and assume no prior knowledge. Explain each concept in one message of 150–250 words that contains: a definition in everyday words (explain every new term the first time), an everyday analogy and where it falls short, two concrete examples (one from the student's area — `area_role`, `goals`, `current_tools` — and one general), a common misunderstanding, and one short check question. Do not wait for the student to ask for examples.
-6.3. A lesson is `completed` only when the student answers the comprehension check adequately **and**, if the lesson has an exercise, that exercise is `passed`. A lesson without an exercise (L0 and L11) is completed after the check. If its exercise ends `passed_with_warning` or `skipped`, the lesson is `completed_with_warning`.
-6.4. If the lesson has an exercise, move to it after the check; review follows section 7.
+6.3. A lesson with a comprehension check is `completed` only when the student answers it adequately **and**, if the lesson has an exercise, that exercise is `passed`. L0 is completed when the student confirms the profile; L11 when its closing activity is done. If an exercise ends `passed_with_warning` or `skipped`, the lesson is `completed_with_warning`.
+6.4. If the lesson has an exercise, move to it after the check, or right after the profile in L0; review follows section 7.
 
 ## 7. Reviewing an exercise
 

@@ -4,7 +4,7 @@ slug: l00-welcome
 lang: es
 title: Bienvenida, entrevista y forma de trabajo
 translationOf: null
-version: 5
+version: 6
 sourceVersion: null
 prerequisites: []
 objectives:
@@ -30,7 +30,7 @@ Un curso sobre usar la IA con criterio empieza por usarla con criterio: saber qu
 
 **Sesiones cortas.** Cada lección se reparte en 2 a 4 sesiones de 12 mensajes tuyos como máximo. Así el curso cabe en los planes gratuitos, que limitan los mensajes por ventana de tiempo.
 
-**Tarjeta de continuidad.** Al cerrar cada sesión, el tutor te da un resumen de 150 palabras como máximo: tu perfil, tu progreso y el punto exacto donde quedaste. La pegas al abrir el chat siguiente. Sustituye a la memoria del asistente, que no puedes dar por segura.
+**Tarjeta de continuidad.** Al cerrar cada sesión, el tutor te da un resumen de 150 palabras como máximo: tu perfil, tu progreso y el punto exacto donde quedaste. La pegas al abrir el chat siguiente. No es un archivo ni una función especial: es texto que pegas en el prompt, así que funciona igual en cualquier chat, también en los planes gratuitos. Aunque un asistente tenga memoria, no siempre está disponible ni conserva el estado exacto de intentos y avisos.
 
 **Revisión que orienta.** Cada ejercicio se revisa con una rúbrica de cinco dimensiones. Si no apruebas, recibes de 2 a 3 acciones concretas. Si fallas un segundo intento, eliges: revisar de nuevo o avanzar con un aviso que podrás retomar cuando quieras. Nada te bloquea.
 
@@ -44,8 +44,7 @@ Un curso sobre usar la IA con criterio empieza por usarla con criterio: saber qu
 2. Comprueba que el tutor empieza con el aviso de privacidad y que su explicación del curso coincide con lo de arriba.
 3. Responde la entrevista en tres mensajes, uno por bloque.
 4. Corrige el perfil que te muestre el tutor hasta que te represente.
-5. Responde la comprobación de comprensión.
-6. Guarda tu perfil como `PROFILE.md` (o en tu archivo de notas), el bloque de progreso y la tarjeta de continuidad.
+5. Guarda tu perfil como `PROFILE.md` (o en tu archivo de notas), el bloque de progreso y la tarjeta de continuidad.
 
 ## Prompt para tu asistente
 
@@ -85,8 +84,7 @@ updated_at: AAAA-MM-DD
 Quién soy y qué busco: 2–3 frases con mis palabras.
 Cómo quiero que me expliquen: tono, longitud y tipo de ejemplos.
 Notas para el tutor: accesibilidad y formato.
-5. Cuando yo confirme el perfil, hazme cuatro preguntas de comprensión, una por mensaje: (a) qué pasa si fallo dos veces un ejercicio; (b) para qué sirve la tarjeta de continuidad; (c) qué cuidado debo tener con los datos que escribo; (d) cuántos mensajes tengo por sesión y por qué.
-6. Si respondo bien las cuatro, da la lección por completada. Si no, aclara lo que falte y vuelve a preguntar solo eso.
+5. Cuando yo confirme el perfil, da la lección por completada y pasa al cierre.
 
 CIERRE (cuando la lección esté completada, en este orden)
 a) Mi perfil final, para guardarlo como PROFILE.md.
@@ -95,15 +93,6 @@ c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil
 
 Empieza ahora con el paso 1.
 ```
-
-## Comprueba tu comprensión
-
-El tutor te hace estas preguntas antes de dar la lección por completada:
-
-1. Si no apruebas un ejercicio dos veces, ¿qué opciones tienes y qué queda registrado?
-2. ¿Para qué sirve la tarjeta de continuidad y cuándo la usas?
-3. ¿Qué cuidado debes tener con los casos reales que escribes en un asistente?
-4. ¿Cuántos mensajes tienes por sesión y por qué?
 
 ## Errores comunes
 

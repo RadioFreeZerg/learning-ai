@@ -4,8 +4,8 @@ slug: l00-welcome
 lang: en
 title: Welcome, interview and how we work
 translationOf: curriculum/es/l00-welcome.md
-version: 5
-sourceVersion: 5
+version: 6
+sourceVersion: 6
 prerequisites: []
 objectives:
   - Explain in your own words how the course works: lessons, exercises, review, warnings and the continuity card.
@@ -30,7 +30,7 @@ A course about using AI with judgment starts by using it with judgment: knowing 
 
 **Short sessions.** Each lesson is split into 2 to 4 sessions of at most 12 messages from you. That way the course fits the free plans, which limit messages per time window.
 
-**Continuity card.** At the end of each session, the tutor gives you a summary of at most 150 words: your profile, your progress and the exact point where you stopped. You paste it when opening the next chat. It replaces the assistant's memory, which you cannot count on.
+**Continuity card.** At the end of each session, the tutor gives you a summary of at most 150 words: your profile, your progress and the exact point where you stopped. You paste it when opening the next chat. It is not a file or a special feature: it is text you paste into the prompt, so it works the same in any chat, including free plans. Even if an assistant has memory, it is not always available and does not keep the exact state of attempts and warnings.
 
 **Review that guides.** Each exercise is reviewed with a five-dimension rubric. If you do not pass, you get 2 to 3 concrete actions. If you fail a second attempt, you choose: review again or advance with a warning that you can revisit whenever you want. Nothing blocks you.
 
@@ -44,8 +44,7 @@ A course about using AI with judgment starts by using it with judgment: knowing 
 2. Check that the tutor starts with the privacy notice and that its explanation of the course matches the above.
 3. Answer the interview in three messages, one per block.
 4. Correct the profile the tutor shows you until it represents you.
-5. Answer the comprehension check.
-6. Save your profile as `PROFILE.md` (or in your notes file), the progress block and the continuity card.
+5. Save your profile as `PROFILE.md` (or in your notes file), the progress block and the continuity card.
 
 ## Prompt for your assistant
 
@@ -85,8 +84,7 @@ updated_at: YYYY-MM-DD
 Who I am and what I seek: 2–3 sentences in my words.
 How I want things explained: tone, length and type of examples.
 Notes for the tutor: accessibility and format.
-5. When I confirm the profile, ask me four comprehension questions, one per message: (a) what happens if I fail an exercise twice; (b) what the continuity card is for; (c) what care I must take with the data I type; (d) how many messages I have per session and why.
-6. If I answer all four well, count the lesson as completed. If not, clarify what is missing and ask again only that.
+5. When I confirm the profile, mark the lesson as completed and go to the closing.
 
 CLOSING (when the lesson is completed, in this order)
 a) My final profile, to save as PROFILE.md.
@@ -95,15 +93,6 @@ c) A continuity card of at most 150 words with four lines: Profile (summary), Pr
 
 Start now with step 1.
 ```
-
-## Check your understanding
-
-The tutor asks you these questions before counting the lesson as completed:
-
-1. If you do not pass an exercise twice, what options do you have and what is recorded?
-2. What is the continuity card for and when do you use it?
-3. What care must you take with the real cases you type into an assistant?
-4. How many messages do you have per session and why?
 
 ## Common mistakes
 

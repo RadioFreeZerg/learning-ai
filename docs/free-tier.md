@@ -20,7 +20,7 @@ Todo archivo nuevo o modificado debe cumplirlo.
 
 ## Tarjeta de continuidad
 
-Cada sesión termina con una tarjeta de 150 palabras como máximo. El alumno la guarda y la pega al abrir el chat siguiente, en el mismo asistente o en otro. Formato:
+Cada sesión termina con una tarjeta de 150 palabras como máximo. El alumno la guarda y la pega al abrir el chat siguiente, en el mismo asistente o en otro. Es texto pegado, no un archivo ni una función del asistente: funciona en cualquier chat, también en los planes gratuitos. Algunos asistentes tienen memoria, pero no está garantizada ni conserva el estado exacto de intentos y avisos; la tarjeta es el respaldo que controla el alumno. Con acceso a archivos, `progress.json` cumple esa función; la tarjeta es la versión portátil para chats sin archivos. Formato:
 
 ```text
 TARJETA DE CONTINUIDAD
@@ -47,9 +47,9 @@ Un ejercicio con aviso se escribe con su identificador: `E3=warn(w001)`.
 1. El alumno pega la tarjeta en el prompt de la lección (en la primera sesión, el prompt de L0 se pega sin tarjeta).
 2. El tutor resume el punto actual en dos frases y propone el objetivo de la sesión.
 3. Trabajo en bloques pequeños: concepto, ejemplo, actividad.
-4. Cierre: comprobación o revisión, bloque de progreso y tarjeta nueva.
+4. Cierre: comprobación (si la lección la tiene), revisión del ejercicio, bloque de progreso y tarjeta nueva.
 
-Con 12 mensajes del alumno como máximo, una lección de 4 h se reparte en 2 a 4 sesiones. Una revisión completa de un ejercicio cabe en un intercambio; el protocolo de dos intentos consume cuatro mensajes.
+Con 12 mensajes del alumno como máximo, una lección se reparte en 2 a 4 sesiones. Una revisión completa de un ejercicio cabe en un intercambio; el protocolo de dos intentos consume cuatro mensajes.
 
 ## Qué evitar al escribir contenido
 

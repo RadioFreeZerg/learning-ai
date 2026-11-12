@@ -4,7 +4,7 @@
 
 | Slug | `version` ES | `sourceVersion` EN | Estado |
 | --- | --- | --- | --- |
-| l00-welcome | 5 | 5 | sincronizado |
+| l00-welcome | 6 | 6 | sincronizado |
 | l01-what-is-ai | 4 | 4 | sincronizado |
 | l02-how-language-models-work | 3 | 3 | sincronizado |
 | l03-clear-instructions | 3 | 3 | sincronizado |
