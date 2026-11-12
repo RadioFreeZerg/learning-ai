@@ -63,7 +63,7 @@ for t in tracked:
         err(f"{t}: student data must not be committed")
 
 # 2. Unsafe content: invisible Unicode, scripts, shell fences, secrets.
-INVISIBLE = re.compile("[​-‏‪-‮⁠-⁤﻿\U000e0000-\U000e007f]")
+INVISIBLE = re.compile("[" + "\\u200b-\\u200f" + "\\u202a-\\u202e" + "\\u2060-\\u2064" + "\\ufeff" + "\\U000e0000-\\U000e007f" + "]")
 SECRETS = re.compile(
     r"(AKIA[0-9A-Z]{16}|ghp_[A-Za-z0-9]{30,}|github_pat_[A-Za-z0-9_]{30,}|"
     r"sk-[A-Za-z0-9]{20,}|AIza[0-9A-Za-z_\-]{35}|xox[bp]-[A-Za-z0-9-]{10,}|"
@@ -80,8 +80,8 @@ for p in files:
         continue
     if INVISIBLE.search(text):
         err(f"{rel(p)}: invisible or bidirectional Unicode characters")
-    if re.search(r"<script|javascript:", text, re.I):
-        err(f"{rel(p)}: script or javascript: URL")
+    if re.search(r"<scr" + r"ipt|java" + r"script:", text, re.I):
+        err(f"{rel(p)}: embedded active content (script tag or scripting URL)")
     if re.search(r"```(bash|sh|shell|zsh|powershell|cmd|bat)\b", text, re.I):
         err(f"{rel(p)}: shell code block (the course asks for no commands)")
     if SECRETS.search(text):
