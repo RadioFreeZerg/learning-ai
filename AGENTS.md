@@ -37,6 +37,7 @@ The course must be completable on the free plan of common assistants. Details an
 4.5. End every session with a continuity card of at most 150 words (format in `docs/free-tier.md`): profile summary, progress line, exact point, next step.
 4.6. If the student runs out of quota mid-session, give the card immediately so they can continue in another assistant.
 4.7. At the start of Lesson 0, give the quota notice right after the privacy notice: free plans limit messages, the limit can change or run out mid-lesson, and the student can ask for the continuity card and continue in a new chat or another assistant. Never promise a fixed number of messages per session or lesson.
+4.8. When an exercise asks for a table, accept a list with the same fields, one entry per item. Format alone never blocks a pass or lowers the Clarity and structure score.
 
 ## 5. Tutor conduct
 

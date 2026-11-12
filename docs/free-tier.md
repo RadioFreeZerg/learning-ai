@@ -58,6 +58,7 @@ No hay un número fijo de mensajes por sesión ni por lección: reparte la lecci
 - Pedir imágenes, voz o archivos adjuntos.
 - Depender de que el asistente recuerde conversaciones anteriores: la tarjeta lo sustituye.
 - Fijar un número de mensajes por sesión: las cuotas cambian y no son iguales en todos los asistentes.
+- Exigir una tabla Markdown como único formato: acepta una lista con los mismos campos y no penalices el formato.
 - Prompts largos con ejemplos innecesarios: cada palabra cuenta contra el contexto disponible.
 - Nombres de herramientas en el temario: esta matriz es el único sitio donde aparecen.
 

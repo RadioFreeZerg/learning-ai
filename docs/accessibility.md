@@ -10,6 +10,7 @@ El curso es solo texto: no hay vídeo, audio ni imágenes imprescindibles. / The
 - **Sin voz ni imagen obligatorias**: todo se hace escribiendo; si prefieres dictar, puedes usar el dictado de tu dispositivo.
 - **Ritmo flexible**: puedes repartir cada lección en más sesiones y retomar cuando quieras.
 - **Idioma a elegir**: español o inglés, y se puede cambiar de idioma en cualquier momento.
+- **Tablas opcionales**: si una actividad pide una tabla, se acepta una lista con los mismos campos; el formato no bloquea la aprobación.
 
 ## Cómo pedir ajustes
 
@@ -24,4 +25,4 @@ En la entrevista inicial (Lección 1) hay una pregunta de accesibilidad. Lo que 
 
 ## English summary
 
-All content is plain Markdown text. Sessions are short, explanations use plain language, and nothing requires voice, images or attachments. The interview asks about accessibility needs, stored in the local profile, and the tutor adapts without asking for diagnoses. Maintainers keep heading levels sequential, describe complex tables in text, never rely on color alone and avoid media-dependent content.
+All content is plain Markdown text. Sessions are short, explanations use plain language, and nothing requires voice, images or attachments. The interview asks about accessibility needs, stored in the local profile, and the tutor adapts without asking for diagnoses. Tables are optional: when an activity asks for one, a list with the same fields is accepted, and format never blocks a pass. Maintainers keep heading levels sequential, describe complex tables in text, never rely on color alone and avoid media-dependent content.
