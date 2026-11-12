@@ -19,7 +19,9 @@ Curso de 12 semanas (~70 horas) para aprender a usar la IA con criterio y respon
 
 ### Cómo empezar
 
-**Sigue la guía paso a paso: [EMPEZAR.md](EMPEZAR.md).** En resumen: abres una lección, copias su prompt, lo pegas en un chat nuevo de tu asistente de IA y guardas la tarjeta que te da al final.
+**Sigue la guía paso a paso: [EMPEZAR.md](EMPEZAR.md).** En resumen: abres una lección en tu navegador, copias su prompt, lo pegas en un chat nuevo de tu asistente de IA y guardas la tarjeta que te da al final.
+
+**No pegues la dirección del repositorio en el asistente ni le pidas que la abra.** Los planes gratuitos no navegan: si le das un enlace, responderá que no puede acceder. Copia el prompt de la lección y pégalo como texto.
 
 Si tu asistente puede leer archivos, también puedes abrir esta carpeta con él y escribir «Continuemos el curso»; puede leer `AGENTS.md` y guiarte. Si no lo hace, pídele que abra ese archivo. Es opcional.
 
@@ -61,7 +63,9 @@ A 12-week course (~70 hours) on using AI with judgment and responsibility in stu
 
 ### Getting started
 
-**Follow the step-by-step guide: [START.md](START.md).** In short: open a lesson, copy its prompt, paste it into a new chat with your AI assistant and save the card it gives you at the end.
+**Follow the step-by-step guide: [START.md](START.md).** In short: open a lesson in your browser, copy its prompt, paste it into a new chat with your AI assistant and save the card it gives you at the end.
+
+**Do not paste the repository URL into the assistant or ask it to open it.** Free plans do not browse: if you give it a link, it will reply that it cannot access it. Copy the lesson prompt and paste it as text.
 
 If your assistant can read files, you can also open this folder with it and type "Let's continue the course"; it may read `AGENTS.md` and guide you. If it does not, ask it to open that file. This is optional.
 

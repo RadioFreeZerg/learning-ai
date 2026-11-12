@@ -12,7 +12,7 @@ Esta es la ruta principal del curso: funciona en cualquier chat de texto, inclui
 
 ### Cómo se trabaja
 
-1. **Primera vez.** Abre `curriculum/es/l00-welcome.md`, copia el bloque «Prompt para tu asistente» y pégalo en un chat nuevo. El tutor te hace la entrevista.
+1. **Primera vez.** Abre `curriculum/es/l00-welcome.md` en tu navegador, copia el bloque «Prompt para tu asistente» y pégalo en un chat nuevo. No le pases la dirección del repositorio al asistente: no puede abrirla. El tutor te hace la entrevista.
 2. **Al terminar cada sesión.** El tutor te entrega una *tarjeta de continuidad* de 150 palabras como máximo. Cópiala a tu archivo de notas.
 3. **Al empezar la sesión siguiente.** Abre un chat nuevo, pega tu tarjeta donde el «Prompt para tu asistente» de la lección dice `[PEGA AQUÍ]` y envía el prompt completo. Pega siempre el prompt de la lección: la tarjeta sola no le da al tutor el contenido de la lección.
 4. **Ejercicios.** Haz el entregable en tu archivo de notas. Cuando esté listo, pega en un solo mensaje el «Prompt de revisión» del ejercicio, el número de intento y tu entrega. El tutor devuelve la revisión completa en una respuesta.
@@ -42,7 +42,7 @@ Lo que escribas lo procesa tu asistente según sus condiciones; algunos planes g
 
 ### How to work
 
-1. **First time.** Open `curriculum/en/l00-welcome.md`, copy the "Prompt for your assistant" block and paste it into a new chat. The tutor runs the interview.
+1. **First time.** Open `curriculum/en/l00-welcome.md` in your browser, copy the "Prompt for your assistant" block and paste it into a new chat. Do not give the assistant the repository URL: it cannot open it. The tutor runs the interview.
 2. **At the end of every session.** The tutor hands you a *continuity card* of at most 150 words. Copy it to your notes file.
 3. **At the start of the next session.** Open a new chat, paste your card where the lesson's "Prompt for your assistant" says `[PASTE HERE]` and send the whole prompt. Always paste the lesson prompt: the card alone does not give the tutor the lesson content.
 4. **Exercises.** Write the deliverable in your notes file. When it is ready, paste the exercise's "Review prompt", the attempt number and your submission in a single message. The tutor returns the full review in one answer.
