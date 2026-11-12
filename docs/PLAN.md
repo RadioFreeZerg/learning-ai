@@ -15,7 +15,7 @@ Versión resumida del plan de construcción. Los detalles ya implementados viven
 
 «Fundamentos de IA para todos» / «AI Fundamentals for Everyone» es un curso para aprender a usar la IA con criterio en tareas cotidianas. Está pensado para estudiantes y profesionales no técnicos: no pide terminal, código ni cuentas de pago.
 
-El curso es un repositorio Git de archivos de texto. El alumno abre la carpeta con el asistente de IA que prefiera, o copia un prompt en un chat. El asistente lee `AGENTS.md`, hace una entrevista inicial, guía las 12 lecciones y revisa 10 ejercicios (E1–E10) con una rúbrica común. El avance queda en `progress.json`.
+El curso es un repositorio Git de archivos de texto. El alumno abre la carpeta con el asistente de IA que prefiera, o copia un prompt en un chat. La portada incluye un bloque BOOTSTRAP para los chats que solo pueden abrir la dirección del repositorio; el tutor no recita la portada. El asistente lee `AGENTS.md`, hace una entrevista inicial, guía las 12 lecciones y revisa 10 ejercicios (E1–E10) con una rúbrica común. El avance queda en `progress.json`.
 
 Lo distinto: es bilingüe (ES/EN con archivos paralelos), funciona con el plan gratuito de cualquier asistente común, incluso sin acceso a archivos, y la evaluación orienta pero no bloquea: tras dos intentos fallidos el alumno decide si repite o avanza con un aviso registrado.
 
@@ -35,7 +35,7 @@ Lo distinto: es bilingüe (ES/EN con archivos paralelos), funciona con el plan g
 
 Supuestos:
 
-1. El repositorio es `RadioFreeZerg/learning-ai`; la rama de trabajo inicial es `feature/course-scaffold`.
+1. El repositorio es `RadioFreeZerg/learning-ai`; la rama principal es `main`.
 2. Los slugs son ASCII en inglés y minúsculas, iguales en ambos idiomas.
 3. `PROFILE.md`, `progress.json` y las entregas se generan en la copia del alumno y git los ignora.
 4. El repositorio no incluye scripts; las comprobaciones las hace el asistente leyendo archivos.

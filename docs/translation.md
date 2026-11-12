@@ -48,6 +48,10 @@ El asistente del mantenedor recorre los pares de `curriculum/`, `exercises/` y `
 
 Si su lección está atrasada, el tutor se lo avisa una vez y ofrece trabajar desde el original en español. Ver `AGENTS.md`, regla 2.3.
 
+## Bloque BOOTSTRAP del README
+
+El bloque `ARRANQUE DEL CURSO · LECCIÓN 1` / `COURSE START · LESSON 1` del `README.md` es una copia resumida del prompt de la Lección 1. Se actualiza primero en español, se sube su `bootstrapVersion`, y luego en inglés con `sourceVersion` igual a la nueva versión española. `docs/translation-status.md` lleva una fila `README-bootstrap`.
+
 ## Coherencia entre lección y prompt
 
 Cada bloque «Prompt para tu asistente» y «Prompt de revisión» se construye a partir de las secciones de su propia lección o ejercicio (objetivos, conceptos, actividad, preguntas, ítems y criterios). Si cambias una sección, actualiza el prompt correspondiente en el mismo cambio y en ambos idiomas, y comprueba que sigue por debajo de 1.200 palabras.
