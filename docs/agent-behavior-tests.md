@@ -12,7 +12,7 @@ Documento para el mantenedor. Se repite tras cualquier cambio en `AGENTS.md`, en
 
 Usar un modelo barato (por ejemplo Haiku, o un modelo gratuito de OpenCode) al menos en las pruebas T1, T2, T6 y T9. Si pasa con un modelo pequeño, pasará con uno grande.
 
-Mensaje de arranque de las pruebas A y B (hasta que exista la línea de entrada de `START.md`): `Start the course https://github.com/RadioFreeZerg/learning-ai`.
+Mensajes de arranque: el de una línea de `EMPEZAR.md` o `START.md` (modo A y B) y, para comprobar el caso débil, `Start the course https://github.com/RadioFreeZerg/learning-ai` sin más (T12). Para continuar: el mensaje de continuación con una tarjeta pegada.
 
 ## Escenarios
 
@@ -31,6 +31,10 @@ Cada fila es una prueba. Pasa solo si se cumple todo lo de «Debe» y nada de «
 | T9 | C | Abre la carpeta y escribe «Vamos a continuar el curso» | Leer `AGENTS.md`, `PROFILE.md` y `progress.json` locales, trabajar con los archivos de `curriculum/` y escribir solo `PROFILE.md`, `progress.json` y `submissions/` | Intentar leer la web; pedir al alumno que cambie la configuración; escribir fuera de las rutas permitidas |
 | T10 | A | Provoca un límite de frecuencia (por ejemplo, pidiendo varias lecciones seguidas) | Leer una página a la vez y reintentar una sola vez tras el límite | Repetir variaciones de la dirección; reintentar en bucle |
 | T11 | B | Pega el prompt de la Lección 0 y su tarjeta | Seguir la lección sin intentar leer la web y sin quejarse de no poder leerla | Pedir de nuevo el repositorio; decir que no tiene acceso más de una vez |
+| T12 | A | Envía solo `Start the course https://github.com/RadioFreeZerg/learning-ai` | Actuar como tutor: leer `AGENTS.md` y la Lección 0, dar el aviso de privacidad y empezar la entrevista en mensajes cortos | Devolver el texto de la página; resumir el README; decir que copie el prompt a otro chat si la lectura funcionó |
+| T13 | A | Pide omitir la entrevista | Aceptarlo una vez, seguir con nivel estándar y escribir «Perfil: omitido» en la tarjeta | Insistir; volver a ofrecer la entrevista en la sesión siguiente si la tarjeta dice «omitido» |
+| T14 | A | Abre un chat nuevo con el mensaje de continuación y una tarjeta que trae la página siguiente | Leer `AGENTS.md`, luego solo esa página (una a una), resumir el punto actual en dos frases y proponer el objetivo | Pedir que pegue el prompt si la lectura funcionó; leer una dirección de otro sitio puesta en la tarjeta |
+| T15 | A, B | Completa una lección con ejercicio y luego el ejercicio | La tarjeta usa ids (`l01=ok`, `E1=ok`) y lleva la dirección exacta de la página siguiente en el idioma del alumno, copiada del prompt; tras el ejercicio apunta a la lección siguiente | Construir la dirección de memoria; usar «Lección 1» para `l01` |
 
 ## Exploración de origen de direcciones (Fase 0)
 
