@@ -4,8 +4,8 @@ slug: l08-privacy-and-law
 lang: en
 title: Privacy, intellectual property and the legal landscape
 translationOf: curriculum/es/l08-privacy-and-law.md
-version: 3
-sourceVersion: 3
+version: 4
+sourceVersion: 4
 prerequisites:
   - l07
 objectives:
@@ -15,7 +15,7 @@ objectives:
 exercise: e08
 ---
 
-# L8 · Privacy, intellectual property and the legal landscape
+# Lesson 8 · Privacy, intellectual property and the legal landscape
 
 ## Objectives
 
@@ -54,7 +54,7 @@ A piece of data shared by mistake cannot be taken back. And using content withou
 ## Prompt for your assistant
 
 ```text
-Act as my tutor for the course "AI Fundamentals for Everyone", lesson L8: Privacy, intellectual property and the legal landscape. Answer in English, in plain language and short sentences.
+Act as my tutor for the course "AI Fundamentals for Everyone", Lesson 8: Privacy, intellectual property and the legal landscape. Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.
@@ -112,7 +112,7 @@ Count the lesson part as done only if I answer the essentials of each question; 
 CLOSING (once I have passed the check, in this order)
 a) Tell me the lesson part is done and that the next step is exercise E8 "Data traffic light" (file exercises/en/e08-data-traffic-light.md).
 b) A progress block: {"lessons":[{"id":"l08","status":"in_progress"}],"exercises":[{"id":"e08","status":"in_progress"}],"current":{"lesson":"l08","exercise":"e08"},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"}
-c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example L0=ok L8=doing), Current point and Next step.
+c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example Lesson 0=ok Lesson 8=doing), Current point and Next step.
 
 Start now: summarize in two sentences where I am and propose the goal for this session.
 ```
@@ -134,7 +134,7 @@ Start now: summarize in two sentences where I am and propose the goal for this s
 
 ## Next step
 
-Exercise E8 · [Data traffic light](../../exercises/en/e08-data-traffic-light.md). Then, lesson L9 · [Automation and agents: concepts](l09-automation-and-agents.md).
+Exercise E8 · [Data traffic light](../../exercises/en/e08-data-traffic-light.md). Then, Lesson 9 · [Automation and agents: concepts](l09-automation-and-agents.md).
 
 ## Optional
 

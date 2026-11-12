@@ -4,8 +4,8 @@ slug: e01-myths-and-facts
 lang: en
 title: Myths and facts
 translationOf: exercises/es/e01-myths-and-facts.md
-version: 4
-sourceVersion: 4
+version: 5
+sourceVersion: 5
 lesson: l01
 deliverable: Table of 6 statements classified and justified
 rubric: rubrics/en/general.md
@@ -54,7 +54,7 @@ A Markdown table with 6 rows and 4 columns: statement, classification, justifica
 
 | Dimension | For a 2 | For a 3 |
 | --- | --- | --- |
-| Conceptual understanding | The classifications are defensible in at least 5 of 6 and the justifications use the concepts of L1 (predicts, does not know; generative; responsibility). | All six are defensible and, for those that depend on context, it says what they depend on. |
+| Conceptual understanding | The classifications are defensible in at least 5 of 6 and the justifications use the concepts of Lesson 1 (predicts, does not know; generative; responsibility). | All six are defensible and, for those that depend on context, it says what they depend on. |
 | Clarity and structure | Complete, readable table, one row per statement. | Concise justifications, understandable without having read the task. |
 | Verification and rigor | At least 2 statements checked against a real excerpt and it says what was observed. | Checks 4 or more, or explains how each observation was checked and admits what could not be checked. |
 | Ethics and risks | Identifies at least one risk of taking an answer as true (for example, spreading an error) and a measure. | Links the risk to a concrete consequence in their field and sets a limit of use. |
@@ -63,7 +63,7 @@ A Markdown table with 6 rows and 4 columns: statement, classification, justifica
 ## Review prompt for your assistant
 
 ```text
-Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E1: Myths and facts (lesson L1). Answer in English, in plain language and short sentences.
+Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E1: Myths and facts (Lesson 1). Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.
@@ -89,7 +89,7 @@ REQUIRED ITEMS FOR THIS EXERCISE
 - e1-area: At least one statement is related to a specific task in the student's field.
 
 CRITERIA FOR THIS EXERCISE
-- Conceptual understanding — 2: The classifications are defensible in at least 5 of 6 and the justifications use the concepts of L1 (predicts, does not know; generative; responsibility). 3: All six are defensible and, for those that depend on context, it says what they depend on.
+- Conceptual understanding — 2: The classifications are defensible in at least 5 of 6 and the justifications use the concepts of Lesson 1 (predicts, does not know; generative; responsibility). 3: All six are defensible and, for those that depend on context, it says what they depend on.
 - Clarity and structure — 2: Complete, readable table, one row per statement. 3: Concise justifications, understandable without having read the task.
 - Verification and rigor — 2: At least 2 statements checked against a real excerpt and it says what was observed. 3: Checks 4 or more, or explains how each observation was checked and admits what could not be checked.
 - Ethics and risks — 2: Identifies at least one risk of taking an answer as true (for example, spreading an error) and a measure. 3: Links the risk to a concrete consequence in their field and sets a limit of use.

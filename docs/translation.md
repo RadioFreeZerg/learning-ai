@@ -41,6 +41,7 @@ El asistente del mantenedor recorre los pares de `curriculum/`, `exercises/` y `
 
 - Se traduce el texto de lecciones, ejercicios y rúbrica, incluidos los prompts de los bloques «Prompt para tu asistente» y «Prompt de revisión».
 - Los identificadores no se traducen: claves de `progress.json`, estados, códigos del perfil (`none`, `occasional`…), identificadores de ítems imprescindibles y nombres de archivo.
+- Los nombres visibles de las lecciones se renumeran por idioma: en español, «Lección 1»–«Lección 12» corresponden a `l00`–`l11`; en inglés, «Lesson 0»–«Lesson 11». Los ids, slugs y nombres de archivo no cambian.
 - Los títulos y términos clave siguen el [glosario](glossary.md).
 
 ## Cuando el alumno estudia en inglés

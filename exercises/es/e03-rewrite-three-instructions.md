@@ -4,7 +4,7 @@ slug: e03-rewrite-three-instructions
 lang: es
 title: Reescribe tres instrucciones
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
 lesson: l03
 deliverable: Tres pares antes/después con el porqué de cada cambio
@@ -63,7 +63,7 @@ Tres bloques «Antes / Después / Por qué», de máximo 600 palabras en total, 
 ## Prompt de revisión para tu asistente
 
 ```text
-Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E3: Reescribe tres instrucciones (lección L3). Responde en español, con lenguaje llano y frases cortas.
+Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E3: Reescribe tres instrucciones (Lección 4). Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.

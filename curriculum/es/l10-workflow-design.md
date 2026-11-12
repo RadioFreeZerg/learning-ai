@@ -4,7 +4,7 @@ slug: l10-workflow-design
 lang: es
 title: Diseñar un flujo de trabajo asistido por IA
 translationOf: null
-version: 3
+version: 4
 sourceVersion: null
 prerequisites:
   - l09
@@ -15,7 +15,7 @@ objectives:
 exercise: e10
 ---
 
-# L10 · Diseñar un flujo de trabajo asistido por IA
+# Lección 11 · Diseñar un flujo de trabajo asistido por IA
 
 ## Objetivos
 
@@ -56,7 +56,7 @@ Usar la IA de forma suelta ahorra poco. Un flujo bien diseñado se repite, se co
 ## Prompt para tu asistente
 
 ```text
-Actúa como mi tutor del curso «Fundamentos de IA para todos», lección L10: Diseñar un flujo de trabajo asistido por IA. Responde en español, con lenguaje llano y frases cortas.
+Actúa como mi tutor del curso «Fundamentos de IA para todos», Lección 11: Diseñar un flujo de trabajo asistido por IA. Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.
@@ -116,7 +116,7 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E10 «Flujo de trabajo final» (archivo exercises/es/e10-final-workflow.md).
 b) Un bloque de progreso: {"lessons":[{"id":"l10","status":"in_progress"}],"exercises":[{"id":"e10","status":"in_progress"}],"current":{"lesson":"l10","exercise":"e10"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo L0=ok L10=doing), Punto actual y Siguiente paso.
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo Lección 1=ok Lección 11=doing), Punto actual y Siguiente paso.
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -138,7 +138,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E10 · [Flujo de trabajo final](../../exercises/es/e10-final-workflow.md). Después, lección L11 · [Cierre: revisar avisos y plan de continuidad](l11-wrap-up.md).
+Ejercicio E10 · [Flujo de trabajo final](../../exercises/es/e10-final-workflow.md). Después, Lección 12 · [Cierre: revisar avisos y plan de continuidad](l11-wrap-up.md).
 
 ## Opcional
 

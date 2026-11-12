@@ -4,8 +4,8 @@ slug: e02-explain-to-a-colleague
 lang: en
 title: Explain it to a colleague
 translationOf: exercises/es/e02-explain-to-a-colleague.md
-version: 4
-sourceVersion: 4
+version: 5
+sourceVersion: 5
 lesson: l02
 deliverable: One-page explanation with your own analogy and three limits
 rubric: rubrics/en/general.md
@@ -60,7 +60,7 @@ Running text of 300 to 600 words, pasted into the chat. If you work with files, 
 ## Review prompt for your assistant
 
 ```text
-Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E2: Explain it to a colleague (lesson L2). Answer in English, in plain language and short sentences.
+Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E2: Explain it to a colleague (Lesson 2). Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.

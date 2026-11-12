@@ -4,8 +4,8 @@ slug: l00-welcome
 lang: en
 title: Welcome, interview and how we work
 translationOf: curriculum/es/l00-welcome.md
-version: 6
-sourceVersion: 6
+version: 7
+sourceVersion: 7
 prerequisites: []
 objectives:
   - Explain in your own words how the course works: lessons, exercises, review, warnings and the continuity card.
@@ -14,7 +14,7 @@ objectives:
 exercise: null
 ---
 
-# L0 · Welcome, interview and how we work
+# Lesson 0 · Welcome, interview and how we work
 
 ## Objectives
 
@@ -26,7 +26,7 @@ A course about using AI with judgment starts by using it with judgment: knowing 
 
 ## Key concepts
 
-**The course.** There are 12 lessons (L0–L11) and 10 exercises (E1–E10), in order. Your AI assistant acts as the tutor: it explains, proposes activities and reviews your submissions.
+**The course.** There are 12 lessons (Lessons 0–11) and 10 exercises (E1–E10), in order. Your AI assistant acts as the tutor: it explains, proposes activities and reviews your submissions.
 
 **Short sessions.** Each lesson is split into 2 to 4 sessions of at most 12 messages from you. That way the course fits the free plans, which limit messages per time window.
 
@@ -49,7 +49,7 @@ A course about using AI with judgment starts by using it with judgment: knowing 
 ## Prompt for your assistant
 
 ```text
-Act as my tutor for the course "AI Fundamentals for Everyone", lesson L0: Welcome, interview and how we work. Answer in English, in plain language and short sentences.
+Act as my tutor for the course "AI Fundamentals for Everyone", Lesson 0: Welcome, interview and how we work. Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.
@@ -89,7 +89,7 @@ Notes for the tutor: accessibility and format.
 CLOSING (when the lesson is completed, in this order)
 a) My final profile, to save as PROFILE.md.
 b) A progress block: {"lessons":[{"id":"l00","status":"completed","completedAt":"YYYY-MM-DD"}],"student":{"lang":"<es|en>","profileCompleted":true},"current":{"lesson":"l01","exercise":null},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"} with my real data and the language I chose.
-c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (L0=ok), Current point (L1, part 1) and Next step (open a new chat, paste the card and lesson L1).
+c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (Lesson 0=ok), Current point (Lesson 1, part 1) and Next step (open a new chat, paste the card and Lesson 1).
 
 Start now with step 1.
 ```
@@ -103,7 +103,7 @@ Start now with step 1.
 
 ## Next step
 
-Next lesson: L1 · [What AI is and is not](l01-what-is-ai.md). Lesson L0 has no exercise.
+Next lesson: Lesson 1 · [What AI is and is not](l01-what-is-ai.md). Lesson 0 has no exercise.
 
 ## Optional
 

@@ -4,8 +4,8 @@ slug: e06-verified-summary
 lang: en
 title: Verified summary
 translationOf: exercises/es/e06-verified-summary.md
-version: 4
-sourceVersion: 4
+version: 5
+sourceVersion: 5
 lesson: l06
 deliverable: Summary of a document checked against the original
 rubric: rubrics/en/general.md
@@ -59,7 +59,7 @@ A document of one to two pages, pasted as text, with four parts: preparation (ma
 ## Review prompt for your assistant
 
 ```text
-Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E6: Verified summary (lesson L6). Answer in English, in plain language and short sentences.
+Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E6: Verified summary (Lesson 6). Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.

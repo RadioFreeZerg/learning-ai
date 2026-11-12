@@ -4,7 +4,7 @@ slug: l01-what-is-ai
 lang: es
 title: Qué es y qué no es la IA
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
 prerequisites:
   - l00
@@ -15,7 +15,7 @@ objectives:
 exercise: e01
 ---
 
-# L1 · Qué es y qué no es la IA
+# Lección 2 · Qué es y qué no es la IA
 
 ## Objetivos
 
@@ -37,7 +37,7 @@ Quien espera que la IA «sepa» o «piense» como una persona confía de más y 
 
 **Qué suele hacer mal.** Garantizar que lo que dice es cierto, conocer lo ocurrido ayer si no se lo das, conocer tu contexto si no se lo cuentas, hacerse responsable de un resultado y decidir por ti cuando hay valores en juego.
 
-**Predice, no entiende como una persona.** Un asistente produce la respuesta que resulta más probable según lo que aprendió. Puede sonar seguro y estar equivocado. En la lección L2 verás por qué.
+**Predice, no entiende como una persona.** Un asistente produce la respuesta que resulta más probable según lo que aprendió. Puede sonar seguro y estar equivocado. En la Lección 3 verás por qué.
 
 **Mitos frecuentes.** «Sabe lo que es verdad», «piensa como una persona», «siempre da la misma respuesta», «si es de pago no se equivoca», «reemplaza el criterio humano». Todos son falsos o incompletos.
 
@@ -52,7 +52,7 @@ Quien espera que la IA «sepa» o «piense» como una persona confía de más y 
 ## Prompt para tu asistente
 
 ```text
-Actúa como mi tutor del curso «Fundamentos de IA para todos», lección L1: Qué es y qué no es la IA. Responde en español, con lenguaje llano y frases cortas.
+Actúa como mi tutor del curso «Fundamentos de IA para todos», Lección 2: Qué es y qué no es la IA. Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.
@@ -86,7 +86,7 @@ QUÉ ENSEÑAR, UNA IDEA CADA VEZ
 
 **Qué suele hacer mal.** Garantizar que lo que dice es cierto, conocer lo ocurrido ayer si no se lo das, conocer tu contexto si no se lo cuentas, hacerse responsable de un resultado y decidir por ti cuando hay valores en juego.
 
-**Predice, no entiende como una persona.** Un asistente produce la respuesta que resulta más probable según lo que aprendió. Puede sonar seguro y estar equivocado. En la lección L2 verás por qué.
+**Predice, no entiende como una persona.** Un asistente produce la respuesta que resulta más probable según lo que aprendió. Puede sonar seguro y estar equivocado. En la Lección 3 verás por qué.
 
 **Mitos frecuentes.** «Sabe lo que es verdad», «piensa como una persona», «siempre da la misma respuesta», «si es de pago no se equivoca», «reemplaza el criterio humano». Todos son falsos o incompletos.
 
@@ -108,7 +108,7 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E1 «Mitos y realidades» (archivo exercises/es/e01-myths-and-facts.md).
 b) Un bloque de progreso: {"lessons":[{"id":"l01","status":"in_progress"}],"exercises":[{"id":"e01","status":"in_progress"}],"current":{"lesson":"l01","exercise":"e01"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo L0=ok L1=doing), Punto actual y Siguiente paso.
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo Lección 1=ok Lección 2=doing), Punto actual y Siguiente paso.
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -132,7 +132,7 @@ El tutor te hace estas preguntas, de una en una:
 
 ## Siguiente paso
 
-Ejercicio E1 · [Mitos y realidades](../../exercises/es/e01-myths-and-facts.md). Después, lección L2 · [Cómo funciona un modelo de lenguaje, sin matemáticas](l02-how-language-models-work.md).
+Ejercicio E1 · [Mitos y realidades](../../exercises/es/e01-myths-and-facts.md). Después, Lección 3 · [Cómo funciona un modelo de lenguaje, sin matemáticas](l02-how-language-models-work.md).
 
 ## Opcional
 

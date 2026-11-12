@@ -75,7 +75,7 @@ Si algo falla, lo explica en lenguaje llano y propone la corrección.
 
 ## Ejemplo realista
 
-Una alumna con L0–L2 completadas, L3 completada con aviso, L4 en progreso, E2 aprobado al segundo intento y E3 avanzado sin aprobar.
+Una alumna con Lecciones 1–3 completadas, Lección 4 completada con aviso, Lección 5 en progreso, E2 aprobado al segundo intento y E3 avanzado sin aprobar.
 
 ```json
 {
@@ -187,7 +187,7 @@ Cuando el asistente no puede escribir archivos, entrega al final de la sesión u
 - `warnings[]`: se añade la entrada si el `id` no existe; si existe, sustituye a la anterior.
 - `student`, `current` y `updatedAt`: se copian.
 
-Ejemplo: L3 completada y E3 avanzado con aviso.
+Ejemplo: Lección 4 completada y E3 avanzado con aviso.
 
 ```json
 {

@@ -4,7 +4,7 @@ slug: e08-data-traffic-light
 lang: es
 title: Semáforo de datos
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
 lesson: l08
 deliverable: Clasificación de datos de su trabajo y guía de uso
@@ -59,7 +59,7 @@ Una tabla de al menos diez filas (tipo de información, color, motivo), un ejemp
 ## Prompt de revisión para tu asistente
 
 ```text
-Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E8: Semáforo de datos (lección L8). Responde en español, con lenguaje llano y frases cortas.
+Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E8: Semáforo de datos (Lección 9). Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.

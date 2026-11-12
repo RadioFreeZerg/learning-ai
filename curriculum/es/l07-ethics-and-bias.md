@@ -4,7 +4,7 @@ slug: l07-ethics-and-bias
 lang: es
 title: Ética, sesgos y uso responsable
 translationOf: null
-version: 3
+version: 4
 sourceVersion: null
 prerequisites:
   - l06
@@ -15,7 +15,7 @@ objectives:
 exercise: e07
 ---
 
-# L7 · Ética, sesgos y uso responsable
+# Lección 8 · Ética, sesgos y uso responsable
 
 ## Objetivos
 
@@ -54,7 +54,7 @@ Un asistente puede reproducir prejuicios, tratar de forma desigual a distintas p
 ## Prompt para tu asistente
 
 ```text
-Actúa como mi tutor del curso «Fundamentos de IA para todos», lección L7: Ética, sesgos y uso responsable. Responde en español, con lenguaje llano y frases cortas.
+Actúa como mi tutor del curso «Fundamentos de IA para todos», Lección 8: Ética, sesgos y uso responsable. Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.
@@ -112,7 +112,7 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E7 «Caso ético de tu área» (archivo exercises/es/e07-ethics-case.md).
 b) Un bloque de progreso: {"lessons":[{"id":"l07","status":"in_progress"}],"exercises":[{"id":"e07","status":"in_progress"}],"current":{"lesson":"l07","exercise":"e07"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo L0=ok L7=doing), Punto actual y Siguiente paso.
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo Lección 1=ok Lección 8=doing), Punto actual y Siguiente paso.
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -134,7 +134,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E7 · [Caso ético de tu área](../../exercises/es/e07-ethics-case.md). Después, lección L8 · [Privacidad, propiedad intelectual y marco legal](l08-privacy-and-law.md).
+Ejercicio E7 · [Caso ético de tu área](../../exercises/es/e07-ethics-case.md). Después, Lección 9 · [Privacidad, propiedad intelectual y marco legal](l08-privacy-and-law.md).
 
 ## Opcional
 

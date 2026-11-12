@@ -13,7 +13,7 @@ El curso es solo texto: no hay vídeo, audio ni imágenes imprescindibles. / The
 
 ## Cómo pedir ajustes
 
-En la entrevista inicial (L0) hay una pregunta de accesibilidad. Lo que respondas se guarda en `accessibility` de tu perfil y el tutor lo aplica sin pedir diagnósticos. Ejemplos: frases aún más cortas, una pregunta por mensaje, listas en lugar de párrafos largos, más tiempo por sesión, evitar tablas.
+En la entrevista inicial (Lección 1) hay una pregunta de accesibilidad. Lo que respondas se guarda en `accessibility` de tu perfil y el tutor lo aplica sin pedir diagnósticos. Ejemplos: frases aún más cortas, una pregunta por mensaje, listas en lugar de párrafos largos, más tiempo por sesión, evitar tablas.
 
 ## Para quien mantiene el curso
 

@@ -4,7 +4,7 @@ slug: e01-myths-and-facts
 lang: es
 title: Mitos y realidades
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
 lesson: l01
 deliverable: Tabla de 6 afirmaciones clasificadas y justificadas
@@ -54,7 +54,7 @@ Una tabla Markdown de 6 filas y 4 columnas: afirmación, clasificación, justifi
 
 | Dimensión | Para un 2 | Para un 3 |
 | --- | --- | --- |
-| Comprensión conceptual | Las clasificaciones son defendibles en al menos 5 de 6 y las justificaciones usan los conceptos de L1 (predice, no sabe; generativa; responsabilidad). | Las seis son defendibles y, en las que dependen del contexto, se indica de qué dependen. |
+| Comprensión conceptual | Las clasificaciones son defendibles en al menos 5 de 6 y las justificaciones usan los conceptos de la Lección 2 (predice, no sabe; generativa; responsabilidad). | Las seis son defendibles y, en las que dependen del contexto, se indica de qué dependen. |
 | Claridad y estructura | Tabla completa y legible, una fila por afirmación. | Justificaciones concisas, comprensibles sin haber leído el enunciado. |
 | Verificación y rigor | Al menos 2 afirmaciones contrastadas con un fragmento real y se indica qué se observó. | Contrasta 4 o más, o explica cómo comprobó cada observación y reconoce lo que no pudo comprobar. |
 | Ética y riesgos | Identifica al menos un riesgo de dar por cierta una respuesta (por ejemplo, difundir un error) y una medida. | Relaciona el riesgo con una consecuencia concreta en su área y fija un límite de uso. |
@@ -63,7 +63,7 @@ Una tabla Markdown de 6 filas y 4 columnas: afirmación, clasificación, justifi
 ## Prompt de revisión para tu asistente
 
 ```text
-Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E1: Mitos y realidades (lección L1). Responde en español, con lenguaje llano y frases cortas.
+Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E1: Mitos y realidades (Lección 2). Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.
@@ -89,7 +89,7 @@ REGLA DE APROBACIÓN: aprueba solo si se cumplen TODOS los ítems imprescindible
 - e1-area: Al menos una afirmación se relaciona con una tarea concreta del área del alumno.
 
 CRITERIOS DE ESTE EJERCICIO
-- Comprensión conceptual — 2: Las clasificaciones son defendibles en al menos 5 de 6 y las justificaciones usan los conceptos de L1 (predice, no sabe; generativa; responsabilidad). 3: Las seis son defendibles y, en las que dependen del contexto, se indica de qué dependen.
+- Comprensión conceptual — 2: Las clasificaciones son defendibles en al menos 5 de 6 y las justificaciones usan los conceptos de la Lección 2 (predice, no sabe; generativa; responsabilidad). 3: Las seis son defendibles y, en las que dependen del contexto, se indica de qué dependen.
 - Claridad y estructura — 2: Tabla completa y legible, una fila por afirmación. 3: Justificaciones concisas, comprensibles sin haber leído el enunciado.
 - Verificación y rigor — 2: Al menos 2 afirmaciones contrastadas con un fragmento real y se indica qué se observó. 3: Contrasta 4 o más, o explica cómo comprobó cada observación y reconoce lo que no pudo comprobar.
 - Ética y riesgos — 2: Identifica al menos un riesgo de dar por cierta una respuesta (por ejemplo, difundir un error) y una medida. 3: Relaciona el riesgo con una consecuencia concreta en su área y fija un límite de uso.

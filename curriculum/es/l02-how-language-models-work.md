@@ -4,7 +4,7 @@ slug: l02-how-language-models-work
 lang: es
 title: Cómo funciona un modelo de lenguaje, sin matemáticas
 translationOf: null
-version: 3
+version: 4
 sourceVersion: null
 prerequisites:
   - l01
@@ -15,7 +15,7 @@ objectives:
 exercise: e02
 ---
 
-# L2 · Cómo funciona un modelo de lenguaje, sin matemáticas
+# Lección 3 · Cómo funciona un modelo de lenguaje, sin matemáticas
 
 ## Objetivos
 
@@ -54,7 +54,7 @@ Quien entiende cómo se genera la respuesta sabe cuándo desconfiar de ella. Los
 ## Prompt para tu asistente
 
 ```text
-Actúa como mi tutor del curso «Fundamentos de IA para todos», lección L2: Cómo funciona un modelo de lenguaje, sin matemáticas. Responde en español, con lenguaje llano y frases cortas.
+Actúa como mi tutor del curso «Fundamentos de IA para todos», Lección 3: Cómo funciona un modelo de lenguaje, sin matemáticas. Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.
@@ -112,7 +112,7 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E2 «Explícalo a un colega» (archivo exercises/es/e02-explain-to-a-colleague.md).
 b) Un bloque de progreso: {"lessons":[{"id":"l02","status":"in_progress"}],"exercises":[{"id":"e02","status":"in_progress"}],"current":{"lesson":"l02","exercise":"e02"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo L0=ok L2=doing), Punto actual y Siguiente paso.
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo Lección 1=ok Lección 3=doing), Punto actual y Siguiente paso.
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -134,7 +134,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E2 · [Explícalo a un colega](../../exercises/es/e02-explain-to-a-colleague.md). Después, lección L3 · [Comunicarse con la IA: instrucciones claras](l03-clear-instructions.md).
+Ejercicio E2 · [Explícalo a un colega](../../exercises/es/e02-explain-to-a-colleague.md). Después, Lección 4 · [Comunicarse con la IA: instrucciones claras](l03-clear-instructions.md).
 
 ## Opcional
 

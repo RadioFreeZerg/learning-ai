@@ -4,8 +4,8 @@ slug: e05-verification-report
 lang: en
 title: Verification report
 translationOf: exercises/es/e05-verification-report.md
-version: 4
-sourceVersion: 4
+version: 5
+sourceVersion: 5
 lesson: l05
 deliverable: Audited AI answer
 rubric: rubrics/en/general.md
@@ -59,7 +59,7 @@ A report of one to two pages, pasted as text: a summary of the original answer (
 ## Review prompt for your assistant
 
 ```text
-Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E5: Verification report (lesson L5). Answer in English, in plain language and short sentences.
+Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E5: Verification report (Lesson 5). Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.

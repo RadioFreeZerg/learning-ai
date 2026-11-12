@@ -4,8 +4,8 @@ slug: e09-automation-map
 lang: en
 title: Automation map
 translationOf: exercises/es/e09-automation-map.md
-version: 4
-sourceVersion: 4
+version: 5
+sourceVersion: 5
 lesson: l09
 deliverable: Map of tasks with decision to automate and controls
 rubric: rubrics/en/general.md
@@ -59,7 +59,7 @@ A table with the five tasks (task, steps, assessment by criteria, decision) and 
 ## Review prompt for your assistant
 
 ```text
-Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E9: Automation map (lesson L9). Answer in English, in plain language and short sentences.
+Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E9: Automation map (Lesson 9). Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.

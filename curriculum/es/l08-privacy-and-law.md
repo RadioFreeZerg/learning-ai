@@ -4,7 +4,7 @@ slug: l08-privacy-and-law
 lang: es
 title: Privacidad, propiedad intelectual y marco legal
 translationOf: null
-version: 3
+version: 4
 sourceVersion: null
 prerequisites:
   - l07
@@ -15,7 +15,7 @@ objectives:
 exercise: e08
 ---
 
-# L8 · Privacidad, propiedad intelectual y marco legal
+# Lección 9 · Privacidad, propiedad intelectual y marco legal
 
 ## Objetivos
 
@@ -54,7 +54,7 @@ Un dato compartido por error no se puede recuperar. Y usar un contenido sin sabe
 ## Prompt para tu asistente
 
 ```text
-Actúa como mi tutor del curso «Fundamentos de IA para todos», lección L8: Privacidad, propiedad intelectual y marco legal. Responde en español, con lenguaje llano y frases cortas.
+Actúa como mi tutor del curso «Fundamentos de IA para todos», Lección 9: Privacidad, propiedad intelectual y marco legal. Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.
@@ -112,7 +112,7 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E8 «Semáforo de datos» (archivo exercises/es/e08-data-traffic-light.md).
 b) Un bloque de progreso: {"lessons":[{"id":"l08","status":"in_progress"}],"exercises":[{"id":"e08","status":"in_progress"}],"current":{"lesson":"l08","exercise":"e08"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo L0=ok L8=doing), Punto actual y Siguiente paso.
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo Lección 1=ok Lección 9=doing), Punto actual y Siguiente paso.
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -134,7 +134,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E8 · [Semáforo de datos](../../exercises/es/e08-data-traffic-light.md). Después, lección L9 · [Automatización y agentes: conceptos](l09-automation-and-agents.md).
+Ejercicio E8 · [Semáforo de datos](../../exercises/es/e08-data-traffic-light.md). Después, Lección 10 · [Automatización y agentes: conceptos](l09-automation-and-agents.md).
 
 ## Opcional
 

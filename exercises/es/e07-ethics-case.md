@@ -4,7 +4,7 @@ slug: e07-ethics-case
 lang: es
 title: Caso ético de tu área
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
 lesson: l07
 deliverable: Análisis ético de un caso con condiciones de uso
@@ -59,7 +59,7 @@ Un documento de una a dos páginas, pegado como texto, con: caso, personas afect
 ## Prompt de revisión para tu asistente
 
 ```text
-Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E7: Caso ético de tu área (lección L7). Responde en español, con lenguaje llano y frases cortas.
+Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E7: Caso ético de tu área (Lección 8). Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.

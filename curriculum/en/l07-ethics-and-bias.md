@@ -4,8 +4,8 @@ slug: l07-ethics-and-bias
 lang: en
 title: Ethics, bias and responsible use
 translationOf: curriculum/es/l07-ethics-and-bias.md
-version: 3
-sourceVersion: 3
+version: 4
+sourceVersion: 4
 prerequisites:
   - l06
 objectives:
@@ -15,7 +15,7 @@ objectives:
 exercise: e07
 ---
 
-# L7 · Ethics, bias and responsible use
+# Lesson 7 · Ethics, bias and responsible use
 
 ## Objectives
 
@@ -54,7 +54,7 @@ An assistant can reproduce prejudices, treat different people unequally or prese
 ## Prompt for your assistant
 
 ```text
-Act as my tutor for the course "AI Fundamentals for Everyone", lesson L7: Ethics, bias and responsible use. Answer in English, in plain language and short sentences.
+Act as my tutor for the course "AI Fundamentals for Everyone", Lesson 7: Ethics, bias and responsible use. Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.
@@ -112,7 +112,7 @@ Count the lesson part as done only if I answer the essentials of each question; 
 CLOSING (once I have passed the check, in this order)
 a) Tell me the lesson part is done and that the next step is exercise E7 "Ethics case from your field" (file exercises/en/e07-ethics-case.md).
 b) A progress block: {"lessons":[{"id":"l07","status":"in_progress"}],"exercises":[{"id":"e07","status":"in_progress"}],"current":{"lesson":"l07","exercise":"e07"},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"}
-c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example L0=ok L7=doing), Current point and Next step.
+c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example Lesson 0=ok Lesson 7=doing), Current point and Next step.
 
 Start now: summarize in two sentences where I am and propose the goal for this session.
 ```
@@ -134,7 +134,7 @@ Start now: summarize in two sentences where I am and propose the goal for this s
 
 ## Next step
 
-Exercise E7 · [Ethics case from your field](../../exercises/en/e07-ethics-case.md). Then, lesson L8 · [Privacy, intellectual property and the legal landscape](l08-privacy-and-law.md).
+Exercise E7 · [Ethics case from your field](../../exercises/en/e07-ethics-case.md). Then, Lesson 8 · [Privacy, intellectual property and the legal landscape](l08-privacy-and-law.md).
 
 ## Optional
 

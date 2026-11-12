@@ -4,7 +4,7 @@ No necesitas instalar nada, programar ni pagar. Solo un chat con un asistente de
 
 ## Tu primera sesión, en 4 pasos
 
-1. **Abre la primera lección en tu navegador:** [L0 · Bienvenida](curriculum/es/l00-welcome.md). No la abras desde el asistente.
+1. **Abre la primera lección en tu navegador:** [Lección 1 · Bienvenida](curriculum/es/l00-welcome.md). No la abras desde el asistente.
 2. **Copia el prompt.** Baja hasta la sección «Prompt para tu asistente». Es un recuadro gris de texto. Pasa el ratón por encima y pulsa el botón de copiar de su esquina superior derecha (o selecciona todo el texto y cópialo).
 3. **Pégalo en un chat nuevo** de tu asistente de IA y envíalo. El tutor empieza solo: te da un aviso de privacidad, te explica el curso y te hace una entrevista breve.
 4. **Guarda lo que te da al final.** El tutor termina con una *tarjeta de continuidad* (un resumen corto). Cópiala en tus notas: la necesitarás la próxima vez.

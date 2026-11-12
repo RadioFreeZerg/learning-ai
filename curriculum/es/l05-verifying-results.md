@@ -4,7 +4,7 @@ slug: l05-verifying-results
 lang: es
 title: "Verificar resultados: errores, invenciones y fuentes"
 translationOf: null
-version: 3
+version: 4
 sourceVersion: null
 prerequisites:
   - l04
@@ -15,7 +15,7 @@ objectives:
 exercise: e05
 ---
 
-# L5 · Verificar resultados: errores, invenciones y fuentes
+# Lección 6 · Verificar resultados: errores, invenciones y fuentes
 
 ## Objetivos
 
@@ -50,7 +50,7 @@ El asistente no responde por el resultado; tú sí. La verificación es la habil
 ## Prompt para tu asistente
 
 ```text
-Actúa como mi tutor del curso «Fundamentos de IA para todos», lección L5: Verificar resultados: errores, invenciones y fuentes. Responde en español, con lenguaje llano y frases cortas.
+Actúa como mi tutor del curso «Fundamentos de IA para todos», Lección 6: Verificar resultados: errores, invenciones y fuentes. Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.
@@ -104,7 +104,7 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E5 «Informe de verificación» (archivo exercises/es/e05-verification-report.md).
 b) Un bloque de progreso: {"lessons":[{"id":"l05","status":"in_progress"}],"exercises":[{"id":"e05","status":"in_progress"}],"current":{"lesson":"l05","exercise":"e05"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo L0=ok L5=doing), Punto actual y Siguiente paso.
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo Lección 1=ok Lección 6=doing), Punto actual y Siguiente paso.
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -126,7 +126,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E5 · [Informe de verificación](../../exercises/es/e05-verification-report.md). Después, lección L6 · [Trabajar con documentos y datos propios](l06-documents-and-data.md).
+Ejercicio E5 · [Informe de verificación](../../exercises/es/e05-verification-report.md). Después, Lección 7 · [Trabajar con documentos y datos propios](l06-documents-and-data.md).
 
 ## Opcional
 

@@ -4,8 +4,8 @@ slug: e07-ethics-case
 lang: en
 title: Ethics case from your field
 translationOf: exercises/es/e07-ethics-case.md
-version: 4
-sourceVersion: 4
+version: 5
+sourceVersion: 5
 lesson: l07
 deliverable: Ethical analysis of a case with conditions of use
 rubric: rubrics/en/general.md
@@ -59,7 +59,7 @@ A document of one to two pages, pasted as text, with: case, affected people, ris
 ## Review prompt for your assistant
 
 ```text
-Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E7: Ethics case from your field (lesson L7). Answer in English, in plain language and short sentences.
+Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E7: Ethics case from your field (Lesson 7). Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.

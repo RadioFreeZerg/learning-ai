@@ -4,8 +4,8 @@ slug: e03-rewrite-three-instructions
 lang: en
 title: Rewrite three instructions
 translationOf: exercises/es/e03-rewrite-three-instructions.md
-version: 4
-sourceVersion: 4
+version: 5
+sourceVersion: 5
 lesson: l03
 deliverable: Three before/after pairs with the reason for each change
 rubric: rubrics/en/general.md
@@ -63,7 +63,7 @@ Three "Before / After / Why" blocks, at most 600 words in total, pasted as text.
 ## Review prompt for your assistant
 
 ```text
-Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E3: Rewrite three instructions (lesson L3). Answer in English, in plain language and short sentences.
+Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E3: Rewrite three instructions (Lesson 3). Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.

@@ -4,8 +4,8 @@ slug: l06-documents-and-data
 lang: en
 title: Working with your own documents and data
 translationOf: curriculum/es/l06-documents-and-data.md
-version: 3
-sourceVersion: 3
+version: 4
+sourceVersion: 4
 prerequisites:
   - l05
 objectives:
@@ -15,7 +15,7 @@ objectives:
 exercise: e06
 ---
 
-# L6 · Working with your own documents and data
+# Lesson 6 · Working with your own documents and data
 
 ## Objectives
 
@@ -52,7 +52,7 @@ A large part of daily work is reading, summarizing and reorganizing documents. T
 ## Prompt for your assistant
 
 ```text
-Act as my tutor for the course "AI Fundamentals for Everyone", lesson L6: Working with your own documents and data. Answer in English, in plain language and short sentences.
+Act as my tutor for the course "AI Fundamentals for Everyone", Lesson 6: Working with your own documents and data. Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.
@@ -108,7 +108,7 @@ Count the lesson part as done only if I answer the essentials of each question; 
 CLOSING (once I have passed the check, in this order)
 a) Tell me the lesson part is done and that the next step is exercise E6 "Verified summary" (file exercises/en/e06-verified-summary.md).
 b) A progress block: {"lessons":[{"id":"l06","status":"in_progress"}],"exercises":[{"id":"e06","status":"in_progress"}],"current":{"lesson":"l06","exercise":"e06"},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"}
-c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example L0=ok L6=doing), Current point and Next step.
+c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example Lesson 0=ok Lesson 6=doing), Current point and Next step.
 
 Start now: summarize in two sentences where I am and propose the goal for this session.
 ```
@@ -130,7 +130,7 @@ Start now: summarize in two sentences where I am and propose the goal for this s
 
 ## Next step
 
-Exercise E6 · [Verified summary](../../exercises/en/e06-verified-summary.md). Then, lesson L7 · [Ethics, bias and responsible use](l07-ethics-and-bias.md).
+Exercise E6 · [Verified summary](../../exercises/en/e06-verified-summary.md). Then, Lesson 7 · [Ethics, bias and responsible use](l07-ethics-and-bias.md).
 
 ## Optional
 

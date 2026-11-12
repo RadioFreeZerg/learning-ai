@@ -4,8 +4,8 @@ slug: e04-iteration-log
 lang: en
 title: Iteration log
 translationOf: exercises/es/e04-iteration-log.md
-version: 4
-sourceVersion: 4
+version: 5
+sourceVersion: 5
 lesson: l04
 deliverable: Record of a conversation improved over 3 rounds
 rubric: rubrics/en/general.md
@@ -59,7 +59,7 @@ A table with one row per round and these columns: round, instruction or correcti
 ## Review prompt for your assistant
 
 ```text
-Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E4: Iteration log (lesson L4). Answer in English, in plain language and short sentences.
+Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E4: Iteration log (Lesson 4). Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.

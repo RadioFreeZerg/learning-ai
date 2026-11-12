@@ -13,7 +13,7 @@ objectives:
 exercise: eNN
 ---
 
-# LN · Lesson title
+# Lesson N · Lesson title
 
 ## Objectives
 

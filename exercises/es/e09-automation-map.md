@@ -4,7 +4,7 @@ slug: e09-automation-map
 lang: es
 title: Mapa de automatización
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
 lesson: l09
 deliverable: Mapa de tareas con decisión de automatizar y controles
@@ -59,7 +59,7 @@ Una tabla con las cinco tareas (tarea, pasos, evaluación por criterios, decisi�
 ## Prompt de revisión para tu asistente
 
 ```text
-Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E9: Mapa de automatización (lección L9). Responde en español, con lenguaje llano y frases cortas.
+Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E9: Mapa de automatización (Lección 10). Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.

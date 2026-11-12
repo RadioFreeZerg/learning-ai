@@ -4,7 +4,7 @@ slug: l11-wrap-up
 lang: es
 title: "Cierre: revisar avisos y plan de continuidad"
 translationOf: null
-version: 3
+version: 4
 sourceVersion: null
 prerequisites:
   - l10
@@ -15,7 +15,7 @@ objectives:
 exercise: null
 ---
 
-# L11 · Cierre: revisar avisos y plan de continuidad
+# Lección 12 · Cierre: revisar avisos y plan de continuidad
 
 ## Objetivos
 
@@ -50,7 +50,7 @@ El curso termina, pero las herramientas cambian. Lo que perdura es el método: p
 ## Prompt para tu asistente
 
 ```text
-Actúa como mi tutor del curso «Fundamentos de IA para todos», lección L11: Cierre: revisar avisos y plan de continuidad. Responde en español, con lenguaje llano y frases cortas.
+Actúa como mi tutor del curso «Fundamentos de IA para todos», Lección 12: Cierre: revisar avisos y plan de continuidad. Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.

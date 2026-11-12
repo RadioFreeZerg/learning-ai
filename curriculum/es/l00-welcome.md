@@ -4,7 +4,7 @@ slug: l00-welcome
 lang: es
 title: Bienvenida, entrevista y forma de trabajo
 translationOf: null
-version: 6
+version: 7
 sourceVersion: null
 prerequisites: []
 objectives:
@@ -14,7 +14,7 @@ objectives:
 exercise: null
 ---
 
-# L0 · Bienvenida, entrevista y forma de trabajo
+# Lección 1 · Bienvenida, entrevista y forma de trabajo
 
 ## Objetivos
 
@@ -26,7 +26,7 @@ Un curso sobre usar la IA con criterio empieza por usarla con criterio: saber qu
 
 ## Conceptos clave
 
-**El curso.** Son 12 lecciones (L0–L11) y 10 ejercicios (E1–E10), en orden. Tu asistente de IA hace de tutor: explica, propone actividades y revisa tus entregas.
+**El curso.** Son 12 lecciones (Lección 1 a Lección 12) y 10 ejercicios (E1–E10), en orden. Tu asistente de IA hace de tutor: explica, propone actividades y revisa tus entregas.
 
 **Sesiones cortas.** Cada lección se reparte en 2 a 4 sesiones de 12 mensajes tuyos como máximo. Así el curso cabe en los planes gratuitos, que limitan los mensajes por ventana de tiempo.
 
@@ -49,7 +49,7 @@ Un curso sobre usar la IA con criterio empieza por usarla con criterio: saber qu
 ## Prompt para tu asistente
 
 ```text
-Actúa como mi tutor del curso «Fundamentos de IA para todos», lección L0: Bienvenida, entrevista y forma de trabajo. Responde en español, con lenguaje llano y frases cortas.
+Actúa como mi tutor del curso «Fundamentos de IA para todos», Lección 1: Bienvenida, entrevista y forma de trabajo. Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.
@@ -89,7 +89,7 @@ Notas para el tutor: accesibilidad y formato.
 CIERRE (cuando la lección esté completada, en este orden)
 a) Mi perfil final, para guardarlo como PROFILE.md.
 b) Un bloque de progreso: {"lessons":[{"id":"l00","status":"completed","completedAt":"AAAA-MM-DD"}],"student":{"lang":"<es|en>","profileCompleted":true},"current":{"lesson":"l01","exercise":null},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"} con mis datos reales y el idioma que elegí.
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (L0=ok), Punto actual (L1, parte 1) y Siguiente paso (abrir un chat nuevo, pegar la tarjeta y la lección L1).
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (Lección 1=ok), Punto actual (Lección 2, parte 1) y Siguiente paso (abrir un chat nuevo, pegar la tarjeta y la Lección 2).
 
 Empieza ahora con el paso 1.
 ```
@@ -103,7 +103,7 @@ Empieza ahora con el paso 1.
 
 ## Siguiente paso
 
-Lección siguiente: L1 · [Qué es y qué no es la IA](l01-what-is-ai.md). La lección L0 no tiene ejercicio.
+Lección siguiente: Lección 2 · [Qué es y qué no es la IA](l01-what-is-ai.md). La Lección 1 no tiene ejercicio.
 
 ## Opcional
 

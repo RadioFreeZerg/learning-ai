@@ -4,8 +4,8 @@ slug: l11-wrap-up
 lang: en
 title: "Wrap-up: revisiting warnings and a continuity plan"
 translationOf: curriculum/es/l11-wrap-up.md
-version: 4
-sourceVersion: 3
+version: 5
+sourceVersion: 4
 prerequisites:
   - l10
 objectives:
@@ -15,7 +15,7 @@ objectives:
 exercise: null
 ---
 
-# L11 · Wrap-up: revisiting warnings and a continuity plan
+# Lesson 11 · Wrap-up: revisiting warnings and a continuity plan
 
 ## Objectives
 
@@ -50,7 +50,7 @@ The course ends, but tools change. What lasts is the method: ask well, verify an
 ## Prompt for your assistant
 
 ```text
-Act as my tutor for the course "AI Fundamentals for Everyone", lesson L11: Wrap-up: revisiting warnings and a continuity plan. Answer in English, in plain language and short sentences.
+Act as my tutor for the course "AI Fundamentals for Everyone", Lesson 11: Wrap-up: revisiting warnings and a continuity plan. Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.

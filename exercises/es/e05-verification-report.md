@@ -4,7 +4,7 @@ slug: e05-verification-report
 lang: es
 title: Informe de verificación
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
 lesson: l05
 deliverable: Respuesta de IA auditada
@@ -59,7 +59,7 @@ Un informe de una a dos páginas, pegado como texto: un resumen de la respuesta 
 ## Prompt de revisión para tu asistente
 
 ```text
-Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E5: Informe de verificación (lección L5). Responde en español, con lenguaje llano y frases cortas.
+Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E5: Informe de verificación (Lección 6). Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.

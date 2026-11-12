@@ -12,7 +12,7 @@ Curso para aprender a usar la IA con criterio y responsabilidad en el estudio y 
 
 ### Cómo funciona
 
-- 12 lecciones (L0–L11) y 10 ejercicios (E1–E10), en orden.
+- 12 lecciones (Lección 1 a Lección 12) y 10 ejercicios (E1–E10), en orden.
 - Tu asistente de IA hace de tutor: te entrevista al empezar, guía cada lección, revisa tus ejercicios con una rúbrica y anota tu avance.
 - La revisión orienta, no bloquea: si un ejercicio no aprueba en dos intentos, tú decides si lo repites o avanzas con un aviso que podrás retomar después.
 - Tu perfil, tu progreso y tus entregas se quedan en tu equipo; el repositorio no los publica.
@@ -64,7 +64,7 @@ A course on using AI with judgment and responsibility in study and work. You don
 
 ### How it works
 
-- 12 lessons (L0–L11) and 10 exercises (E1–E10), in order.
+- 12 lessons (Lessons 0–11) and 10 exercises (E1–E10), in order.
 - Your AI assistant acts as the tutor: it interviews you at the start, guides each lesson, reviews your exercises with a rubric, and records your progress.
 - Review guides but never blocks: if an exercise doesn't pass in two attempts, you choose to retry or move on with a warning you can revisit later.
 - Your profile, progress and submissions stay on your computer; the repository does not publish them.

@@ -4,7 +4,7 @@ slug: e06-verified-summary
 lang: es
 title: Resumen verificado
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
 lesson: l06
 deliverable: Resumen de un documento comprobado contra el original
@@ -59,7 +59,7 @@ Un documento de una a dos páginas, pegado como texto, con cuatro partes: prepar
 ## Prompt de revisión para tu asistente
 
 ```text
-Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E6: Resumen verificado (lección L6). Responde en español, con lenguaje llano y frases cortas.
+Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E6: Resumen verificado (Lección 7). Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.

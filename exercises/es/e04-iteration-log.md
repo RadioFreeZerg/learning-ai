@@ -4,7 +4,7 @@ slug: e04-iteration-log
 lang: es
 title: Bitácora de iteración
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
 lesson: l04
 deliverable: Registro de una conversación mejorada en 3 rondas
@@ -59,7 +59,7 @@ Una tabla con una fila por ronda y estas columnas: ronda, instrucción o correcc
 ## Prompt de revisión para tu asistente
 
 ```text
-Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E4: Bitácora de iteración (lección L4). Responde en español, con lenguaje llano y frases cortas.
+Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E4: Bitácora de iteración (Lección 5). Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.

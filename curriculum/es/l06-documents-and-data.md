@@ -4,7 +4,7 @@ slug: l06-documents-and-data
 lang: es
 title: Trabajar con documentos y datos propios
 translationOf: null
-version: 3
+version: 4
 sourceVersion: null
 prerequisites:
   - l05
@@ -15,7 +15,7 @@ objectives:
 exercise: e06
 ---
 
-# L6 · Trabajar con documentos y datos propios
+# Lección 7 · Trabajar con documentos y datos propios
 
 ## Objetivos
 
@@ -52,7 +52,7 @@ Gran parte del trabajo diario consiste en leer, resumir y reorganizar documentos
 ## Prompt para tu asistente
 
 ```text
-Actúa como mi tutor del curso «Fundamentos de IA para todos», lección L6: Trabajar con documentos y datos propios. Responde en español, con lenguaje llano y frases cortas.
+Actúa como mi tutor del curso «Fundamentos de IA para todos», Lección 7: Trabajar con documentos y datos propios. Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.
@@ -108,7 +108,7 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E6 «Resumen verificado» (archivo exercises/es/e06-verified-summary.md).
 b) Un bloque de progreso: {"lessons":[{"id":"l06","status":"in_progress"}],"exercises":[{"id":"e06","status":"in_progress"}],"current":{"lesson":"l06","exercise":"e06"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo L0=ok L6=doing), Punto actual y Siguiente paso.
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo Lección 1=ok Lección 7=doing), Punto actual y Siguiente paso.
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -130,7 +130,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E6 · [Resumen verificado](../../exercises/es/e06-verified-summary.md). Después, lección L7 · [Ética, sesgos y uso responsable](l07-ethics-and-bias.md).
+Ejercicio E6 · [Resumen verificado](../../exercises/es/e06-verified-summary.md). Después, Lección 8 · [Ética, sesgos y uso responsable](l07-ethics-and-bias.md).
 
 ## Opcional
 

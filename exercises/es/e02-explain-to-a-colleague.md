@@ -4,7 +4,7 @@ slug: e02-explain-to-a-colleague
 lang: es
 title: Explícalo a un colega
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
 lesson: l02
 deliverable: Explicación de una página con analogía propia y tres límites
@@ -60,7 +60,7 @@ Texto corrido de 300 a 600 palabras, pegado en el chat. Si trabajas con archivos
 ## Prompt de revisión para tu asistente
 
 ```text
-Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E2: Explícalo a un colega (lección L2). Responde en español, con lenguaje llano y frases cortas.
+Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E2: Explícalo a un colega (Lección 3). Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.

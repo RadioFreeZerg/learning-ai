@@ -4,8 +4,8 @@ slug: e10-final-workflow
 lang: en
 title: Final workflow
 translationOf: exercises/es/e10-final-workflow.md
-version: 4
-sourceVersion: 4
+version: 5
+sourceVersion: 5
 lesson: l10
 deliverable: Documented AI-assisted workflow
 rubric: rubrics/en/general.md
@@ -59,7 +59,7 @@ A document pasted as text, with: task and expected result, table of steps (step,
 ## Review prompt for your assistant
 
 ```text
-Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E10: Final workflow (lesson L10). Answer in English, in plain language and short sentences.
+Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E10: Final workflow (Lesson 10). Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.

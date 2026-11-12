@@ -4,7 +4,7 @@ You do not need to install anything, code or pay. You only need a chat with an A
 
 ## Your first session, in 4 steps
 
-1. **Open the first lesson in your browser:** [L0 · Welcome](curriculum/en/l00-welcome.md). Do not open it from inside the assistant.
+1. **Open the first lesson in your browser:** [Lesson 0 · Welcome](curriculum/en/l00-welcome.md). Do not open it from inside the assistant.
 2. **Copy the prompt.** Scroll down to the section "Prompt for your assistant". It is a gray box of text. Hover over it and press the copy button in its top-right corner (or select all the text and copy it).
 3. **Paste it into a new chat** with your AI assistant and send it. The tutor starts on its own: it gives you a privacy notice, explains the course and runs a short interview.
 4. **Save what it gives you at the end.** The tutor finishes with a *continuity card* (a short summary). Copy it into your notes: you will need it next time.

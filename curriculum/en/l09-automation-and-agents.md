@@ -4,8 +4,8 @@ slug: l09-automation-and-agents
 lang: en
 title: "Automation and agents: concepts"
 translationOf: curriculum/es/l09-automation-and-agents.md
-version: 3
-sourceVersion: 3
+version: 4
+sourceVersion: 4
 prerequisites:
   - l08
 objectives:
@@ -15,7 +15,7 @@ objectives:
 exercise: e09
 ---
 
-# L9 · Automation and agents: concepts
+# Lesson 9 · Automation and agents: concepts
 
 ## Objectives
 
@@ -56,7 +56,7 @@ More and more tools do not just answer: they chain steps and act for you. Unders
 ## Prompt for your assistant
 
 ```text
-Act as my tutor for the course "AI Fundamentals for Everyone", lesson L9: Automation and agents: concepts. Answer in English, in plain language and short sentences.
+Act as my tutor for the course "AI Fundamentals for Everyone", Lesson 9: Automation and agents: concepts. Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.
@@ -116,7 +116,7 @@ Count the lesson part as done only if I answer the essentials of each question; 
 CLOSING (once I have passed the check, in this order)
 a) Tell me the lesson part is done and that the next step is exercise E9 "Automation map" (file exercises/en/e09-automation-map.md).
 b) A progress block: {"lessons":[{"id":"l09","status":"in_progress"}],"exercises":[{"id":"e09","status":"in_progress"}],"current":{"lesson":"l09","exercise":"e09"},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"}
-c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example L0=ok L9=doing), Current point and Next step.
+c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example Lesson 0=ok Lesson 9=doing), Current point and Next step.
 
 Start now: summarize in two sentences where I am and propose the goal for this session.
 ```
@@ -138,7 +138,7 @@ Start now: summarize in two sentences where I am and propose the goal for this s
 
 ## Next step
 
-Exercise E9 · [Automation map](../../exercises/en/e09-automation-map.md). Then, lesson L10 · [Designing an AI-assisted workflow](l10-workflow-design.md).
+Exercise E9 · [Automation map](../../exercises/en/e09-automation-map.md). Then, Lesson 10 · [Designing an AI-assisted workflow](l10-workflow-design.md).
 
 ## Optional
 

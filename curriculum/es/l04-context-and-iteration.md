@@ -4,7 +4,7 @@ slug: l04-context-and-iteration
 lang: es
 title: Contexto, ejemplos e iteración
 translationOf: null
-version: 3
+version: 4
 sourceVersion: null
 prerequisites:
   - l03
@@ -15,7 +15,7 @@ objectives:
 exercise: e04
 ---
 
-# L4 · Contexto, ejemplos e iteración
+# Lección 5 · Contexto, ejemplos e iteración
 
 ## Objetivos
 
@@ -52,7 +52,7 @@ La primera respuesta rara vez es la final. Quien itera con método llega antes y
 ## Prompt para tu asistente
 
 ```text
-Actúa como mi tutor del curso «Fundamentos de IA para todos», lección L4: Contexto, ejemplos e iteración. Responde en español, con lenguaje llano y frases cortas.
+Actúa como mi tutor del curso «Fundamentos de IA para todos», Lección 5: Contexto, ejemplos e iteración. Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.
@@ -108,7 +108,7 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E4 «Bitácora de iteración» (archivo exercises/es/e04-iteration-log.md).
 b) Un bloque de progreso: {"lessons":[{"id":"l04","status":"in_progress"}],"exercises":[{"id":"e04","status":"in_progress"}],"current":{"lesson":"l04","exercise":"e04"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo L0=ok L4=doing), Punto actual y Siguiente paso.
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo Lección 1=ok Lección 5=doing), Punto actual y Siguiente paso.
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -130,7 +130,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E4 · [Bitácora de iteración](../../exercises/es/e04-iteration-log.md). Después, lección L5 · [Verificar resultados: errores, invenciones y fuentes](l05-verifying-results.md).
+Ejercicio E4 · [Bitácora de iteración](../../exercises/es/e04-iteration-log.md). Después, Lección 6 · [Verificar resultados: errores, invenciones y fuentes](l05-verifying-results.md).
 
 ## Opcional
 

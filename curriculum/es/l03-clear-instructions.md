@@ -4,7 +4,7 @@ slug: l03-clear-instructions
 lang: es
 title: "Comunicarse con la IA: instrucciones claras"
 translationOf: null
-version: 3
+version: 4
 sourceVersion: null
 prerequisites:
   - l02
@@ -15,7 +15,7 @@ objectives:
 exercise: e03
 ---
 
-# L3 · Comunicarse con la IA: instrucciones claras
+# Lección 4 · Comunicarse con la IA: instrucciones claras
 
 ## Objetivos
 
@@ -35,7 +35,7 @@ Un asistente rellena con lo más probable lo que no dices. Si tu petición es va
 
 **Pide preguntas.** Cuando no sabes qué falta, escribe: «antes de responder, hazme las preguntas que necesites». Suele mejorar el resultado.
 
-**Comprueba el resultado.** Una buena instrucción incluye cómo vas a saber que la respuesta sirve: un criterio que puedas revisar tú, como «cada cifra debe poder buscarse en el texto que te pasé». Es la base de la verificación (L5).
+**Comprueba el resultado.** Una buena instrucción incluye cómo vas a saber que la respuesta sirve: un criterio que puedas revisar tú, como «cada cifra debe poder buscarse en el texto que te pasé». Es la base de la verificación (Lección 6).
 
 **Sin datos sensibles.** Una instrucción clara no necesita datos personales. Sustituye nombres y cifras por marcadores como [CLIENTE A].
 
@@ -50,7 +50,7 @@ Un asistente rellena con lo más probable lo que no dices. Si tu petición es va
 ## Prompt para tu asistente
 
 ```text
-Actúa como mi tutor del curso «Fundamentos de IA para todos», lección L3: Comunicarse con la IA: instrucciones claras. Responde en español, con lenguaje llano y frases cortas.
+Actúa como mi tutor del curso «Fundamentos de IA para todos», Lección 4: Comunicarse con la IA: instrucciones claras. Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.
@@ -82,7 +82,7 @@ QUÉ ENSEÑAR, UNA IDEA CADA VEZ
 
 **Pide preguntas.** Cuando no sabes qué falta, escribe: «antes de responder, hazme las preguntas que necesites». Suele mejorar el resultado.
 
-**Comprueba el resultado.** Una buena instrucción incluye cómo vas a saber que la respuesta sirve: un criterio que puedas revisar tú, como «cada cifra debe poder buscarse en el texto que te pasé». Es la base de la verificación (L5).
+**Comprueba el resultado.** Una buena instrucción incluye cómo vas a saber que la respuesta sirve: un criterio que puedas revisar tú, como «cada cifra debe poder buscarse en el texto que te pasé». Es la base de la verificación (Lección 6).
 
 **Sin datos sensibles.** Una instrucción clara no necesita datos personales. Sustituye nombres y cifras por marcadores como [CLIENTE A].
 
@@ -104,7 +104,7 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E3 «Reescribe tres instrucciones» (archivo exercises/es/e03-rewrite-three-instructions.md).
 b) Un bloque de progreso: {"lessons":[{"id":"l03","status":"in_progress"}],"exercises":[{"id":"e03","status":"in_progress"}],"current":{"lesson":"l03","exercise":"e03"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo L0=ok L3=doing), Punto actual y Siguiente paso.
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo Lección 1=ok Lección 4=doing), Punto actual y Siguiente paso.
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -120,13 +120,13 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 ## Errores comunes
 
 - **Instrucciones larguísimas con todo mezclado.** Largo no es claro; ordena por partes.
-- **Corregir solo con «hazlo mejor».** No indica qué cambiar; lo veremos en L4.
+- **Corregir solo con «hazlo mejor».** No indica qué cambiar; lo veremos en la Lección 5.
 - **No decir para quién es el resultado.** El tono y el nivel dependen del lector.
 - **Olvidar el criterio de comprobación.** Sin él, no sabes si la respuesta sirve.
 
 ## Siguiente paso
 
-Ejercicio E3 · [Reescribe tres instrucciones](../../exercises/es/e03-rewrite-three-instructions.md). Después, lección L4 · [Contexto, ejemplos e iteración](l04-context-and-iteration.md).
+Ejercicio E3 · [Reescribe tres instrucciones](../../exercises/es/e03-rewrite-three-instructions.md). Después, Lección 5 · [Contexto, ejemplos e iteración](l04-context-and-iteration.md).
 
 ## Opcional
 

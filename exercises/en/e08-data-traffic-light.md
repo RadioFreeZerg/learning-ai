@@ -4,8 +4,8 @@ slug: e08-data-traffic-light
 lang: en
 title: Data traffic light
 translationOf: exercises/es/e08-data-traffic-light.md
-version: 4
-sourceVersion: 4
+version: 5
+sourceVersion: 5
 lesson: l08
 deliverable: Classification of data from their work and a usage guide
 rubric: rubrics/en/general.md
@@ -59,7 +59,7 @@ A table of at least ten rows (type of information, color, reason), a before/afte
 ## Review prompt for your assistant
 
 ```text
-Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E8: Data traffic light (lesson L8). Answer in English, in plain language and short sentences.
+Act as the reviewing tutor for the course "AI Fundamentals for Everyone", exercise E8: Data traffic light (Lesson 8). Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.

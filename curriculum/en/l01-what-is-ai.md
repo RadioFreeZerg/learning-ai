@@ -4,8 +4,8 @@ slug: l01-what-is-ai
 lang: en
 title: What AI is and is not
 translationOf: curriculum/es/l01-what-is-ai.md
-version: 4
-sourceVersion: 4
+version: 5
+sourceVersion: 5
 prerequisites:
   - l00
 objectives:
@@ -15,7 +15,7 @@ objectives:
 exercise: e01
 ---
 
-# L1 · What AI is and is not
+# Lesson 1 · What AI is and is not
 
 ## Objectives
 
@@ -37,7 +37,7 @@ Someone who expects AI to "know" or "think" like a person trusts it too much and
 
 **What it usually does badly.** Guaranteeing that what it says is true, knowing what happened yesterday unless you tell it, knowing your context unless you share it, taking responsibility for a result and deciding for you when values are at stake.
 
-**It predicts, it does not understand like a person.** An assistant produces the answer that is most likely given what it learned. It can sound confident and be wrong. In lesson L2 you will see why.
+**It predicts, it does not understand like a person.** An assistant produces the answer that is most likely given what it learned. It can sound confident and be wrong. In Lesson 2 you will see why.
 
 **Common myths.** "It knows what is true", "it thinks like a person", "it always gives the same answer", "if it is paid it does not make mistakes", "it replaces human judgment". All are false or incomplete.
 
@@ -52,7 +52,7 @@ Someone who expects AI to "know" or "think" like a person trusts it too much and
 ## Prompt for your assistant
 
 ```text
-Act as my tutor for the course "AI Fundamentals for Everyone", lesson L1: What AI is and is not. Answer in English, in plain language and short sentences.
+Act as my tutor for the course "AI Fundamentals for Everyone", Lesson 1: What AI is and is not. Answer in English, in plain language and short sentences.
 
 TUTOR RULES
 1. Do not pass me out of politeness: score only what I submit and quote the part that justifies each score.
@@ -86,7 +86,7 @@ WHAT TO TEACH, ONE IDEA AT A TIME
 
 **What it usually does badly.** Guaranteeing that what it says is true, knowing what happened yesterday unless you tell it, knowing your context unless you share it, taking responsibility for a result and deciding for you when values are at stake.
 
-**It predicts, it does not understand like a person.** An assistant produces the answer that is most likely given what it learned. It can sound confident and be wrong. In lesson L2 you will see why.
+**It predicts, it does not understand like a person.** An assistant produces the answer that is most likely given what it learned. It can sound confident and be wrong. In Lesson 2 you will see why.
 
 **Common myths.** "It knows what is true", "it thinks like a person", "it always gives the same answer", "if it is paid it does not make mistakes", "it replaces human judgment". All are false or incomplete.
 
@@ -108,7 +108,7 @@ Count the lesson part as done only if I answer the essentials of each question; 
 CLOSING (once I have passed the check, in this order)
 a) Tell me the lesson part is done and that the next step is exercise E1 "Myths and facts" (file exercises/en/e01-myths-and-facts.md).
 b) A progress block: {"lessons":[{"id":"l01","status":"in_progress"}],"exercises":[{"id":"e01","status":"in_progress"}],"current":{"lesson":"l01","exercise":"e01"},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"}
-c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example L0=ok L1=doing), Current point and Next step.
+c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example Lesson 0=ok Lesson 1=doing), Current point and Next step.
 
 Start now: summarize in two sentences where I am and propose the goal for this session.
 ```
@@ -132,7 +132,7 @@ The tutor asks you these questions, one at a time:
 
 ## Next step
 
-Exercise E1 · [Myths and facts](../../exercises/en/e01-myths-and-facts.md). Then, lesson L2 · [How a language model works, without math](l02-how-language-models-work.md).
+Exercise E1 · [Myths and facts](../../exercises/en/e01-myths-and-facts.md). Then, Lesson 2 · [How a language model works, without math](l02-how-language-models-work.md).
 
 ## Optional
 

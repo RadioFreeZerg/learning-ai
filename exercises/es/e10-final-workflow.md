@@ -4,7 +4,7 @@ slug: e10-final-workflow
 lang: es
 title: Flujo de trabajo final
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
 lesson: l10
 deliverable: Flujo de trabajo asistido por IA documentado
@@ -59,7 +59,7 @@ Un documento pegado como texto, con: tarea y resultado esperado, tabla de pasos 
 ## Prompt de revisión para tu asistente
 
 ```text
-Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E10: Flujo de trabajo final (lección L10). Responde en español, con lenguaje llano y frases cortas.
+Actúa como tutor revisor del curso «Fundamentos de IA para todos», ejercicio E10: Flujo de trabajo final (Lección 11). Responde en español, con lenguaje llano y frases cortas.
 
 REGLAS DEL TUTOR
 1. No apruebes por cortesía: puntúa solo lo que entrego y cita la parte que justifica cada puntuación.
