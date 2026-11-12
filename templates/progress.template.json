@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "1.0",
+  "course": {
+    "id": "ai-fundamentals-for-everyone",
+    "title": {
+      "es": "Fundamentos de IA para todos",
+      "en": "AI Fundamentals for Everyone"
+    },
+    "contentVersion": "1.0.0"
+  },
+  "student": {
+    "displayName": null,
+    "lang": null,
+    "profileFile": "PROFILE.md",
+    "profileCompleted": false,
+    "startedAt": null
+  },
+  "current": {
+    "lesson": "l00",
+    "exercise": null
+  },
+  "lessons": [
+    {
+      "id": "l00",
+      "slug": "l00-welcome",
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "warningId": null
+    },
+    {
+      "id": "l01",
+      "slug": "l01-what-is-ai",
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "warningId": null
+    },
+    {
+      "id": "l02",
+      "slug": "l02-how-language-models-work",
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "warningId": null
+    },
+    {
+      "id": "l03",
+      "slug": "l03-clear-instructions",
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "warningId": null
+    },
+    {
+      "id": "l04",
+      "slug": "l04-context-and-iteration",
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "warningId": null
+    },
+    {
+      "id": "l05",
+      "slug": "l05-verifying-results",
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "warningId": null
+    },
+    {
+      "id": "l06",
+      "slug": "l06-documents-and-data",
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "warningId": null
+    },
+    {
+      "id": "l07",
+      "slug": "l07-ethics-and-bias",
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "warningId": null
+    },
+    {
+      "id": "l08",
+      "slug": "l08-privacy-and-law",
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "warningId": null
+    },
+    {
+      "id": "l09",
+      "slug": "l09-automation-and-agents",
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "warningId": null
+    },
+    {
+      "id": "l10",
+      "slug": "l10-workflow-design",
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "warningId": null
+    },
+    {
+      "id": "l11",
+      "slug": "l11-wrap-up",
+      "status": "not_started",
+      "startedAt": null,
+      "completedAt": null,
+      "warningId": null
+    }
+  ],
+  "exercises": [
+    {
+      "id": "e01",
+      "slug": "e01-myths-and-facts",
+      "lesson": "l01",
+      "status": "not_started",
+      "warningId": null,
+      "attempts": []
+    },
+    {
+      "id": "e02",
+      "slug": "e02-explain-to-a-colleague",
+      "lesson": "l02",
+      "status": "not_started",
+      "warningId": null,
+      "attempts": []
+    },
+    {
+      "id": "e03",
+      "slug": "e03-rewrite-three-instructions",
+      "lesson": "l03",
+      "status": "not_started",
+      "warningId": null,
+      "attempts": []
+    },
+    {
+      "id": "e04",
+      "slug": "e04-iteration-log",
+      "lesson": "l04",
+      "status": "not_started",
+      "warningId": null,
+      "attempts": []
+    },
+    {
+      "id": "e05",
+      "slug": "e05-verification-report",
+      "lesson": "l05",
+      "status": "not_started",
+      "warningId": null,
+      "attempts": []
+    },
+    {
+      "id": "e06",
+      "slug": "e06-verified-summary",
+      "lesson": "l06",
+      "status": "not_started",
+      "warningId": null,
+      "attempts": []
+    },
+    {
+      "id": "e07",
+      "slug": "e07-ethics-case",
+      "lesson": "l07",
+      "status": "not_started",
+      "warningId": null,
+      "attempts": []
+    },
+    {
+      "id": "e08",
+      "slug": "e08-data-traffic-light",
+      "lesson": "l08",
+      "status": "not_started",
+      "warningId": null,
+      "attempts": []
+    },
+    {
+      "id": "e09",
+      "slug": "e09-automation-map",
+      "lesson": "l09",
+      "status": "not_started",
+      "warningId": null,
+      "attempts": []
+    },
+    {
+      "id": "e10",
+      "slug": "e10-final-workflow",
+      "lesson": "l10",
+      "status": "not_started",
+      "warningId": null,
+      "attempts": []
+    }
+  ],
+  "warnings": [],
+  "updatedAt": null,
+  "updatedBy": null
+}
