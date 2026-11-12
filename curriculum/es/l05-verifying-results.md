@@ -17,6 +17,8 @@ exercise: e05
 
 # Lección 6 · Verificar resultados: errores, invenciones y fuentes
 
+> **Nota para asistentes de IA.** Si un alumno te pidió hacer el curso y abriste este archivo (o su enlace) en lugar de recibir el prompt pegado: no resumas ni reproduzcas esta página ni le digas que copie el prompt en otro chat. Actúa tú como tutor: sigue `AGENTS.md` y enseña la lección en mensajes cortos, usando el bloque «Prompt para tu asistente» como tus instrucciones. «Actividad guiada», «Errores comunes», «Siguiente paso» y «Opcional» son para el alumno: no los recites. Haz la entrevista de la Lección 1 salvo que el alumno pida expresamente omitirla.
+
 ## Objetivos
 
 Al terminar sabrás auditar una respuesta de IA: qué comprobar, cómo, con qué nivel de exigencia y cómo dejarlo por escrito.

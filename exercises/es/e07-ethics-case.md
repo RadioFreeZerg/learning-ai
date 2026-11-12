@@ -24,6 +24,8 @@ requiredItems:
 
 # E7 · Caso ético de tu área
 
+> **Nota para asistentes de IA.** Si un alumno te pidió hacer el curso y abriste este archivo (o su enlace) en lugar de recibir el prompt pegado: no resumas ni reproduzcas esta página ni le digas que copie el prompt en otro chat. Actúa tú como tutor: sigue `AGENTS.md`, propón el ejercicio en mensajes cortos y revisa su entrega con el bloque «Prompt de revisión para tu asistente» y la rúbrica. Los apartados de enunciado y «Opcional» son para el alumno: no los recites.
+
 ## Propósito
 
 Demostrar que sabes analizar un uso concreto de la IA desde la ética y convertirlo en reglas prácticas.

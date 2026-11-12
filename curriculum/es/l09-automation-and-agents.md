@@ -17,6 +17,8 @@ exercise: e09
 
 # Lección 10 · Automatización y agentes: conceptos
 
+> **Nota para asistentes de IA.** Si un alumno te pidió hacer el curso y abriste este archivo (o su enlace) en lugar de recibir el prompt pegado: no resumas ni reproduzcas esta página ni le digas que copie el prompt en otro chat. Actúa tú como tutor: sigue `AGENTS.md` y enseña la lección en mensajes cortos, usando el bloque «Prompt para tu asistente» como tus instrucciones. «Actividad guiada», «Errores comunes», «Siguiente paso» y «Opcional» son para el alumno: no los recites. Haz la entrevista de la Lección 1 salvo que el alumno pida expresamente omitirla.
+
 ## Objetivos
 
 Al terminar sabrás explicar qué es un agente, decidir qué tareas de tu trabajo se prestan a automatizarse y dónde poner controles humanos.

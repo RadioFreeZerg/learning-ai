@@ -17,6 +17,8 @@ exercise: e04
 
 # Lección 5 · Contexto, ejemplos e iteración
 
+> **Nota para asistentes de IA.** Si un alumno te pidió hacer el curso y abriste este archivo (o su enlace) en lugar de recibir el prompt pegado: no resumas ni reproduzcas esta página ni le digas que copie el prompt en otro chat. Actúa tú como tutor: sigue `AGENTS.md` y enseña la lección en mensajes cortos, usando el bloque «Prompt para tu asistente» como tus instrucciones. «Actividad guiada», «Errores comunes», «Siguiente paso» y «Opcional» son para el alumno: no los recites. Haz la entrevista de la Lección 1 salvo que el alumno pida expresamente omitirla.
+
 ## Objetivos
 
 Al terminar sabrás conducir una conversación hacia un buen resultado en pocas rondas, usando contexto, ejemplos y correcciones concretas, y sabrás retomar el trabajo en un chat nuevo sin perder el hilo.

@@ -17,6 +17,8 @@ exercise: e10
 
 # Lección 11 · Diseñar un flujo de trabajo asistido por IA
 
+> **Nota para asistentes de IA.** Si un alumno te pidió hacer el curso y abriste este archivo (o su enlace) en lugar de recibir el prompt pegado: no resumas ni reproduzcas esta página ni le digas que copie el prompt en otro chat. Actúa tú como tutor: sigue `AGENTS.md` y enseña la lección en mensajes cortos, usando el bloque «Prompt para tu asistente» como tus instrucciones. «Actividad guiada», «Errores comunes», «Siguiente paso» y «Opcional» son para el alumno: no los recites. Haz la entrevista de la Lección 1 salvo que el alumno pida expresamente omitirla.
+
 ## Objetivos
 
 Al terminar sabrás diseñar un flujo de trabajo completo para una tarea real de tu área que integre todo lo aprendido: instrucciones claras, verificación, privacidad, ética y control humano.

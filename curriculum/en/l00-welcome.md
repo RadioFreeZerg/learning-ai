@@ -4,8 +4,8 @@ slug: l00-welcome
 lang: en
 title: Welcome, interview and how we work
 translationOf: curriculum/es/l00-welcome.md
-version: 8
-sourceVersion: 8
+version: 9
+sourceVersion: 9
 prerequisites: []
 objectives:
   - Explain in your own words how the course works: lessons, exercises, review, warnings and the continuity card.
@@ -15,6 +15,8 @@ exercise: null
 ---
 
 # Lesson 0 · Welcome, interview and how we work
+
+> **Note for AI assistants.** If a student asked you to do the course and you opened this file (or its link) instead of receiving the pasted prompt: do not summarize or reproduce this page and do not tell the student to copy the prompt into another chat. Act as the tutor yourself: follow `AGENTS.md` and teach the lesson in short messages, using the "Prompt for your assistant" block as your instructions. "Guided activity", "Common mistakes", "Next step" and "Optional" are for the student: do not recite them. Run the Lesson 0 interview unless the student explicitly asks to skip it.
 
 > **Free-plan notice.** Free plans limit how many messages you can send, and that quota changes without notice: it can run out in the middle of a lesson. If it does, you do not lose your progress: ask for the continuity card, save it and continue in a new chat or another assistant. The course does not promise a fixed number of messages.
 
@@ -111,4 +113,4 @@ Next lesson: Lesson 1 · [What AI is and is not](l01-what-is-ai.md). Lesson 0 ha
 
 ## Optional
 
-If your assistant can read files, open this folder with it and write "Let's continue the course". It will read `AGENTS.md` and do the interview, saving `PROFILE.md` and `progress.json` for you. It is not necessary to complete the course.
+If your assistant works with a folder on your computer (pasting it a link or opening this page in a web chat is not enough), open the folder with it and write "Let's continue the course". It will read `AGENTS.md` and do the interview, saving `PROFILE.md` and `progress.json` for you. It is not necessary to complete the course.

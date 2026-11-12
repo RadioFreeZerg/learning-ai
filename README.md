@@ -4,6 +4,8 @@ A tool to help users learn how to use AI with discernment and responsibility in 
 
 **Español** · [English](#english)
 
+> **Para asistentes de IA / For AI assistants.** Si un alumno te pidió «hacer el curso» con este enlace, no recites ni resumas esta página, `EMPEZAR.md` ni las lecciones: lee `AGENTS.md` y actúa como tutor, enseñando en mensajes cortos desde la Lección 1 (o la lección actual si el alumno trae su tarjeta de continuidad). Si el alumno pide omitir la entrevista, acéptalo. / If a student asked you to "do the course" with this link, do not recite or summarize this page, `START.md` or the lessons: read `AGENTS.md` and act as the tutor, teaching in short messages from Lesson 0 (or the current lesson if the student brings a continuity card). If the student asks to skip the interview, accept.
+
 ---
 
 ## Fundamentos de IA para todos
@@ -21,7 +23,7 @@ Curso para aprender a usar la IA con criterio y responsabilidad en el estudio y 
 
 **Sigue la guía paso a paso: [EMPEZAR.md](EMPEZAR.md).** En resumen: abres una lección en tu navegador, copias su prompt, lo pegas en un chat nuevo de tu asistente de IA y guardas la tarjeta que te da al final.
 
-**No pegues la dirección del repositorio en el asistente ni le pidas que la abra.** Los planes gratuitos no navegan: si le das un enlace, responderá que no puede acceder. Copia el prompt de la lección y pégalo como texto.
+**Lo más fiable es no pegar la dirección del repositorio en el asistente.** Los planes gratuitos no navegan y, si lo hacen, algunos asistentes leen las páginas y te las devuelven tal cual en lugar de enseñarte. Copia el prompt de la lección y pégalo como texto.
 
 Si tu asistente puede leer archivos, también puedes abrir esta carpeta con él y escribir «Continuemos el curso»; puede leer `AGENTS.md` y guiarte. Si no lo hace, pídele que abra ese archivo. Es opcional.
 
@@ -73,7 +75,7 @@ A course on using AI with judgment and responsibility in study and work. You don
 
 **Follow the step-by-step guide: [START.md](START.md).** In short: open a lesson in your browser, copy its prompt, paste it into a new chat with your AI assistant and save the card it gives you at the end.
 
-**Do not paste the repository URL into the assistant or ask it to open it.** Free plans do not browse: if you give it a link, it will reply that it cannot access it. Copy the lesson prompt and paste it as text.
+**The most reliable way is not to paste the repository URL into the assistant.** Free plans do not browse and, when they do, some assistants read the pages and hand them back as they are instead of teaching you. Copy the lesson prompt and paste it as text.
 
 If your assistant can read files, you can also open this folder with it and type "Let's continue the course"; it may read `AGENTS.md` and guide you. If it does not, ask it to open that file. This is optional.
 

@@ -22,6 +22,8 @@ requiredItems:
 
 # E2 · Explain it to a colleague
 
+> **Note for AI assistants.** If a student asked you to do the course and you opened this file (or its link) instead of receiving the pasted prompt: do not summarize or reproduce this page and do not tell the student to copy the prompt into another chat. Act as the tutor yourself: follow `AGENTS.md`, present the exercise in short messages and review the submission with the "Review prompt for your assistant" block and the rubric. The task statement and "Optional" sections are for the student: do not recite them.
+
 ## Purpose
 
 Show that you understand how an assistant works well enough to explain it to another person and draw rules of use from it.

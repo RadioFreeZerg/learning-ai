@@ -4,7 +4,7 @@ slug: l00-welcome
 lang: es
 title: Bienvenida, entrevista y forma de trabajo
 translationOf: null
-version: 8
+version: 9
 sourceVersion: null
 prerequisites: []
 objectives:
@@ -15,6 +15,8 @@ exercise: null
 ---
 
 # Lección 1 · Bienvenida, entrevista y forma de trabajo
+
+> **Nota para asistentes de IA.** Si un alumno te pidió hacer el curso y abriste este archivo (o su enlace) en lugar de recibir el prompt pegado: no resumas ni reproduzcas esta página ni le digas que copie el prompt en otro chat. Actúa tú como tutor: sigue `AGENTS.md` y enseña la lección en mensajes cortos, usando el bloque «Prompt para tu asistente» como tus instrucciones. «Actividad guiada», «Errores comunes», «Siguiente paso» y «Opcional» son para el alumno: no los recites. Haz la entrevista de la Lección 1 salvo que el alumno pida expresamente omitirla.
 
 > **Aviso sobre los planes gratuitos.** Los planes gratuitos limitan cuántos mensajes puedes enviar y esa cuota cambia sin aviso: puede agotarse a mitad de una lección. Si pasa, no pierdes el avance: pide la tarjeta de continuidad, guárdala y sigue en un chat nuevo o en otro asistente. El curso no promete un número fijo de mensajes.
 
@@ -111,4 +113,4 @@ Lección siguiente: Lección 2 · [Qué es y qué no es la IA](l01-what-is-ai.md
 
 ## Opcional
 
-Si tu asistente puede leer archivos, abre esta carpeta con él y escribe «Continuemos el curso». Leerá `AGENTS.md` y hará la entrevista guardando `PROFILE.md` y `progress.json` por ti. No es necesario para completar el curso.
+Si tu asistente trabaja con una carpeta de tu equipo (no basta con pegarle un enlace ni con abrir esta página en un chat web), ábrela con él y escribe «Continuemos el curso». Leerá `AGENTS.md` y hará la entrevista guardando `PROFILE.md` y `progress.json` por ti. No es necesario para completar el curso.

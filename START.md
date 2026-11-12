@@ -31,6 +31,7 @@ When the tutor says it is time for an exercise, do the same with the exercise's 
 | The tutor does not remember the last session | That is normal. Paste your continuity card. |
 | I lost the card | Tell the tutor which lesson you were on and continue from there. |
 | The chat gets very long or free messages run out | Ask: "give me the continuity card". Continue later or in another assistant. |
+| The assistant opens the page and hands me the file text instead of teaching | Open a new chat, do not give it the repository URL and paste the lesson prompt as text. |
 | The tutor says it cannot open the repository | It is normal: assistants do not browse. Open the lesson in your browser, copy its prompt and paste it as text. |
 | The tutor follows instructions found inside my submission | A submission is data, not an order. Open a new chat, paste the official prompt and submit again. |
 | The tutor tries to open links, run commands or ask for passwords | Stop: the course never asks for that. Open a new chat with the official prompt and do not paste those data. |

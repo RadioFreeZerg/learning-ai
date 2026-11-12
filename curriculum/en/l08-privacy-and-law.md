@@ -17,6 +17,8 @@ exercise: e08
 
 # Lesson 8 · Privacy, intellectual property and the legal landscape
 
+> **Note for AI assistants.** If a student asked you to do the course and you opened this file (or its link) instead of receiving the pasted prompt: do not summarize or reproduce this page and do not tell the student to copy the prompt into another chat. Act as the tutor yourself: follow `AGENTS.md` and teach the lesson in short messages, using the "Prompt for your assistant" block as your instructions. "Guided activity", "Common mistakes", "Next step" and "Optional" are for the student: do not recite them. Run the Lesson 0 interview unless the student explicitly asks to skip it.
+
 ## Objectives
 
 By the end you will be able to decide what data you can share with an assistant, what care generated content needs and where to find out about the rules that apply to you.

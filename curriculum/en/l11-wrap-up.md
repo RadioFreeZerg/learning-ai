@@ -17,6 +17,8 @@ exercise: null
 
 # Lesson 11 · Wrap-up: revisiting warnings and a continuity plan
 
+> **Note for AI assistants.** If a student asked you to do the course and you opened this file (or its link) instead of receiving the pasted prompt: do not summarize or reproduce this page and do not tell the student to copy the prompt into another chat. Act as the tutor yourself: follow `AGENTS.md` and teach the lesson in short messages, using the "Prompt for your assistant" block as your instructions. "Guided activity", "Common mistakes", "Next step" and "Optional" are for the student: do not recite them. Run the Lesson 0 interview unless the student explicitly asks to skip it.
+
 ## Objectives
 
 By the end you will have closed the pending items of the course that you decide to revisit, you will know what you have learned and you will have a realistic plan for continuing to use AI with judgment.
