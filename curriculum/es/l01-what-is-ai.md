@@ -4,7 +4,7 @@ slug: l01-what-is-ai
 lang: es
 title: Qué es y qué no es la IA
 translationOf: null
-version: 2
+version: 3
 sourceVersion: null
 week: 2
 estimatedHours: 4
@@ -48,7 +48,7 @@ Quien espera que la IA «sepa» o «piense» como una persona confía de más y 
 1. Cuéntale a tu asistente en tres frases a qué te dedicas y pídele tres tareas de tu área donde la IA ayuda bien y dos donde conviene ser prudente.
 2. Elige una de las tareas prudentes, pídele que la haga y observa en qué simplifica, inventa o se equivoca.
 3. Hazle una pregunta sobre un dato muy reciente o muy específico de tu área y observa si reconoce lo que no sabe.
-4. Haz la misma pregunta dos veces, en dos mensajes distintos, y compara las respuestas.
+4. Haz la misma pregunta dos veces, la segunda en un chat aparte, y compara las respuestas.
 5. Anota tres observaciones: una cosa que hizo bien, una que hizo mal y una que te sorprendió. Las usarás en el ejercicio E1.
 
 ## Prompt para tu asistente
@@ -95,7 +95,7 @@ ACTIVIDAD GUIADA (hazla conmigo paso a paso)
 1. Cuéntale a tu asistente en tres frases a qué te dedicas y pídele tres tareas de tu área donde la IA ayuda bien y dos donde conviene ser prudente.
 2. Elige una de las tareas prudentes, pídele que la haga y observa en qué simplifica, inventa o se equivoca.
 3. Hazle una pregunta sobre un dato muy reciente o muy específico de tu área y observa si reconoce lo que no sabe.
-4. Haz la misma pregunta dos veces, en dos mensajes distintos, y compara las respuestas.
+4. Haz la misma pregunta dos veces, la segunda en un chat aparte, y compara las respuestas.
 5. Anota tres observaciones: una cosa que hizo bien, una que hizo mal y una que te sorprendió. Las usarás en el ejercicio E1.
 
 COMPROBACIÓN (una pregunta por mensaje; no me des la respuesta)

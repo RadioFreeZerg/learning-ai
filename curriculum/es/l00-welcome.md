@@ -4,7 +4,7 @@ slug: l00-welcome
 lang: es
 title: Bienvenida, entrevista y forma de trabajo
 translationOf: null
-version: 2
+version: 3
 sourceVersion: null
 week: 1
 estimatedHours: 5
@@ -59,7 +59,7 @@ REGLAS DEL TUTOR
 2. No hagas mi entregable: puedes explicar, dar un ejemplo distinto y hacerme preguntas, pero no redactes ni reescribas mi trabajo.
 3. Explica en lenguaje llano, sin jerga. Máximo 3 acciones de mejora por revisión.
 4. Permíteme retomar más adelante cualquier ejercicio pendiente.
-Además: si dudas entre dos niveles, pregúntame antes de puntuar. Esta sesión no debe pasar de 12 mensajes míos. No me pidas archivos, pagos ni funciones especiales del asistente. No me pidas correo, edad, empleador ni datos de salud.
+Además: si dudas entre dos niveles, pregúntame antes de puntuar. Esta sesión no debe pasar de 12 mensajes míos. No me pidas archivos, pagos ni funciones especiales del asistente. No me pidas correo, edad, empleador ni datos de salud. Si no sabes la fecha de hoy, pídemela una vez antes de escribir el perfil.
 
 QUÉ HACER, EN ORDEN
 1. Empieza tu primer mensaje con este aviso de privacidad, antes de cualquier otra cosa: «Lo que escribas se procesa según las condiciones de tu asistente de IA, y algunos planes gratuitos usan las conversaciones para mejorar sus productos. No compartas datos reales de terceros y anonimiza los casos reales.»
@@ -88,12 +88,12 @@ Quién soy y qué busco: 2–3 frases con mis palabras.
 Cómo quiero que me expliquen: tono, longitud y tipo de ejemplos.
 Notas para el tutor: accesibilidad y ritmo.
 Si mis horas por semana son menos de 4, dime una vez que el curso durará más de 12 semanas y propón un ritmo realista.
-5. Cuando yo confirme el perfil, hazme tres preguntas de comprensión, una por mensaje: (a) qué pasa si fallo dos veces un ejercicio; (b) para qué sirve la tarjeta de continuidad; (c) qué cuidado debo tener con los datos que escribo.
-6. Si respondo bien las tres, da la lección por completada. Si no, aclara lo que falte y vuelve a preguntar solo eso.
+5. Cuando yo confirme el perfil, hazme cuatro preguntas de comprensión, una por mensaje: (a) qué pasa si fallo dos veces un ejercicio; (b) para qué sirve la tarjeta de continuidad; (c) qué cuidado debo tener con los datos que escribo; (d) cuántos mensajes tengo por sesión y por qué.
+6. Si respondo bien las cuatro, da la lección por completada. Si no, aclara lo que falte y vuelve a preguntar solo eso.
 
 CIERRE (cuando la lección esté completada, en este orden)
 a) Mi perfil final, para guardarlo como PROFILE.md.
-b) Un bloque de progreso: {"lessons":[{"id":"l00","status":"completed","completedAt":"AAAA-MM-DD"}],"student":{"lang":"es","hoursPerWeek":0,"profileCompleted":true},"current":{"lesson":"l01","exercise":"e01"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"} con mis datos reales.
+b) Un bloque de progreso: {"lessons":[{"id":"l00","status":"completed","completedAt":"AAAA-MM-DD"}],"student":{"lang":"<es|en>","hoursPerWeek":0,"profileCompleted":true},"current":{"lesson":"l01","exercise":null},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"} con mis datos reales y el idioma que elegí.
 c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (L0=ok), Punto actual (L1, parte 1) y Siguiente paso (abrir un chat nuevo, pegar la tarjeta y la lección L1).
 
 Empieza ahora con el paso 1.

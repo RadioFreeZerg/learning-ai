@@ -4,8 +4,8 @@ slug: l01-what-is-ai
 lang: en
 title: What AI is and is not
 translationOf: curriculum/es/l01-what-is-ai.md
-version: 2
-sourceVersion: 2
+version: 3
+sourceVersion: 3
 week: 2
 estimatedHours: 4
 prerequisites:
@@ -48,7 +48,7 @@ Someone who expects AI to "know" or "think" like a person trusts it too much and
 1. Tell your assistant in three sentences what you do and ask for three tasks in your field where AI helps well and two where you should be careful.
 2. Pick one of the careful tasks, ask it to do it and observe where it oversimplifies, invents or gets things wrong.
 3. Ask it a question about a very recent or very specific fact in your field and observe whether it admits what it does not know.
-4. Ask the same question twice, in two separate messages, and compare the answers.
+4. Ask the same question twice, the second time in a separate chat, and compare the answers.
 5. Write down three observations: one thing it did well, one it did badly and one that surprised you. You will use them in exercise E1.
 
 ## Prompt for your assistant
@@ -95,7 +95,7 @@ GUIDED ACTIVITY (do it with me step by step)
 1. Tell your assistant in three sentences what you do and ask for three tasks in your field where AI helps well and two where you should be careful.
 2. Pick one of the careful tasks, ask it to do it and observe where it oversimplifies, invents or gets things wrong.
 3. Ask it a question about a very recent or very specific fact in your field and observe whether it admits what it does not know.
-4. Ask the same question twice, in two separate messages, and compare the answers.
+4. Ask the same question twice, the second time in a separate chat, and compare the answers.
 5. Write down three observations: one thing it did well, one it did badly and one that surprised you. You will use them in exercise E1.
 
 CHECK (one question per message; do not give me the answer)
