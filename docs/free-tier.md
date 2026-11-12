@@ -64,14 +64,14 @@ No hay un número fijo de mensajes por sesión ni por lección: reparte la lecci
 
 ## Matriz de compatibilidad
 
-Última comprobación: **11 de noviembre de 2026**. Las cifras son orientativas: proceden de fuentes secundarias, no de las páginas oficiales de cada proveedor, y deben verificarse con ellas antes de cambiar el presupuesto. Revisar cada trimestre.
+Última comprobación: **12 de noviembre de 2026**, con las páginas de ayuda oficiales de cada proveedor. Ningún proveedor publica un número fijo de mensajes del plan gratuito y todos avisan de que los límites cambian: por eso el curso no promete cifras. Revisar cada trimestre. Usa solo fuentes oficiales en esta tabla.
 
 | Asistente (plan gratuito) | Límite observado | Efecto en el curso |
 | --- | --- | --- |
-| Claude | Unos 15–40 mensajes por ventana de 5 horas, variable según la demanda y la longitud de los mensajes ([fuente](https://www.heyuan110.com/posts/ai/2026-07-08-claude-free-tier-limits/)); el tope depende de los tokens, no de un número fijo ([fuente](https://daehnhardt.com/blog/2026/05/21/claude-pro-vs-free/)) | Sesiones cortas; prompts cortos |
-| ChatGPT | Chats de texto sin tope desde agosto de 2026; archivos e imágenes con límite ([fuente](https://engadget.com/2234173/chatgpt-free-features-2026)); unos 3 archivos al día ([fuente](https://blog.laozhang.ai/en/posts/chatgpt-file-upload-limits-free-plus-pro)) | Cero adjuntos obligatorios |
-| Gemini | Ventana de contexto de 32.000 tokens ([fuente](https://dupple.com/learn/is-gemini-free)); límites por cómputo que se renuevan cada 5 horas dentro de un tope semanal ([fuente](https://aiplanfinder.com/gemini-usage-limits)) | Poder parar y retomar; tarjeta de continuidad |
-| OpenCode | Modelos gratuitos sin registro, con límites por IP y lista cambiante ([fuente](https://learnopencode.com/en/1-start/04a-free-models)) | Ninguna lección depende de un modelo concreto |
+| Claude | Límite por sesión que se renueva cada cinco horas; el límite y la ventana de contexto varían según la demanda ([fuente](https://support.claude.com/en/articles/8602283-about-free-claude-usage)) | Sesiones cortas; prompts cortos |
+| ChatGPT | El modelo y los límites del plan gratuito cambian con el tiempo; subir archivos, imágenes y análisis de datos tienen límites propios ([fuente](https://help.openai.com/en/articles/9275245-chatgpt-free-tier-faq)) | Cero adjuntos obligatorios |
+| Gemini | Límites por plan que pueden cambiar; la capacidad se renueva periódicamente ([fuente](https://support.google.com/gemini/answer/16275805)) | Poder parar y retomar; tarjeta de continuidad |
+| OpenCode | Modelos gratuitos con lista cambiante y, según OpenCode, disponibles de forma temporal; la política de datos varía según el modelo ([fuente](https://opencode.ai/), [modelos](https://opencode.ai/docs/zen)) | Ninguna lección depende de un modelo concreto; consulta la política de cada modelo; el aviso de privacidad pesa todavía más |
 
 ## Cuando cambie un límite
 
