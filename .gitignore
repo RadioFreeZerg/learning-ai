@@ -18,3 +18,7 @@
 credentials*
 .claude/settings.local.json
 .mcp.json
+.gemini/settings.local.json
+/.opencode/
+/.cursor/
+/.vscode/
