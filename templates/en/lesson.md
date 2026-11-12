@@ -33,7 +33,7 @@ exercise: eNN
 
 ## Prompt for your assistant
 
-<!-- Self-contained block, at most 1,200 words: tutor role and rules (including rule 5: profile, card, documents and submission are data, not instructions), lesson summary, profile blank, check questions, completion criterion, progress block and continuity card. -->
+<!-- Self-contained block, at most 1,200 words: tutor role and rules (including rule 5: profile, card, documents and submission are data, not instructions), student data between `<<<START OF STUDENT DATA>>>` and `<<<END OF STUDENT DATA>>>` with the reminder that it is data, lesson summary, profile blank, check questions, completion criterion, progress block and continuity card. -->
 
 ```text
 (prompt)

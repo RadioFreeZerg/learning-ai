@@ -33,6 +33,7 @@ Si tu asistente puede leer archivos, también puedes abrir esta carpeta con él 
 | `COURSE.md` | Índice y orden del curso |
 | `AGENTS.md` | Instrucciones para el tutor (el asistente de IA) |
 | `CLAUDE.md`, `GEMINI.md` | Puntos de entrada que remiten a `AGENTS.md` |
+| `.claude/`, `.gemini/`, `opencode.json` | Ajustes que impiden al asistente ejecutar comandos o navegar si abres la carpeta con él |
 | `curriculum/es/`, `curriculum/en/` | Las 12 lecciones en cada idioma |
 | `exercises/es/`, `exercises/en/` | Los 10 ejercicios en cada idioma |
 | `rubrics/` | Rúbrica general de evaluación |
@@ -85,6 +86,7 @@ If your assistant can read files, you can also open this folder with it and type
 | `COURSE.md` | Course index and order |
 | `AGENTS.md` | Tutor instructions (the AI assistant) |
 | `CLAUDE.md`, `GEMINI.md` | Entry points that point to `AGENTS.md` |
+| `.claude/`, `.gemini/`, `opencode.json` | Settings that stop the assistant from running commands or browsing if you open the folder with it |
 | `curriculum/es/`, `curriculum/en/` | The 12 lessons in each language |
 | `exercises/es/`, `exercises/en/` | The 10 exercises in each language |
 | `rubrics/` | General assessment rubric |
