@@ -25,10 +25,10 @@ Cada sesión termina con una tarjeta de 150 palabras como máximo. El alumno la 
 
 ```text
 TARJETA DE CONTINUIDAD
-Perfil: idioma=es; rol=...; profundidad=...; accesibilidad=...
-Progreso: Lección 1=ok Lección 2=ok Lección 3=doing | E1=ok
-Punto actual: Lección 3, parte 2 de 3; falta: la actividad guiada
-Siguiente paso: abrir un chat nuevo, pegar esta tarjeta en el prompt de la lección y enviarlo
+Perfil: idioma=es; rol=...; profundidad=...; accesibilidad=...   (o: omitido)
+Progreso: l01=ok l02=ok l03=doing | E1=ok
+Punto actual: l03 (Lección 3), parte 2 de 3; falta: la actividad guiada
+Siguiente paso: seguir en el mismo chat o abrir uno nuevo con esta tarjeta; página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l04-clear-instructions.md
 ```
 
 ### Línea de progreso
@@ -45,7 +45,7 @@ Un ejercicio con aviso se escribe con su identificador: `E3=warn(w001)`.
 
 ## Estructura de una sesión corta
 
-1. El alumno pega la tarjeta en el prompt de la lección (en la primera sesión, el prompt de la Lección 1 se pega sin tarjeta).
+1. El alumno pega la tarjeta en el mensaje de continuación de `EMPEZAR.md` o en el prompt de la lección (en la primera sesión no hay tarjeta).
 2. El tutor resume el punto actual en dos frases y propone el objetivo de la sesión.
 3. Trabajo en bloques pequeños: concepto, ejemplo, actividad.
 4. Cierre: comprobación (si la lección la tiene), revisión del ejercicio, bloque de progreso y tarjeta nueva.
@@ -54,7 +54,7 @@ No hay un número fijo de mensajes por sesión ni por lección: reparte la lecci
 
 ## Qué evitar al escribir contenido
 
-- Pedir que el asistente «busque en internet» o «abra» un documento: se pide al alumno que lo haga y pegue el resultado.
+- Exigir que el asistente «busque en internet» o «abra» un documento: la lectura del curso oficial (`AGENTS.md`, regla 12.9) es opcional y siempre tiene la salvaguarda del prompt pegado.
 - Pedir imágenes, voz o archivos adjuntos.
 - Depender de que el asistente recuerde conversaciones anteriores: la tarjeta lo sustituye.
 - Fijar un número de mensajes por sesión: las cuotas cambian y no son iguales en todos los asistentes.

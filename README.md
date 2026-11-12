@@ -4,6 +4,10 @@ A tool to help users learn how to use AI with discernment and responsibility in 
 
 **Español** · [English](#english)
 
+> **Para asistentes de IA.** Si un alumno te pidió hacer el curso con este enlace: no recites ni resumas esta página y no improvises lecciones. (1) Lee https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md y https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l01-welcome.md (si el alumno escribe en inglés, https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l01-welcome.md), una página a la vez, y actúa como tutor en mensajes cortos. (2) Si no puedes abrirlas, detente y di solo esto, en tres frases como máximo: que no pudiste abrir la lección, la dirección de la lección en su idioma y que la abra en su navegador, copie el bloque «Prompt para tu asistente» y lo pegue aquí. No enseñes lecciones ni ejercicios que no hayas leído.
+>
+> **For AI assistants.** If a student asked you to do the course with this link: do not recite or summarize this page and do not improvise lessons. (1) Read https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md and https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l01-welcome.md (if the student writes in Spanish, https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l01-welcome.md), one page at a time, and act as the tutor in short messages. (2) If you cannot open them, stop and say only this, in three sentences at most: you could not open the lesson, the address of the lesson in their language, and that they should open it in their browser, copy the "Prompt for your assistant" block and paste it here. Do not teach lessons or exercises you have not read.
+
 ---
 
 ## Fundamentos de IA para todos
@@ -21,7 +25,7 @@ Curso para aprender a usar la IA con criterio y responsabilidad en el estudio y 
 
 **Sigue la guía paso a paso: [EMPEZAR.md](EMPEZAR.md).** En resumen: abres una lección en tu navegador, copias su prompt, lo pegas en un chat nuevo de tu asistente de IA y guardas la tarjeta que te da al final.
 
-**No pegues la dirección del repositorio en el asistente ni le pidas que la abra.** Los planes gratuitos no navegan: si le das un enlace, responderá que no puede acceder. Copia el prompt de la lección y pégalo como texto.
+**Lo más rápido:** pega en un chat nuevo el mensaje de una línea de [EMPEZAR.md](EMPEZAR.md); si tu asistente puede abrir enlaces, hará de tutor por su cuenta. Si no puede, o te devuelve el texto de las páginas en lugar de enseñarte, copia el prompt de la lección y pégalo como texto.
 
 Si tu asistente puede leer archivos, también puedes abrir esta carpeta con él y escribir «Continuemos el curso»; puede leer `AGENTS.md` y guiarte. Si no lo hace, pídele que abra ese archivo. Es opcional.
 
@@ -65,7 +69,7 @@ A course on using AI with judgment and responsibility in study and work. You don
 
 ### How it works
 
-- 12 lessons (Lessons 0–11) and 10 exercises (E1–E10), in order.
+- 12 lessons (Lessons 1–12) and 10 exercises (E1–E10), in order.
 - Your AI assistant acts as the tutor: it interviews you at the start, guides each lesson, reviews your exercises with a rubric, and records your progress.
 - Review guides but never blocks: if an exercise doesn't pass in two attempts, you choose to retry or move on with a warning you can revisit later.
 - Your profile, progress and submissions stay on your computer; the repository does not publish them.
@@ -74,7 +78,7 @@ A course on using AI with judgment and responsibility in study and work. You don
 
 **Follow the step-by-step guide: [START.md](START.md).** In short: open a lesson in your browser, copy its prompt, paste it into a new chat with your AI assistant and save the card it gives you at the end.
 
-**Do not paste the repository URL into the assistant or ask it to open it.** Free plans do not browse: if you give it a link, it will reply that it cannot access it. Copy the lesson prompt and paste it as text.
+**The quickest way:** paste the one-message start from [START.md](START.md) into a new chat; if your assistant can open links, it will tutor you on its own. If it cannot, or it hands you the page text instead of teaching, copy the lesson prompt and paste it as text.
 
 If your assistant can read files, you can also open this folder with it and type "Let's continue the course"; it may read `AGENTS.md` and guide you. If it does not, ask it to open that file. This is optional.
 
