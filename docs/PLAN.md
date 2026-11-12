@@ -47,10 +47,7 @@ Todo el curso debe poder completarse con el plan gratuito de los asistentes más
 
 | Recurso | Límite que cumple cada lección y ejercicio |
 | --- | --- |
-| Mensajes del alumno por sesión | 12 como máximo |
-| Sesiones por lección | 2 a 4 sesiones cortas, cada una en un chat nuevo |
 | «Prompt para tu asistente» y prompt de revisión | 1.200 palabras como máximo, rúbrica incluida |
-| Conversación completa de una sesión | 8.000 palabras como máximo |
 | Entregable de un ejercicio | 600 palabras como máximo, pegado como texto |
 | Documento de trabajo (E5, E6) | 2 páginas como máximo, pegado como texto |
 | Archivos adjuntos obligatorios | Ninguno |
@@ -99,7 +96,7 @@ Las fases 1 a 3 fijan la mecánica con poco contenido; si algo del diseño falla
 | El tutor aprueba de más o de menos | Imprescindibles de sí o no; evidencia citada; regla de no aprobar por cortesía; segunda revisión con otro asistente |
 | `progress.json` se corrompe | Esquema documentado; validación al inicio de cada sesión; nunca se borran intentos ni avisos |
 | Accesibilidad | Markdown semántico; frases cortas; el perfil cambia el formato; [`accessibility.md`](accessibility.md) |
-| Cupos del plan gratuito | Presupuesto de diseño; sesiones de 12 mensajes; tarjeta de continuidad; matriz con fecha revisada cada trimestre |
+| Cupos del plan gratuito | Cuotas variables; sesiones cortas; tarjeta de continuidad; matriz con fecha revisada cada trimestre |
 | Datos de terceros en las entregas | Advertencia en la Lección 1, Lección 7 y Lección 9; entregas ignoradas por git; los enunciados piden anonimizar |
 
 ## 7. Criterios de aceptación
@@ -113,7 +110,7 @@ Las fases 1 a 3 fijan la mecánica con poco contenido; si algo del diseño falla
 - [x] La rúbrica tiene 5 dimensiones y 4 niveles.
 - [x] El mapa contiene las 12 lecciones y los 10 ejercicios en orden.
 - [x] Ninguna lección ni ejercicio exige pago, adjuntos, búsqueda web del asistente ni funciones fuera del chat de texto.
-- [x] Cada prompt y cada sesión cumplen el presupuesto de diseño.
+- [x] Cada prompt cumple el límite de 1.200 palabras.
 - [ ] El ciclo entrevista → Lección 2 → E1 se ha completado en el plan gratuito de al menos cuatro asistentes, tres de ellos solo con chat de texto.
 
 ## 8. Estado de la implementación

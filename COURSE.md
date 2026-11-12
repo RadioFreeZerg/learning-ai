@@ -44,5 +44,5 @@ Detalle / Details: [`docs/progress-schema.md`](docs/progress-schema.md).
 
 ## Sesiones cortas · Short sessions
 
-- **ES** — Cada lección se divide en 2–4 sesiones de 12 mensajes como máximo. Al terminar una sesión el tutor te da una tarjeta de continuidad para retomar en un chat nuevo. Ver [`docs/free-tier.md`](docs/free-tier.md).
-- **EN** — Each lesson is split into 2–4 sessions of at most 12 messages. When a session ends the tutor gives you a continuity card to resume in a new chat. See [`docs/free-tier.md`](docs/free-tier.md).
+- **ES** — Puedes repartir una lección en varias sesiones. Los planes gratuitos limitan los mensajes y la cuota puede agotarse a mitad de lección; si pasa, el tutor te da una tarjeta de continuidad para seguir en un chat nuevo. Ver [`docs/free-tier.md`](docs/free-tier.md).
+- **EN** — You can split a lesson into several sessions. Free plans limit messages and the quota can run out mid-lesson; if it does, the tutor gives you a continuity card to continue in a new chat. See [`docs/free-tier.md`](docs/free-tier.md).

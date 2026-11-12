@@ -8,15 +8,16 @@ Todo archivo nuevo o modificado debe cumplirlo.
 
 | Recurso | Límite |
 | --- | --- |
-| Mensajes del alumno por sesión | 12 como máximo |
-| Sesiones por lección | 2 a 4 sesiones cortas, cada una en un chat nuevo |
 | «Prompt para tu asistente» y prompt de revisión | 1.200 palabras como máximo, rúbrica incluida |
-| Conversación completa de una sesión | 8.000 palabras como máximo |
 | Entregable de un ejercicio | 600 palabras como máximo, pegado como texto |
 | Documento de trabajo (E5, E6) | 2 páginas como máximo, pegado como texto |
 | Archivos adjuntos obligatorios | Ninguno |
 | Funciones obligatorias | Solo chat de texto: sin búsqueda web, imágenes, voz, memoria, proyectos ni ejecución de código |
 | Pago, tarjeta o prueba temporal | Nunca |
+
+## Aviso al alumno
+
+Al empezar la Lección 1, el tutor avisa de que los planes gratuitos limitan los mensajes, que la cuota cambia y puede agotarse a mitad de lección, y de que la tarjeta permite seguir en otro chat. No se promete un número fijo de mensajes.
 
 ## Tarjeta de continuidad
 
@@ -49,13 +50,14 @@ Un ejercicio con aviso se escribe con su identificador: `E3=warn(w001)`.
 3. Trabajo en bloques pequeños: concepto, ejemplo, actividad.
 4. Cierre: comprobación (si la lección la tiene), revisión del ejercicio, bloque de progreso y tarjeta nueva.
 
-Con 12 mensajes del alumno como máximo, una lección se reparte en 2 a 4 sesiones. Una revisión completa de un ejercicio cabe en un intercambio; el protocolo de dos intentos consume cuatro mensajes.
+No hay un número fijo de mensajes por sesión ni por lección: reparte la lección en las sesiones que necesites. Una revisión completa de un ejercicio cabe en un intercambio; el protocolo de dos intentos consume cuatro mensajes.
 
 ## Qué evitar al escribir contenido
 
 - Pedir que el asistente «busque en internet» o «abra» un documento: se pide al alumno que lo haga y pegue el resultado.
 - Pedir imágenes, voz o archivos adjuntos.
 - Depender de que el asistente recuerde conversaciones anteriores: la tarjeta lo sustituye.
+- Fijar un número de mensajes por sesión: las cuotas cambian y no son iguales en todos los asistentes.
 - Prompts largos con ejemplos innecesarios: cada palabra cuenta contra el contexto disponible.
 - Nombres de herramientas en el temario: esta matriz es el único sitio donde aparecen.
 
@@ -65,9 +67,9 @@ Con 12 mensajes del alumno como máximo, una lección se reparte en 2 a 4 sesion
 
 | Asistente (plan gratuito) | Límite observado | Efecto en el curso |
 | --- | --- | --- |
-| Claude | Unos 15–40 mensajes por ventana de 5 horas, variable según la demanda y la longitud de los mensajes ([fuente](https://www.heyuan110.com/posts/ai/2026-07-08-claude-free-tier-limits/)); el tope depende de los tokens, no de un número fijo ([fuente](https://daehnhardt.com/blog/2026/05/21/claude-pro-vs-free/)) | Sesiones de 12 mensajes o menos; prompts cortos |
+| Claude | Unos 15–40 mensajes por ventana de 5 horas, variable según la demanda y la longitud de los mensajes ([fuente](https://www.heyuan110.com/posts/ai/2026-07-08-claude-free-tier-limits/)); el tope depende de los tokens, no de un número fijo ([fuente](https://daehnhardt.com/blog/2026/05/21/claude-pro-vs-free/)) | Sesiones cortas; prompts cortos |
 | ChatGPT | Chats de texto sin tope desde agosto de 2026; archivos e imágenes con límite ([fuente](https://engadget.com/2234173/chatgpt-free-features-2026)); unos 3 archivos al día ([fuente](https://blog.laozhang.ai/en/posts/chatgpt-file-upload-limits-free-plus-pro)) | Cero adjuntos obligatorios |
-| Gemini | Ventana de contexto de 32.000 tokens ([fuente](https://dupple.com/learn/is-gemini-free)); límites por cómputo que se renuevan cada 5 horas dentro de un tope semanal ([fuente](https://aiplanfinder.com/gemini-usage-limits)) | Conversación completa de una sesión por debajo de 8.000 palabras; poder parar y retomar |
+| Gemini | Ventana de contexto de 32.000 tokens ([fuente](https://dupple.com/learn/is-gemini-free)); límites por cómputo que se renuevan cada 5 horas dentro de un tope semanal ([fuente](https://aiplanfinder.com/gemini-usage-limits)) | Poder parar y retomar; tarjeta de continuidad |
 | OpenCode | Modelos gratuitos sin registro, con límites por IP y lista cambiante ([fuente](https://learnopencode.com/en/1-start/04a-free-models)) | Ninguna lección depende de un modelo concreto |
 
 ## Cuando cambie un límite

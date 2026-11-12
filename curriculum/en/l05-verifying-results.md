@@ -4,8 +4,8 @@ slug: l05-verifying-results
 lang: en
 title: "Checking results: mistakes, inventions and sources"
 translationOf: curriculum/es/l05-verifying-results.md
-version: 4
-sourceVersion: 4
+version: 5
+sourceVersion: 5
 prerequisites:
   - l04
 objectives:
@@ -69,7 +69,7 @@ LESSON OBJECTIVES
 - Choose how much verification each use needs with a risk traffic light.
 - Check claims with methods independent of the assistant and document the result.
 
-SESSIONS: split the lesson into 2 to 4 sessions of at most 12 messages from me. At the end of each session give me a continuity card of at most 150 words (Profile, Progress, Current point, Next step).
+SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress, Current point, Next step).
 
 HOW TO EXPLAIN: do not assume I have any prior knowledge. Explain each idea in a single message of 150 to 250 words, with all of this: (1) a definition in everyday words, clarifying each new term the first time; (2) an analogy from daily life and where it falls short; (3) two concrete examples, one from my field and one general; (4) a common misunderstanding; (5) a single short question to check that I understood. Do not wait for me to ask for examples and do not move to the next idea until I answer.
 

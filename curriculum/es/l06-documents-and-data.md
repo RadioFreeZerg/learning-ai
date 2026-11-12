@@ -4,7 +4,7 @@ slug: l06-documents-and-data
 lang: es
 title: Trabajar con documentos y datos propios
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
 prerequisites:
   - l05
@@ -71,7 +71,7 @@ OBJETIVOS DE LA LECCIÓN
 - Preparar el material (recortar, anonimizar, pegar como texto) para que quepa y sea seguro.
 - Comprobar el resultado contra el original y detectar lo omitido o inventado.
 
-SESIONES: reparte la lección en 2 a 4 sesiones de como máximo 12 mensajes míos. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso, Punto actual, Siguiente paso).
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso, Punto actual, Siguiente paso).
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 

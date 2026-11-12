@@ -4,7 +4,7 @@ slug: l11-wrap-up
 lang: es
 title: "Cierre: revisar avisos y plan de continuidad"
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
 prerequisites:
   - l10
@@ -69,7 +69,7 @@ OBJETIVOS DE LA LECCIÓN
 - Hacer un balance de lo aprendido frente a tu punto de partida.
 - Redactar un plan de continuidad de tres meses con hábitos de verificación y actualización.
 
-SESIONES: reparte la lección en 2 a 4 sesiones de como máximo 12 mensajes míos. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso, Punto actual, Siguiente paso). Si quiero retomar un ejercicio con aviso, hazlo con el mismo protocolo de revisión de ese ejercicio.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso, Punto actual, Siguiente paso). Si quiero retomar un ejercicio con aviso, hazlo con el mismo protocolo de revisión de ese ejercicio.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 

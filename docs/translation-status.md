@@ -4,18 +4,18 @@
 
 | Slug | `version` ES | `sourceVersion` EN | Estado |
 | --- | --- | --- | --- |
-| l00-welcome | 7 | 7 | sincronizado |
-| l01-what-is-ai | 5 | 5 | sincronizado |
-| l02-how-language-models-work | 4 | 4 | sincronizado |
-| l03-clear-instructions | 4 | 4 | sincronizado |
-| l04-context-and-iteration | 4 | 4 | sincronizado |
-| l05-verifying-results | 4 | 4 | sincronizado |
-| l06-documents-and-data | 4 | 4 | sincronizado |
-| l07-ethics-and-bias | 4 | 4 | sincronizado |
-| l08-privacy-and-law | 4 | 4 | sincronizado |
-| l09-automation-and-agents | 4 | 4 | sincronizado |
-| l10-workflow-design | 4 | 4 | sincronizado |
-| l11-wrap-up | 4 | 4 | sincronizado |
+| l00-welcome | 8 | 8 | sincronizado |
+| l01-what-is-ai | 6 | 6 | sincronizado |
+| l02-how-language-models-work | 5 | 5 | sincronizado |
+| l03-clear-instructions | 5 | 5 | sincronizado |
+| l04-context-and-iteration | 5 | 5 | sincronizado |
+| l05-verifying-results | 5 | 5 | sincronizado |
+| l06-documents-and-data | 5 | 5 | sincronizado |
+| l07-ethics-and-bias | 5 | 5 | sincronizado |
+| l08-privacy-and-law | 5 | 5 | sincronizado |
+| l09-automation-and-agents | 5 | 5 | sincronizado |
+| l10-workflow-design | 5 | 5 | sincronizado |
+| l11-wrap-up | 5 | 5 | sincronizado |
 | e01-myths-and-facts | 5 | 5 | sincronizado |
 | e02-explain-to-a-colleague | 5 | 5 | sincronizado |
 | e03-rewrite-three-instructions | 5 | 5 | sincronizado |

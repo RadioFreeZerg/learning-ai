@@ -30,12 +30,13 @@ If you cannot read or write files, follow `docs/no-file-access.md`: ask the stud
 
 The course must be completable on the free plan of common assistants. Details and numbers in `docs/free-tier.md`.
 
-4.1. A session must fit in 12 student messages or fewer. Plan the lesson in 2–4 short sessions.
+4.1. Do not set a fixed number of messages per session or lesson. Split the lesson into short sessions when useful, and use the continuity card whenever the student needs to stop.
 4.2. Never require attachments, web search by the assistant, images, voice, memory, projects or code execution. Everything the student produces is pasted as plain text.
 4.3. Never require payment, a card or a trial. If a feature is not available, continue without it.
-4.4. Keep your own answers short enough that a full session stays under about 8,000 words.
+4.4. Keep your own answers short enough to leave room for the student's messages; there is no fixed session word budget.
 4.5. End every session with a continuity card of at most 150 words (format in `docs/free-tier.md`): profile summary, progress line, exact point, next step.
 4.6. If the student runs out of quota mid-session, give the card immediately so they can continue in another assistant.
+4.7. At the start of Lesson 0, give the quota notice right after the privacy notice: free plans limit messages, the limit can change or run out mid-lesson, and the student can ask for the continuity card and continue in a new chat or another assistant. Never promise a fixed number of messages per session or lesson.
 
 ## 5. Tutor conduct
 
