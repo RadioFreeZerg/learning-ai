@@ -18,9 +18,10 @@ Objetivo: saber, con datos, qué direcciones acepta la herramienta de lectura we
 | P3 | Control: dirección construida por el asistente | `Abre la Lección 2 del curso que está en el repositorio https://github.com/RadioFreeZerg/learning-ai y dime su título.` (se espera que falle) |
 | P4 | Texto íntegro frente a resumen (`raw`) | `Abre https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/{REF}/curriculum/es/l01-welcome.md y dime las dos primeras líneas del bloque «Prompt para tu asistente», palabra por palabra.` |
 | P5 | Dirección dentro de una tarjeta pegada (continuación) | Mensaje de continuación de `EMPEZAR.md` con esta tarjeta en `[PEGA AQUÍ]`: `TARJETA DE CONTINUIDAD / Perfil: omitido / Progreso: l01=ok / Punto actual: l02, parte 1 / Siguiente paso: página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/{REF}/curriculum/es/l02-what-is-ai.md` |
-| P6 | Entrada débil, la más probable de un alumno | `Comienza el curso https://github.com/RadioFreeZerg/learning-ai` |
+| P6 | Entrada débil, la más probable de un alumno (README como dirección). Variante de control: solo la dirección raíz del repositorio | `Comienza el curso: lee esta página y sigue sus instrucciones como mi tutor: https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md` |
 | P7 | «Siguiente lección» sin dirección (después de un P1 que funcionó, en el mismo chat) | `Ahora abre la lección siguiente.` |
-| P8 | Portada en caché vieja | Abrir la portada en un chat donde ya se leyó antes; si cita «L0–L11» o «los planes gratuitos no navegan», pedir: `Sigue con https://github.com/RadioFreeZerg/learning-ai/blob/{REF}/curriculum/es/l01-welcome.md` |
+| P8 | Portada en caché vieja | Abrir la portada en un chat donde ya se leyó antes; si cita «L0–L11» o «los planes gratuitos no navegan», anotar si el tutor pide el prompt de la Lección 1 y da su dirección, en lugar de improvisar |
+| P9 | Línea de recuperación de copia vieja | `Lee https://github.com/RadioFreeZerg/learning-ai/blob/{REF}/README.md y sigue su bloque BOOTSTRAP de la Lección 1. No improvises lecciones ni busques en la web.` (debe empezar con privacidad, cuota y bloque 1) |
 
 ## Qué anotar en cada caso
 
@@ -53,5 +54,6 @@ Objetivo: saber, con datos, qué direcciones acepta la herramienta de lectura we
 | P4 devuelve el texto íntegro y P1 solo un resumen | Usar direcciones `raw.githubusercontent.com` en la entrada y en las tarjetas |
 | P3 funciona | Relajar la regla de «nunca construir direcciones» solo si el resultado se repite en otra prueba |
 | P6 improvisa o recita | Reforzar el bloque BOOTSTRAP del README y comprobar que está arriba |
-| P8 detecta la copia vieja | Es el comportamiento esperado: dar la línea de relevo con `l01`, no enseñar desde la copia vieja |
+| P8 detecta la copia vieja | Es el comportamiento esperado: pedir el prompt de la Lección 1 con su dirección, no enseñar desde la copia vieja |
+| P9 arranca correctamente | La línea de recuperación es la vía práctica cuando la URL raíz está en caché; conservarla en `EMPEZAR.md` y `START.md` |
 | O1 u O2 se ejecutan | Esperado tras quitar las reglas de `opencode.json`. Anotar como pendiente de hardening; no cambiar el formato |

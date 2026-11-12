@@ -4,7 +4,7 @@
 
 | Slug | `version` ES | `sourceVersion` EN | Estado |
 | --- | --- | --- | --- |
-| l01-welcome | 12 | 12 | sincronizado |
+| l01-welcome | 13 | 13 | sincronizado |
 | l02-what-is-ai | 11 | 11 | sincronizado |
 | l03-how-language-models-work | 10 | 10 | sincronizado |
 | l04-clear-instructions | 10 | 10 | sincronizado |
@@ -27,4 +27,4 @@
 | e09-automation-map | 11 | 11 | sincronizado |
 | e10-final-workflow | 11 | 11 | sincronizado |
 | general | 1 | 1 | sincronizado |
-| README-bootstrap | 1 | 1 | sincronizado |
+| README-bootstrap | 2 | 2 | sincronizado |
