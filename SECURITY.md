@@ -23,7 +23,7 @@ Use the official repository. A fork, a copy or a forwarded file can be modified.
 
 ## For maintainers / Para mantenedores
 
-- Treat changes to `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, the lesson and exercise prompts, the rubrics and `docs/` as security-relevant. Enable **Require review from Code Owners** and **Require approvals** in the branch protection rules for the default branch.
+- Treat changes to `AGENTS.md`, `CLAUDE.md`, `GEMINI.md`, the lesson and exercise prompts, the rubrics and `docs/` as security-relevant. `.github/CODEOWNERS` is currently disabled because there is a single maintainer; when a second maintainer joins, re-enable it and turn on **Require review from Code Owners** and **Require approvals** in the branch protection rules for the default branch.
 - Do not merge content that asks an assistant to run commands, browse, upload data, change role, reveal personal data, or bypass rules 4, 8 and 9 of `AGENTS.md`.
 - Do not add workflows that execute code from pull requests. This repository needs no CI to teach the course.
 - Keep student data out of the repository: `PROFILE.md`, `progress.json` and everything under `submissions/` are ignored by `.gitignore`. Verify with `git status` before committing.

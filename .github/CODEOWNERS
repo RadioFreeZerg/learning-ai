@@ -1,2 +1,3 @@
-# Security-sensitive content: every change needs the maintainer's review.
-* @RadioFreeZerg
+# Disabled while there is a single maintainer (an author cannot approve their own PR).
+# Re-enable when a second maintainer joins:
+# * @RadioFreeZerg
