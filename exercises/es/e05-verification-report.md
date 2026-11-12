@@ -4,7 +4,7 @@ slug: e05-verification-report
 lang: es
 title: Informe de verificación
 translationOf: null
-version: 2
+version: 3
 sourceVersion: null
 week: 6
 estimatedHours: 2
@@ -17,9 +17,9 @@ requiredItems:
   - id: e5-method
     text: Para cada afirmación indica cómo la comprobó, con un método o fuente ajenos al chat.
   - id: e5-result
-    text: Para cada afirmación indica el resultado, correcta, incorrecta, parcial o no verificada.
+    text: Para cada afirmación indica el resultado: correcta, incorrecta, parcial o no verificada.
   - id: e5-risk
-    text: Asigna un nivel de riesgo, verde, amarillo o rojo, al uso final de la respuesta y lo justifica.
+    text: Asigna un nivel de riesgo (verde, amarillo o rojo) al uso final de la respuesta y lo justifica.
   - id: e5-unverified
     text: Declara qué quedó sin verificar.
 ---
@@ -82,8 +82,8 @@ REGLA DE APROBACIÓN: aprueba solo si se cumplen TODOS los ítems imprescindible
 ÍTEMS IMPRESCINDIBLES DE ESTE EJERCICIO
 - e5-claims: Audita al menos cinco afirmaciones comprobables de una respuesta de IA.
 - e5-method: Para cada afirmación indica cómo la comprobó, con un método o fuente ajenos al chat.
-- e5-result: Para cada afirmación indica el resultado, correcta, incorrecta, parcial o no verificada.
-- e5-risk: Asigna un nivel de riesgo, verde, amarillo o rojo, al uso final de la respuesta y lo justifica.
+- e5-result: Para cada afirmación indica el resultado: correcta, incorrecta, parcial o no verificada.
+- e5-risk: Asigna un nivel de riesgo (verde, amarillo o rojo) al uso final de la respuesta y lo justifica.
 - e5-unverified: Declara qué quedó sin verificar.
 
 CRITERIOS DE ESTE EJERCICIO
@@ -105,7 +105,8 @@ SI NO APRUEBA: de 2 a 3 acciones concretas, sin reescribir mi trabajo.
 Si es el intento 2 o posterior y no apruebo: explica qué falta y ofréceme (A) revisar de nuevo o (B) avanzar con un aviso. No elijas por mí y no insistas después de mi respuesta.
 
 BLOQUE DE PROGRESO TRAS LA REVISIÓN (JSON; incluye en «attempts» todos los intentos del ejercicio)
-- Aprobado: ejercicio «passed», lección l05 «completed» con completedAt, y current {"lesson":"l06","exercise":"e06"}.
+- Aprobado por primera vez: ejercicio «passed», lección l05 «completed» con completedAt, y current {"lesson":"l06","exercise":"e06"}.
+- Aprobado al retomar un ejercicio con aviso: ejercicio «passed», lección l05 «completed», el aviso pasa a resolvedAt con la fecha, y current no cambia.
 - Elijo B: ejercicio «passed_with_warning» («skipped» si no entregué), lección «completed_with_warning», un aviso con type «advanced_without_pass» («exercise_skipped» si no entregué), revisit true y resolvedAt null, y current {"lesson":"l06","exercise":"e06"}.
 - Elijo A o aún no apruebo: ejercicio «in_progress».
 Cada intento: {"n":1,"date":"AAAA-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.

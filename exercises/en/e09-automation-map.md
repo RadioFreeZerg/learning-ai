@@ -4,8 +4,8 @@ slug: e09-automation-map
 lang: en
 title: Automation map
 translationOf: exercises/es/e09-automation-map.md
-version: 2
-sourceVersion: 2
+version: 3
+sourceVersion: 3
 week: 10
 estimatedHours: 2
 lesson: l09
@@ -105,7 +105,8 @@ IF NOT PASSING: 2 to 3 concrete actions, without rewriting my work.
 If this is attempt 2 or later and I do not pass: explain what is missing and offer me (A) review again or (B) advance with a warning. Do not choose for me and do not insist after my answer.
 
 PROGRESS BLOCK AFTER THE REVIEW (JSON; include in "attempts" all the attempts for the exercise)
-- Passed: exercise "passed", lesson l09 "completed" with completedAt, and current {"lesson":"l10","exercise":"e10"}.
+- Passed for the first time: exercise "passed", lesson l09 "completed" with completedAt, and current {"lesson":"l10","exercise":"e10"}.
+- Passed when reopening a warned exercise: exercise "passed", lesson l09 "completed", the warning gets resolvedAt with the date, and current does not change.
 - I choose B: exercise "passed_with_warning" ("skipped" if I did not submit), lesson "completed_with_warning", one warning with type "advanced_without_pass" ("exercise_skipped" if I did not submit), revisit true and resolvedAt null, and current {"lesson":"l10","exercise":"e10"}.
 - I choose A or have not passed yet: exercise "in_progress".
 Each attempt: {"n":1,"date":"YYYY-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.

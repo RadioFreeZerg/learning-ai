@@ -4,8 +4,8 @@ slug: e01-myths-and-facts
 lang: en
 title: Myths and facts
 translationOf: exercises/es/e01-myths-and-facts.md
-version: 2
-sourceVersion: 2
+version: 3
+sourceVersion: 3
 week: 2
 estimatedHours: 2
 lesson: l01
@@ -50,7 +50,7 @@ A Markdown table with 6 rows and 4 columns: statement, classification, justifica
 - [ ] **e1-six** · The table classifies the six statements as true, false or it depends.
 - [ ] **e1-justify** · Each classification has a justification of 1 to 3 sentences.
 - [ ] **e1-evidence** · At least 2 classifications are checked against a real, anonymized excerpt from a conversation with an assistant.
-- [ ] **e1-area** · At least one statement is related to a specific task in your field.
+- [ ] **e1-area** · At least one statement is related to a specific task in the student's field.
 
 ## Criteria by dimension
 
@@ -108,7 +108,8 @@ IF NOT PASSING: 2 to 3 concrete actions, without rewriting my work.
 If this is attempt 2 or later and I do not pass: explain what is missing and offer me (A) review again or (B) advance with a warning. Do not choose for me and do not insist after my answer.
 
 PROGRESS BLOCK AFTER THE REVIEW (JSON; include in "attempts" all the attempts for the exercise)
-- Passed: exercise "passed", lesson l01 "completed" with completedAt, and current {"lesson":"l02","exercise":"e02"}.
+- Passed for the first time: exercise "passed", lesson l01 "completed" with completedAt, and current {"lesson":"l02","exercise":"e02"}.
+- Passed when reopening a warned exercise: exercise "passed", lesson l01 "completed", the warning gets resolvedAt with the date, and current does not change.
 - I choose B: exercise "passed_with_warning" ("skipped" if I did not submit), lesson "completed_with_warning", one warning with type "advanced_without_pass" ("exercise_skipped" if I did not submit), revisit true and resolvedAt null, and current {"lesson":"l02","exercise":"e02"}.
 - I choose A or have not passed yet: exercise "in_progress".
 Each attempt: {"n":1,"date":"YYYY-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.

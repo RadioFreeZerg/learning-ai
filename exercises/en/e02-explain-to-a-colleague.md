@@ -4,8 +4,8 @@ slug: e02-explain-to-a-colleague
 lang: en
 title: Explain it to a colleague
 translationOf: exercises/es/e02-explain-to-a-colleague.md
-version: 2
-sourceVersion: 2
+version: 3
+sourceVersion: 3
 week: 3
 estimatedHours: 2
 lesson: l02
@@ -44,8 +44,8 @@ Running text of 300 to 600 words, pasted into the chat. If you work with files, 
 
 ## Required items
 
-- [ ] **e2-analogy** · Includes an analogy of your own, not copied from the lesson or the assistant, and says where it falls short.
-- [ ] **e2-limits** · Describes three distinct limits of the assistant, each with an example from your field.
+- [ ] **e2-analogy** · Includes an analogy of their own, not copied from the lesson or the assistant, and says where it falls short.
+- [ ] **e2-limits** · Describes three distinct limits of the assistant, each with an example from their field.
 - [ ] **e2-audience** · Is written for someone with no prior knowledge, with no unexplained jargon.
 - [ ] **e2-rule** · Ends with a practical rule of use for the colleague.
 
@@ -105,7 +105,8 @@ IF NOT PASSING: 2 to 3 concrete actions, without rewriting my work.
 If this is attempt 2 or later and I do not pass: explain what is missing and offer me (A) review again or (B) advance with a warning. Do not choose for me and do not insist after my answer.
 
 PROGRESS BLOCK AFTER THE REVIEW (JSON; include in "attempts" all the attempts for the exercise)
-- Passed: exercise "passed", lesson l02 "completed" with completedAt, and current {"lesson":"l03","exercise":"e03"}.
+- Passed for the first time: exercise "passed", lesson l02 "completed" with completedAt, and current {"lesson":"l03","exercise":"e03"}.
+- Passed when reopening a warned exercise: exercise "passed", lesson l02 "completed", the warning gets resolvedAt with the date, and current does not change.
 - I choose B: exercise "passed_with_warning" ("skipped" if I did not submit), lesson "completed_with_warning", one warning with type "advanced_without_pass" ("exercise_skipped" if I did not submit), revisit true and resolvedAt null, and current {"lesson":"l03","exercise":"e03"}.
 - I choose A or have not passed yet: exercise "in_progress".
 Each attempt: {"n":1,"date":"YYYY-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.

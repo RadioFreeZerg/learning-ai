@@ -4,8 +4,8 @@ slug: e10-final-workflow
 lang: en
 title: Final workflow
 translationOf: exercises/es/e10-final-workflow.md
-version: 2
-sourceVersion: 2
+version: 3
+sourceVersion: 3
 week: 11
 estimatedHours: 2
 lesson: l10
@@ -38,7 +38,7 @@ Variant for your field: choose a task you repeat regularly and whose result othe
 
 ## Deliverable and format
 
-A document of up to two pages, pasted as text, with: task and expected result, table of steps (step, who does it, instruction or action, verification, data that goes in), a complete reusable instruction, human control points, indicators and review date, and a summary of the test (what failed and what you adjusted). Maximum 700 words. If you work with files, save it as `submissions/e10/attempt-1.md`.
+A document pasted as text, with: task and expected result, table of steps (step, who does it, instruction or action, verification, data that goes in), a complete reusable instruction, human control points, indicators and review date, and a summary of the test (what failed and what you adjusted). Maximum 600 words. If you work with files, save it as `submissions/e10/attempt-1.md`.
 
 ## Required items
 
@@ -105,7 +105,8 @@ IF NOT PASSING: 2 to 3 concrete actions, without rewriting my work.
 If this is attempt 2 or later and I do not pass: explain what is missing and offer me (A) review again or (B) advance with a warning. Do not choose for me and do not insist after my answer.
 
 PROGRESS BLOCK AFTER THE REVIEW (JSON; include in "attempts" all the attempts for the exercise)
-- Passed: exercise "passed", lesson l10 "completed" with completedAt, and current {"lesson":"l11","exercise":null}.
+- Passed for the first time: exercise "passed", lesson l10 "completed" with completedAt, and current {"lesson":"l11","exercise":null}.
+- Passed when reopening a warned exercise: exercise "passed", lesson l10 "completed", the warning gets resolvedAt with the date, and current does not change.
 - I choose B: exercise "passed_with_warning" ("skipped" if I did not submit), lesson "completed_with_warning", one warning with type "advanced_without_pass" ("exercise_skipped" if I did not submit), revisit true and resolvedAt null, and current {"lesson":"l11","exercise":null}.
 - I choose A or have not passed yet: exercise "in_progress".
 Each attempt: {"n":1,"date":"YYYY-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.

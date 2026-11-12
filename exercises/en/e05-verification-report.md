@@ -4,8 +4,8 @@ slug: e05-verification-report
 lang: en
 title: Verification report
 translationOf: exercises/es/e05-verification-report.md
-version: 2
-sourceVersion: 2
+version: 3
+sourceVersion: 3
 week: 6
 estimatedHours: 2
 lesson: l05
@@ -17,9 +17,9 @@ requiredItems:
   - id: e5-method
     text: For each claim states how it was checked, with a method or source outside the chat.
   - id: e5-result
-    text: For each claim states the result, correct, incorrect, partial or unverified.
+    text: For each claim states the result: correct, incorrect, partial or unverified.
   - id: e5-risk
-    text: Assigns a risk level, green, yellow or red, to the final use of the answer and justifies it.
+    text: Assigns a risk level (green, yellow or red) to the final use of the answer and justifies it.
   - id: e5-unverified
     text: States what was left unverified.
 ---
@@ -82,8 +82,8 @@ PASS RULE: pass only if ALL required items are met and all five dimensions score
 REQUIRED ITEMS FOR THIS EXERCISE
 - e5-claims: Audits at least five checkable claims from an AI answer.
 - e5-method: For each claim states how it was checked, with a method or source outside the chat.
-- e5-result: For each claim states the result, correct, incorrect, partial or unverified.
-- e5-risk: Assigns a risk level, green, yellow or red, to the final use of the answer and justifies it.
+- e5-result: For each claim states the result: correct, incorrect, partial or unverified.
+- e5-risk: Assigns a risk level (green, yellow or red) to the final use of the answer and justifies it.
 - e5-unverified: States what was left unverified.
 
 CRITERIA FOR THIS EXERCISE
@@ -105,7 +105,8 @@ IF NOT PASSING: 2 to 3 concrete actions, without rewriting my work.
 If this is attempt 2 or later and I do not pass: explain what is missing and offer me (A) review again or (B) advance with a warning. Do not choose for me and do not insist after my answer.
 
 PROGRESS BLOCK AFTER THE REVIEW (JSON; include in "attempts" all the attempts for the exercise)
-- Passed: exercise "passed", lesson l05 "completed" with completedAt, and current {"lesson":"l06","exercise":"e06"}.
+- Passed for the first time: exercise "passed", lesson l05 "completed" with completedAt, and current {"lesson":"l06","exercise":"e06"}.
+- Passed when reopening a warned exercise: exercise "passed", lesson l05 "completed", the warning gets resolvedAt with the date, and current does not change.
 - I choose B: exercise "passed_with_warning" ("skipped" if I did not submit), lesson "completed_with_warning", one warning with type "advanced_without_pass" ("exercise_skipped" if I did not submit), revisit true and resolvedAt null, and current {"lesson":"l06","exercise":"e06"}.
 - I choose A or have not passed yet: exercise "in_progress".
 Each attempt: {"n":1,"date":"YYYY-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.

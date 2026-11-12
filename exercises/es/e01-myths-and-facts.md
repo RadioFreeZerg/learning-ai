@@ -4,7 +4,7 @@ slug: e01-myths-and-facts
 lang: es
 title: Mitos y realidades
 translationOf: null
-version: 2
+version: 3
 sourceVersion: null
 week: 2
 estimatedHours: 2
@@ -50,7 +50,7 @@ Una tabla Markdown de 6 filas y 4 columnas: afirmación, clasificación, justifi
 - [ ] **e1-six** · La tabla clasifica las seis afirmaciones como verdadera, falsa o depende.
 - [ ] **e1-justify** · Cada clasificación tiene una justificación de 1 a 3 frases.
 - [ ] **e1-evidence** · Al menos 2 clasificaciones se contrastan con un fragmento real y anonimizado de una conversación con un asistente.
-- [ ] **e1-area** · Al menos una afirmación se relaciona con una tarea concreta de tu área.
+- [ ] **e1-area** · Al menos una afirmación se relaciona con una tarea concreta del área del alumno.
 
 ## Criterios por dimensión
 
@@ -108,7 +108,8 @@ SI NO APRUEBA: de 2 a 3 acciones concretas, sin reescribir mi trabajo.
 Si es el intento 2 o posterior y no apruebo: explica qué falta y ofréceme (A) revisar de nuevo o (B) avanzar con un aviso. No elijas por mí y no insistas después de mi respuesta.
 
 BLOQUE DE PROGRESO TRAS LA REVISIÓN (JSON; incluye en «attempts» todos los intentos del ejercicio)
-- Aprobado: ejercicio «passed», lección l01 «completed» con completedAt, y current {"lesson":"l02","exercise":"e02"}.
+- Aprobado por primera vez: ejercicio «passed», lección l01 «completed» con completedAt, y current {"lesson":"l02","exercise":"e02"}.
+- Aprobado al retomar un ejercicio con aviso: ejercicio «passed», lección l01 «completed», el aviso pasa a resolvedAt con la fecha, y current no cambia.
 - Elijo B: ejercicio «passed_with_warning» («skipped» si no entregué), lección «completed_with_warning», un aviso con type «advanced_without_pass» («exercise_skipped» si no entregué), revisit true y resolvedAt null, y current {"lesson":"l02","exercise":"e02"}.
 - Elijo A o aún no apruebo: ejercicio «in_progress».
 Cada intento: {"n":1,"date":"AAAA-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.

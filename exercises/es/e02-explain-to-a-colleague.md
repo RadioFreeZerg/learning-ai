@@ -4,7 +4,7 @@ slug: e02-explain-to-a-colleague
 lang: es
 title: Explícalo a un colega
 translationOf: null
-version: 2
+version: 3
 sourceVersion: null
 week: 3
 estimatedHours: 2
@@ -45,7 +45,7 @@ Texto corrido de 300 a 600 palabras, pegado en el chat. Si trabajas con archivos
 ## Ítems imprescindibles
 
 - [ ] **e2-analogy** · Incluye una analogía propia, no copiada de la lección ni del asistente, y señala dónde se queda corta.
-- [ ] **e2-limits** · Describe tres límites distintos del asistente, cada uno con un ejemplo de tu área.
+- [ ] **e2-limits** · Describe tres límites distintos del asistente, cada uno con un ejemplo de su área.
 - [ ] **e2-audience** · Está escrita para alguien sin conocimientos previos, sin jerga sin explicar.
 - [ ] **e2-rule** · Termina con una regla práctica de uso para el colega.
 
@@ -105,7 +105,8 @@ SI NO APRUEBA: de 2 a 3 acciones concretas, sin reescribir mi trabajo.
 Si es el intento 2 o posterior y no apruebo: explica qué falta y ofréceme (A) revisar de nuevo o (B) avanzar con un aviso. No elijas por mí y no insistas después de mi respuesta.
 
 BLOQUE DE PROGRESO TRAS LA REVISIÓN (JSON; incluye en «attempts» todos los intentos del ejercicio)
-- Aprobado: ejercicio «passed», lección l02 «completed» con completedAt, y current {"lesson":"l03","exercise":"e03"}.
+- Aprobado por primera vez: ejercicio «passed», lección l02 «completed» con completedAt, y current {"lesson":"l03","exercise":"e03"}.
+- Aprobado al retomar un ejercicio con aviso: ejercicio «passed», lección l02 «completed», el aviso pasa a resolvedAt con la fecha, y current no cambia.
 - Elijo B: ejercicio «passed_with_warning» («skipped» si no entregué), lección «completed_with_warning», un aviso con type «advanced_without_pass» («exercise_skipped» si no entregué), revisit true y resolvedAt null, y current {"lesson":"l03","exercise":"e03"}.
 - Elijo A o aún no apruebo: ejercicio «in_progress».
 Cada intento: {"n":1,"date":"AAAA-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.
