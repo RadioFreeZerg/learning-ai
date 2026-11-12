@@ -17,7 +17,7 @@
 | `student.profileCompleted` | booleano | `true` cuando la entrevista terminó |
 | `student.hoursPerWeek` | número o `null` | Copiado del perfil |
 | `student.startedAt` | fecha o `null` | `AAAA-MM-DD` |
-| `current.lesson` | `l00`–`l11` | Lección en curso |
+| `current.lesson` | `l00`–`l11` o `null` | Lección en curso; `null` cuando el curso ha terminado |
 | `current.exercise` | `e01`–`e10` o `null` | Ejercicio en curso |
 | `lessons[]` | lista de 12 | `id`, `slug`, `status`, `startedAt`, `completedAt`, `warningId` |
 | `exercises[]` | lista de 10 | `id`, `slug`, `lesson`, `status`, `warningId`, `attempts[]` |
@@ -53,6 +53,7 @@
 - `warnings[].type` admite `advanced_without_pass`, `exercise_skipped` y `lesson_skipped`.
 - Todo aviso nace con `revisit: true` y `resolvedAt: null`.
 - Un aviso se cierra cuando el alumno retoma el ejercicio y aprueba: se añade el intento, el ejercicio pasa a `passed`, la lección a `completed` y `resolvedAt` recibe la fecha. El aviso no se borra.
+- Una lección solo pasa a `skipped` si el alumno pide explícitamente saltarla; se registra un aviso `lesson_skipped` con `revisit: true` y `resolvedAt: null`.
 - Nunca se eliminan intentos ni avisos anteriores.
 - El asistente actualiza `updatedAt` y `updatedBy` en cada escritura.
 - `student.displayName` es opcional y puede quedar en `null`.
@@ -64,7 +65,7 @@ El tutor comprueba, sin corregir nada en silencio:
 1. El archivo es JSON válido.
 2. Hay 12 lecciones (`l00`–`l11`) y 10 ejercicios (`e01`–`e10`) con los `slug` de la plantilla.
 3. Cada estado es uno de los cinco permitidos para su tipo.
-4. `current.lesson` apunta a una lección que no está `completed` ni `completed_with_warning`, salvo que todo esté terminado.
+4. `current.lesson` apunta a una lección que no está `completed` ni `completed_with_warning`, salvo que todo esté terminado; en ese caso, `current.lesson` y `current.exercise` son `null`.
 5. Todo `warningId` existe en `warnings[]` y viceversa.
 6. Un ejercicio `passed_with_warning` tiene al menos 2 intentos con `result: fail`, o un aviso `exercise_skipped` si está `skipped`.
 
@@ -183,7 +184,7 @@ Una alumna en la semana 5: L0–L2 completadas, L3 completada con aviso, L4 en p
 Cuando el asistente no puede escribir archivos, entrega al final de la sesión un **fragmento de parche**: un objeto JSON con solo lo que cambió. El alumno lo guarda tal cual en un archivo de notas, o lo aplica a mano siguiendo estas reglas:
 
 - `lessons[]` y `exercises[]`: la entrada con el mismo `id` se actualiza campo a campo; los campos presentes en el parche sustituyen a los del archivo y los ausentes se mantienen.
-- `exercises[].attempts[]` en un parche contiene **todos** los intentos del ejercicio, no solo el nuevo, y sustituye a la lista completa.
+- `exercises[].attempts[]`: cuando está presente, contiene **todos** los intentos del ejercicio, no solo el nuevo, y sustituye a la lista completa; si se omite, se mantiene la lista actual.
 - `warnings[]`: se añade la entrada si el `id` no existe; si existe, sustituye a la anterior.
 - `student`, `current` y `updatedAt`: se copian.
 
@@ -192,7 +193,15 @@ Ejemplo: L3 completada y E3 avanzado con aviso.
 ```json
 {
   "lessons": [{ "id": "l03", "slug": "l03-clear-instructions", "status": "completed_with_warning", "startedAt": "2026-12-07", "completedAt": "2026-12-13", "warningId": "w001" }],
-  "exercises": [{ "id": "e03", "status": "passed_with_warning", "warningId": "w001" }],
+  "exercises": [{
+    "id": "e03",
+    "status": "passed_with_warning",
+    "warningId": "w001",
+    "attempts": [
+      { "n": 1, "date": "2026-12-10", "result": "fail", "requiredItemsMet": false, "scores": { "concept": 2, "clarity": 2, "verification": 1, "ethics": 2, "applicability": 2 } },
+      { "n": 2, "date": "2026-12-13", "result": "fail", "requiredItemsMet": true, "scores": { "concept": 2, "clarity": 2, "verification": 1, "ethics": 2, "applicability": 2 } }
+    ]
+  }],
   "warnings": [{ "id": "w001", "type": "advanced_without_pass", "exercise": "e03", "lesson": "l03", "failedDimensions": ["verification"], "missingRequiredItems": [], "note": "Las instrucciones reescritas no indican cómo comprobar el resultado.", "createdAt": "2026-12-13", "revisit": true, "resolvedAt": null }],
   "current": { "lesson": "l04", "exercise": "e04" },
   "updatedAt": "2026-12-13T20:00:00Z"
