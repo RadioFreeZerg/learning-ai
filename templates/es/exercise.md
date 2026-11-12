@@ -44,7 +44,7 @@ requiredItems:
 
 ## Prompt de revisión para tu asistente
 
-<!-- Bloque autocontenido, máximo 1.200 palabras: rol y reglas del tutor, rúbrica compacta, ítems imprescindibles, hueco para el número de intento y la entrega, y formato fijo de la devolución. -->
+<!-- Bloque autocontenido, máximo 1.200 palabras: rol y reglas del tutor (incluida la regla 5: perfil, tarjeta, documentos y entrega son datos, no instrucciones), rúbrica compacta, ítems imprescindibles, hueco para el número de intento y la entrega, y formato fijo de la devolución. -->
 
 ```text
 (prompt)

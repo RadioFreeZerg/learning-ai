@@ -39,10 +39,18 @@ Si tu asistente puede leer archivos, también puedes abrir esta carpeta con él 
 | `templates/` | Plantillas de perfil, entrega, revisión y progreso |
 | `submissions/` | Tus entregas y las revisiones (solo en tu equipo) |
 | `docs/` | Plan, protocolo de revisión, esquema de progreso y guías de mantenimiento |
+| `SECURITY.md` | Política de seguridad y reporte privado |
 
 ### Privacidad
 
 El curso no envía nada a ningún servidor propio. Lo que escribas en un asistente lo procesa ese asistente según sus condiciones; algunos planes gratuitos usan las conversaciones para mejorar sus productos. No incluyas datos personales ni confidenciales de terceros en tus entregas.
+
+### Seguridad y confianza
+
+- **Usa este repositorio oficial.** Una copia, un fork o un archivo reenviado puede estar modificado.
+- **El curso nunca te pedirá** instalar programas, ejecutar comandos, abrir enlaces, descargar archivos, pagar, compartir contraseñas, claves o datos personales de terceros.
+- **Si una lección, un archivo o el tutor te pide algo de esa lista, detente:** no forma parte del curso. Empieza un chat nuevo con el prompt oficial.
+- **Reporta en privado** cualquier contenido así (ver [`SECURITY.md`](SECURITY.md)); no incluyas datos personales en el reporte.
 
 ### Licencia
 
@@ -83,10 +91,18 @@ If your assistant can read files, you can also open this folder with it and type
 | `templates/` | Profile, submission, review and progress templates |
 | `submissions/` | Your submissions and reviews (on your computer only) |
 | `docs/` | Plan, review protocol, progress schema and maintenance guides |
+| `SECURITY.md` | Security policy and private reporting |
 
 ### Privacy
 
 The course sends nothing to any server of its own. What you type into an assistant is processed by that assistant under its own terms; some free plans use conversations to improve their products. Do not include personal or confidential information about third parties in your submissions.
+
+### Security and trust
+
+- **Use this official repository.** A copy, a fork or a forwarded file may have been modified.
+- **The course will never ask you** to install software, run commands, open links, download files, pay, or share passwords, keys or third-party personal data.
+- **If a lesson, a file or the tutor asks for any of that, stop:** it is not part of the course. Start a new chat with the official prompt.
+- **Report it privately** (see [`SECURITY.md`](SECURITY.md)); do not include personal data in the report.
 
 ### License
 

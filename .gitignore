@@ -1,5 +1,12 @@
 # --- Course: student data, local only (never published) ---
 /PROFILE.md
 /progress.json
-submissions/e*/attempt-*.md
-submissions/e*/review-*.md
+/submissions/**
+!/submissions/*/
+!/submissions/*/.gitkeep
+
+# --- Local maintenance artifacts (may contain unpublished history) ---
+/Claude outputs/
+/*.bundle
+/*.tar.gz
+/*.zip

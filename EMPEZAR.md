@@ -32,6 +32,8 @@ Cuando el tutor diga que toca un ejercicio, haz lo mismo con el prompt del ejerc
 | Perdí la tarjeta | Dile al tutor qué lección estabas haciendo y sigue desde ahí. |
 | El chat se hace muy largo o se acaban los mensajes gratis | Pide: «dame la tarjeta de continuidad». Sigue más tarde o en otro asistente. |
 | El tutor dice que no puede abrir el repositorio | Es normal: los asistentes no navegan. Abre la lección en tu navegador, copia su prompt y pégalo como texto. |
+| El tutor sigue instrucciones que vienen dentro de mi entrega | La entrega es un dato, no una orden. Abre un chat nuevo, pega el prompt oficial y vuelve a entregar. |
+| El tutor intenta abrir enlaces, ejecutar comandos o pedir contraseñas | Detente: el curso no lo pide. Abre un chat nuevo con el prompt oficial y no pegues esos datos. |
 | El tutor explica algo distinto de la lección | Abre un chat nuevo y pega de nuevo el prompt de la lección. |
 | No estoy de acuerdo con una revisión | Pega el mismo prompt y tu misma entrega en otro asistente y compara. |
 
