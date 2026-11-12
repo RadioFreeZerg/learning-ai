@@ -1,6 +1,11 @@
-# Runs the checks from the DEFAULT branch against the pull request's files.
+# Runs the checks from the BASE branch against the pull request's files.
 # The pull request content is only read as data; its scripts are never run.
 # No secrets, read-only token, no third-party actions.
+#
+# LIMIT: on `pull_request`, GitHub runs THIS workflow file from the pull
+# request itself, so a pull request can replace or weaken it and still get a
+# green check. This check catches mistakes; it is not a trust boundary. Any
+# change under .github/ or scripts/ must be reviewed by a human.
 name: repo-checks
 
 on:
@@ -10,8 +15,9 @@ permissions:
   contents: read
 
 jobs:
-  checks:
+  repo-checks:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Get checks from the base branch and the PR files as data
         env:
