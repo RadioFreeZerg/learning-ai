@@ -43,11 +43,7 @@ Variant for your field: in at least one statement, explain what changes in a spe
 
 A Markdown table with 6 rows and 4 columns (or a list with the same four fields): statement, classification, justification and observed evidence (or "no evidence of my own"). Maximum 600 words, pasted as text. If you work with files, save it as `submissions/e01/attempt-1.md`.
 
-**Alternative format.** If you cannot write a Markdown table, use a list with the same fields, one entry per item. Format is not a required item and does not lower the score by itself. For example:
-
-```text
-1. "..." — classification: ... . Justification: ... . Evidence: ... .
-```
+**Alternative format.** If you cannot write a Markdown table, use a list with the same fields, one entry per item. Format is not a required item and does not lower the score by itself. For example: `1. "..." — classification: ... . Justification: ... . Evidence: ... .`
 
 ## Required items
 

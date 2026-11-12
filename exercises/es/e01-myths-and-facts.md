@@ -43,11 +43,7 @@ Variante para tu área: en al menos una afirmación, explica qué cambia en una 
 
 Una tabla Markdown de 6 filas y 4 columnas (o una lista con los mismos cuatro campos): afirmación, clasificación, justificación y evidencia observada (o «sin evidencia propia»). Máximo 600 palabras, pegado como texto. Si trabajas con archivos, guárdalo como `submissions/e01/attempt-1.md`.
 
-**Formato alternativo.** Si no puedes escribir una tabla Markdown, usa una lista con los mismos campos, una entrada por elemento. El formato no es un ítem imprescindible ni baja la puntuación por sí solo. Por ejemplo:
-
-```text
-1. «…» — clasificación: … . Justificación: … . Evidencia: … .
-```
+**Formato alternativo.** Si no puedes escribir una tabla Markdown, usa una lista con los mismos campos, una entrada por elemento. El formato no es un ítem imprescindible ni baja la puntuación por sí solo. Por ejemplo: `1. «…» — clasificación: … . Justificación: … . Evidencia: … .`
 
 ## Ítems imprescindibles
 
