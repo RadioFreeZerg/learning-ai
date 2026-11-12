@@ -4,7 +4,15 @@ You do not need to install anything, code or pay. You only need a chat with an A
 
 ## Your first session, in 2 steps
 
-1. **Paste this message into a new chat** with your AI assistant and send it:
+1. **The quickest way:** paste this into a new chat and send it:
+
+```text
+Start the course https://github.com/RadioFreeZerg/learning-ai
+```
+
+If your assistant can open the link, the front page contains the Lesson 1 bootstrap and starts on its own. If it cannot open it, it will tell you in one sentence and ask you to send the line `Continue with <Lesson 1 address>`; if that also fails, it will ask you to paste the prompt.
+
+**If you want to make sure it reads the full rules,** paste this message:
 
 ```text
 Be my tutor for the course "AI Fundamentals for Everyone". First read https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md and follow its rules. Then read https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l01-welcome.md and start Lesson 1 with its "Prompt for your assistant" block. Do not recite the pages to me: teach me in short messages. If you cannot open the links, tell me in one sentence and I will paste the prompt.
@@ -16,7 +24,7 @@ Be my tutor for the course "AI Fundamentals for Everyone". First read https://gi
 
 ## The following sessions
 
-Usually you just keep going in the same chat: when a lesson ends, the tutor asks whether to continue; answer "yes". If it cannot open the page on its own, it gives you a line like "Continue with https://…": copy it and send it as is. If you open a new chat or run out of free messages, paste this message and put your continuity card where it says `[PASTE HERE]`:
+Usually you just keep going in the same chat: when a lesson ends, the tutor asks whether to continue; answer "yes". If it cannot open the page on its own, it gives you a line like "Continue with https://…": copy it and send it as is. That puts the address in your message and the tutor can open it. If you open a new chat or run out of free messages, paste this message and put your continuity card where it says `[PASTE HERE]`:
 
 ```text
 Continue my course "AI Fundamentals for Everyone". First read https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md and follow its rules. Then read the page named in "Next step" of my card and continue from there. Do not recite the pages to me: teach me in short messages. If you cannot open the links, tell me in one sentence and I will paste the prompt.

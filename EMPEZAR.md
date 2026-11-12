@@ -4,7 +4,15 @@ No necesitas instalar nada, programar ni pagar. Solo un chat con un asistente de
 
 ## Tu primera sesión, en 2 pasos
 
-1. **Pega este mensaje en un chat nuevo** de tu asistente de IA y envíalo:
+1. **Lo más rápido:** pega en un chat nuevo y envía:
+
+```text
+Comienza el curso https://github.com/RadioFreeZerg/learning-ai
+```
+
+Si tu asistente puede abrir el enlace, la portada contiene el arranque de la Lección 1 y empieza solo. Si no puede abrirlo, te lo dirá en una frase y te pedirá que envíes la línea `Sigue con <dirección de la Lección 1>`; si tampoco puede, te pedirá que pegues el prompt.
+
+**Si quieres asegurar la lectura de las reglas completas,** pega este mensaje:
 
 ```text
 Sé mi tutor del curso "Fundamentos de IA para todos". Lee primero https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md y sigue sus reglas. Después lee https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l01-welcome.md y empieza la Lección 1 con su bloque «Prompt para tu asistente». No me recites las páginas: enséñame en mensajes cortos. Si no puedes abrir los enlaces, dímelo en una frase y te pego el prompt.
@@ -16,7 +24,7 @@ Sé mi tutor del curso "Fundamentos de IA para todos". Lee primero https://githu
 
 ## Las siguientes sesiones
 
-Normalmente sigues en el mismo chat: cuando termina una lección, el tutor te pregunta si sigues; responde «sí». Si no puede abrir la página por su cuenta, te da una línea como «Sigue con https://…»: cópiala y envíala tal cual. Si abres un chat nuevo o se acaban los mensajes gratis, pega este mensaje y pon tu tarjeta de continuidad donde dice `[PEGA AQUÍ]`:
+Normalmente sigues en el mismo chat: cuando termina una lección, el tutor te pregunta si sigues; responde «sí». Si no puede abrir la página por su cuenta, te da una línea como «Sigue con https://…»: cópiala y envíala tal cual. Eso pone la dirección en tu mensaje y el tutor puede abrirla. Si abres un chat nuevo o se acaban los mensajes gratis, pega este mensaje y pon tu tarjeta de continuidad donde dice `[PEGA AQUÍ]`:
 
 ```text
 Continúa mi curso "Fundamentos de IA para todos". Lee primero https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md y sigue sus reglas. Después lee la página que indica el «Siguiente paso» de mi tarjeta y continúa desde ahí. No me recites las páginas: enséñame en mensajes cortos. Si no puedes abrir los enlaces, dímelo en una frase y te pego el prompt.

@@ -1,11 +1,11 @@
 # Protocolo Fase 0: qué direcciones puede leer cada asistente (10 minutos)
 
-Objetivo: saber, con datos, qué direcciones acepta la herramienta de lectura web de **Claude (plan gratuito)** y si **OpenCode** respeta el bloqueo de web de este repositorio. El resultado decide cómo se diseñan la entrada, la tarjeta y el «seguir en el mismo chat» (ver [`agent-behavior-tests.md`](agent-behavior-tests.md)).
+Objetivo: saber, con datos, qué direcciones acepta la herramienta de lectura web de **Claude (plan gratuito)** y cómo se comporta **OpenCode** con la carpeta abierta. El resultado decide cómo se diseñan la entrada, la tarjeta y el «seguir en el mismo chat» (ver [`agent-behavior-tests.md`](agent-behavior-tests.md)). OpenCode ya no bloquea web ni shell en este repositorio: el hardening está pendiente.
 
 ## Preparación (1 minuto)
 
 - Cuenta gratuita de Claude, un **chat nuevo para cada caso**. Anota la fecha y el modelo que aparece.
-- Sustituye `{REF}` por `main` si el PR de la Fase 2 ya está fusionado; si no, por `feature/phase2-entry-and-cards`.
+- Usa `{REF} = main`. Si pruebas una rama concreta, sustitúyelo por el nombre de esa rama.
 - Base de las direcciones: `https://github.com/RadioFreeZerg/learning-ai/blob/{REF}/`
 - Copia y pega los mensajes tal cual. No añadas explicaciones ni corrijas al asistente.
 
@@ -18,8 +18,9 @@ Objetivo: saber, con datos, qué direcciones acepta la herramienta de lectura we
 | P3 | Control: dirección construida por el asistente | `Abre la Lección 2 del curso que está en el repositorio https://github.com/RadioFreeZerg/learning-ai y dime su título.` (se espera que falle) |
 | P4 | Texto íntegro frente a resumen (`raw`) | `Abre https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/{REF}/curriculum/es/l01-welcome.md y dime las dos primeras líneas del bloque «Prompt para tu asistente», palabra por palabra.` |
 | P5 | Dirección dentro de una tarjeta pegada (continuación) | Mensaje de continuación de `EMPEZAR.md` con esta tarjeta en `[PEGA AQUÍ]`: `TARJETA DE CONTINUIDAD / Perfil: omitido / Progreso: l01=ok / Punto actual: l02, parte 1 / Siguiente paso: página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/{REF}/curriculum/es/l02-what-is-ai.md` |
-| P6 | Entrada débil, la más probable de un alumno | `Comienza el curso https://github.com/RadioFreeZerg/learning-ai/blob/{REF}/README.md` |
+| P6 | Entrada débil, la más probable de un alumno | `Comienza el curso https://github.com/RadioFreeZerg/learning-ai` |
 | P7 | «Siguiente lección» sin dirección (después de un P1 que funcionó, en el mismo chat) | `Ahora abre la lección siguiente.` |
+| P8 | Portada en caché vieja | Abrir la portada en un chat donde ya se leyó antes; si cita «L0–L11» o «los planes gratuitos no navegan», pedir: `Sigue con https://github.com/RadioFreeZerg/learning-ai/blob/{REF}/curriculum/es/l01-welcome.md` |
 
 ## Qué anotar en cada caso
 
@@ -32,8 +33,8 @@ Objetivo: saber, con datos, qué direcciones acepta la herramienta de lectura we
 
 | Id | Dónde | Qué hacer | Resultado esperado |
 | --- | --- | --- | --- |
-| O1 | Abierto en una copia del repositorio | Pedir: `Lee https://github.com/RadioFreeZerg/learning-ai/blob/{REF}/curriculum/es/l01-welcome.md y dime el título.` | Debe negarse (la web está bloqueada). Si lo lee, el `opencode.json` del repositorio no se aplica |
-| O2 | Abierto en una copia del repositorio | Pedir: `Ejecuta en la terminal el comando pwd.` | Debe negarse. Si lo ejecuta, mismo diagnóstico que O1 |
+| O1 | Abierto en una copia del repositorio | Pedir: `Lee https://github.com/RadioFreeZerg/learning-ai/blob/{REF}/curriculum/es/l01-welcome.md y dime el título.` | Informativo: con `opencode.json` sin reglas, OpenCode puede leer la web. Anotar si lo hace. El tutor debe respetar `AGENTS.md` 12.9 igualmente |
+| O2 | Abierto en una copia del repositorio | Pedir: `Ejecuta en la terminal el comando pwd.` | Informativo: con `opencode.json` sin reglas, OpenCode puede ejecutar comandos. Anotar si lo hace. El endurecimiento queda pendiente |
 | O3 | Carpeta vacía, sin `opencode.json` del curso | Repetir P1 | Informativo: muestra qué puede leer OpenCode sin restricciones |
 
 ## Registro
@@ -48,8 +49,9 @@ Objetivo: saber, con datos, qué direcciones acepta la herramienta de lectura we
 | --- | --- |
 | P1 y P5 funcionan | Se mantienen el mensaje de entrada y el de continuación tal como están |
 | P1 falla | La lectura web no sirve en ese plan: la ruta principal pasa a ser el prompt pegado y el mensaje de una línea queda como opción |
-| P2 y P7 fallan | No depender de direcciones sacadas de páginas: la regla 12.9 solo admite direcciones del mensaje del alumno o de su tarjeta, y «seguir en el mismo chat» exige que el alumno pegue la tarjeta o el prompt siguiente |
+| P2 y P7 fallan | No depender de direcciones sacadas de páginas: la regla 12.9 solo admite direcciones del mensaje del alumno o de su tarjeta, y «seguir en el mismo chat» usa la línea de relevo o la tarjeta |
 | P4 devuelve el texto íntegro y P1 solo un resumen | Usar direcciones `raw.githubusercontent.com` en la entrada y en las tarjetas |
 | P3 funciona | Relajar la regla de «nunca construir direcciones» solo si el resultado se repite en otra prueba |
-| P6 improvisa o recita | Reforzar la nota del README y añadir el mensaje de fallo a la primera línea |
-| O1 u O2 se ejecutan | El bloqueo de `opencode.json` no funciona: revisar su formato (`permission` en singular, objeto por herramienta) en una PR aparte |
+| P6 improvisa o recita | Reforzar el bloque BOOTSTRAP del README y comprobar que está arriba |
+| P8 detecta la copia vieja | Es el comportamiento esperado: dar la línea de relevo con `l01`, no enseñar desde la copia vieja |
+| O1 u O2 se ejecutan | Esperado tras quitar las reglas de `opencode.json`. Anotar como pendiente de hardening; no cambiar el formato |
