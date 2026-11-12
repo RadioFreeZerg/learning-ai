@@ -16,7 +16,7 @@ Sé mi tutor del curso "Fundamentos de IA para todos". Lee primero https://githu
 
 ## Las siguientes sesiones
 
-Normalmente sigues en el mismo chat: cuando termina una lección, el tutor te da una línea como «Sigue con https://…». Cópiala y envíala tal cual. Si abres un chat nuevo o se acaban los mensajes gratis, pega este mensaje y pon tu tarjeta de continuidad donde dice `[PEGA AQUÍ]`:
+Normalmente sigues en el mismo chat: cuando termina una lección, el tutor te pregunta si sigues; responde «sí». Si no puede abrir la página por su cuenta, te da una línea como «Sigue con https://…»: cópiala y envíala tal cual. Si abres un chat nuevo o se acaban los mensajes gratis, pega este mensaje y pon tu tarjeta de continuidad donde dice `[PEGA AQUÍ]`:
 
 ```text
 Continúa mi curso "Fundamentos de IA para todos". Lee primero https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md y sigue sus reglas. Después lee la página que indica el «Siguiente paso» de mi tarjeta y continúa desde ahí. No me recites las páginas: enséñame en mensajes cortos. Si no puedes abrir los enlaces, dímelo en una frase y te pego el prompt.

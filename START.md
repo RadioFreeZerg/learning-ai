@@ -16,7 +16,7 @@ Be my tutor for the course "AI Fundamentals for Everyone". First read https://gi
 
 ## The following sessions
 
-Usually you just keep going in the same chat: when a lesson ends, the tutor gives you a line like "Continue with https://…". Copy it and send it as is. If you open a new chat or run out of free messages, paste this message and put your continuity card where it says `[PASTE HERE]`:
+Usually you just keep going in the same chat: when a lesson ends, the tutor asks whether to continue; answer "yes". If it cannot open the page on its own, it gives you a line like "Continue with https://…": copy it and send it as is. If you open a new chat or run out of free messages, paste this message and put your continuity card where it says `[PASTE HERE]`:
 
 ```text
 Continue my course "AI Fundamentals for Everyone". First read https://github.com/RadioFreeZerg/learning-ai/blob/main/AGENTS.md and follow its rules. Then read the page named in "Next step" of my card and continue from there. Do not recite the pages to me: teach me in short messages. If you cannot open the links, tell me in one sentence and I will paste the prompt.

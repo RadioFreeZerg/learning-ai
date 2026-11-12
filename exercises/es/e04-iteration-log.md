@@ -118,7 +118,7 @@ BLOQUE DE PROGRESO TRAS LA REVISIÓN (JSON; incluye en «attempts» todos los in
 - Elijo B: ejercicio «passed_with_warning» («skipped» si no entregué), lección «completed_with_warning», un aviso con type «advanced_without_pass» («exercise_skipped» si no entregué), revisit true y resolvedAt null, y current {"lesson":"l06","exercise":"e05"}.
 - Elijo A o aún no apruebo: ejercicio «in_progress».
 Cada intento: {"n":1,"date":"AAAA-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.
-Termina con una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l06-verifying-results.md). Para seguir aquí, dame la línea «Sigue con <página siguiente>» para que yo te la envíe.
+Termina con una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l06-verifying-results.md). Luego pregúntame si seguimos; si sí, abre tú la página siguiente; solo si falla, dame la línea «Sigue con <página siguiente>» para enviártela.
 ```
 
 ## Si no apruebas

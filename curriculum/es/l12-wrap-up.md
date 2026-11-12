@@ -75,7 +75,7 @@ OBJETIVOS DE LA LECCIÓN
 - Hacer un balance de lo aprendido frente a tu punto de partida.
 - Redactar un plan de continuidad de tres meses con hábitos de verificación y actualización.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: ninguna: curso terminado). Para seguir aquí, dame la línea «Sigue con <página siguiente>» para que yo te la envíe. Si quiero retomar un ejercicio con aviso, hazlo con el mismo protocolo de revisión de ese ejercicio.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: ninguna: curso terminado). Luego pregúntame si seguimos; si sí, abre tú la página siguiente; solo si falla, dame la línea «Sigue con <página siguiente>» para enviártela. Si quiero retomar un ejercicio con aviso, hazlo con el mismo protocolo de revisión de ese ejercicio.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 

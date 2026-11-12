@@ -96,7 +96,7 @@ Notes for the tutor: accessibility and format.
 CLOSING (when the lesson is completed, in this order)
 a) My final profile, to save as PROFILE.md.
 b) A progress block: {"lessons":[{"id":"l01","status":"completed","completedAt":"YYYY-MM-DD"}],"student":{"lang":"<es|en>","profileCompleted":true},"current":{"lesson":"l02","exercise":null},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"} with my real data and the language I chose.
-c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (l01=ok), Current point (l02, part 1) and Next step (open a new chat, paste the card and read the lesson at https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-what-is-ai.md). Then give me the line "Continue with https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-what-is-ai.md" for me to send back and continue here.
+c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (l01=ok), Current point (l02, part 1) and Next step (open a new chat, paste the card and read the lesson at https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-what-is-ai.md). Then ask if we continue; if I say yes, open https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-what-is-ai.md yourself and, only if that fails, give me the line \"Continue with https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-what-is-ai.md\" to send back.
 
 Start now with step 1.
 ```

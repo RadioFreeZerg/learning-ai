@@ -96,7 +96,7 @@ Notas para el tutor: accesibilidad y formato.
 CIERRE (cuando la lección esté completada, en este orden)
 a) Mi perfil final, para guardarlo como PROFILE.md.
 b) Un bloque de progreso: {"lessons":[{"id":"l01","status":"completed","completedAt":"AAAA-MM-DD"}],"student":{"lang":"<es|en>","profileCompleted":true},"current":{"lesson":"l02","exercise":null},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"} con mis datos reales y el idioma que elegí.
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (l01=ok), Punto actual (l02, parte 1) y Siguiente paso (abre un chat nuevo, pega la tarjeta y lee la lección en https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md). Después dame la línea «Sigue con https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md» para que yo te la envíe y seguir aquí.
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (l01=ok), Punto actual (l02, parte 1) y Siguiente paso (abre un chat nuevo, pega la tarjeta y lee la lección en https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md). Después pregúntame si seguimos; si digo que sí, abre tú https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md y, solo si falla, dame la línea «Sigue con https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md» para enviártela.
 
 Empieza ahora con el paso 1.
 ```

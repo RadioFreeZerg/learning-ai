@@ -118,7 +118,7 @@ PROGRESS BLOCK AFTER THE REVIEW (JSON; include in "attempts" all the attempts fo
 - I choose B: exercise "passed_with_warning" ("skipped" if I did not submit), lesson "completed_with_warning", one warning with type "advanced_without_pass" ("exercise_skipped" if I did not submit), revisit true and resolvedAt null, and current {"lesson":"l08","exercise":"e07"}.
 - I choose A or have not passed yet: exercise "in_progress".
 Each attempt: {"n":1,"date":"YYYY-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.
-End with a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l08-ethics-and-bias.md). To continue here, give me the line "Continue with <next page>" for me to send back.
+End with a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l08-ethics-and-bias.md). Then ask if we continue; if yes, open the next page yourself; only if that fails, give me the line "Continue with <next page>" to send.
 ```
 
 ## If you do not pass
