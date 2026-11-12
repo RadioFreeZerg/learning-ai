@@ -21,7 +21,7 @@ Curso de 12 semanas (~70 horas) para aprender a usar la IA con criterio y respon
 
 **Sigue la guía paso a paso: [EMPEZAR.md](EMPEZAR.md).** En resumen: abres una lección, copias su prompt, lo pegas en un chat nuevo de tu asistente de IA y guardas la tarjeta que te da al final.
 
-Si tu asistente puede leer archivos, también puedes abrir esta carpeta con él y escribir «Continuemos el curso»; leerá `AGENTS.md` y te guiará. Es opcional.
+Si tu asistente puede leer archivos, también puedes abrir esta carpeta con él y escribir «Continuemos el curso»; puede leer `AGENTS.md` y guiarte. Si no lo hace, pídele que abra ese archivo. Es opcional.
 
 ### Qué hay en el repositorio
 
@@ -30,6 +30,7 @@ Si tu asistente puede leer archivos, también puedes abrir esta carpeta con él 
 | `EMPEZAR.md`, `START.md` | Guía de inicio paso a paso |
 | `COURSE.md` | Índice y mapa de 12 semanas |
 | `AGENTS.md` | Instrucciones para el tutor (el asistente de IA) |
+| `CLAUDE.md`, `GEMINI.md` | Puntos de entrada que remiten a `AGENTS.md` |
 | `curriculum/es/`, `curriculum/en/` | Las 12 lecciones en cada idioma |
 | `exercises/es/`, `exercises/en/` | Los 10 ejercicios en cada idioma |
 | `rubrics/` | Rúbrica general de evaluación |
@@ -62,7 +63,22 @@ A 12-week course (~70 hours) on using AI with judgment and responsibility in stu
 
 **Follow the step-by-step guide: [START.md](START.md).** In short: open a lesson, copy its prompt, paste it into a new chat with your AI assistant and save the card it gives you at the end.
 
-If your assistant can read files, you can also open this folder with it and type "Let's continue the course"; it will read `AGENTS.md` and guide you. This is optional.
+If your assistant can read files, you can also open this folder with it and type "Let's continue the course"; it may read `AGENTS.md` and guide you. If it does not, ask it to open that file. This is optional.
+
+### What's in the repository
+
+| Path | Content |
+| --- | --- |
+| `EMPEZAR.md`, `START.md` | Step-by-step start guide |
+| `COURSE.md` | Index and 12-week map |
+| `AGENTS.md` | Tutor instructions (the AI assistant) |
+| `CLAUDE.md`, `GEMINI.md` | Entry points that point to `AGENTS.md` |
+| `curriculum/es/`, `curriculum/en/` | The 12 lessons in each language |
+| `exercises/es/`, `exercises/en/` | The 10 exercises in each language |
+| `rubrics/` | General assessment rubric |
+| `templates/` | Profile, submission, review and progress templates |
+| `submissions/` | Your submissions and reviews (on your computer only) |
+| `docs/` | Plan, review protocol, progress schema and maintenance guides |
 
 ### Privacy
 
