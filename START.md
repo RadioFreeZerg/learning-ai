@@ -7,10 +7,10 @@ You do not need to install anything, code or pay. You only need a chat with an A
 1. **The quickest way:** paste this into a new chat and send it:
 
 ```text
-Start the course https://github.com/RadioFreeZerg/learning-ai
+Start the course: read this page and follow its instructions as my tutor: https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md
 ```
 
-If your assistant can open the link, the front page contains the Lesson 1 bootstrap and starts on its own. If it cannot open it, it will tell you in one sentence and ask you to send the line `Continue with <Lesson 1 address>`; if that also fails, it will ask you to paste the prompt.
+If your assistant can open the link, that page contains the Lesson 1 bootstrap and starts on its own. The message asks explicitly that it follows the page's instructions, so the assistant knows you are asking for it. If it cannot open it, it will tell you in one sentence and ask you to send the line `Continue with <Lesson 1 address>`; if that also fails, it will ask you to paste the prompt.
 
 **If you want to make sure it reads the full rules,** paste this message:
 

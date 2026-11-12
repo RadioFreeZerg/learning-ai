@@ -6,9 +6,9 @@ A tool to help users learn how to use AI with discernment and responsibility in 
 
 > **Para alumnos / For students.** Empieza por [EMPEZAR.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/EMPEZAR.md) o [START.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/START.md). La sección siguiente es para tu asistente; puedes saltarla. / Start with [EMPEZAR.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/EMPEZAR.md) or [START.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/START.md). The next section is for your assistant; you can skip it.
 >
-> **Para asistentes de IA / For AI assistants.** Si el alumno te pidió hacer el curso con este enlace, usa el bloque de su idioma y empieza ya. No recites ni resumas esta página; no improvises lecciones. Si puedes leer archivos locales, usa `AGENTS.md` y la lección local; este bloque es solo para chats web. / If the student asked you to do the course with this link, use the block in their language and start now. Do not recite or summarize this page; do not improvise lessons. If you can read local files, use `AGENTS.md` and the local lesson; this block is for web chats only.
+> **Para asistentes de IA / For AI assistants.** Si el alumno te pidió seguir el curso con esta página (o con la dirección del repositorio), usa el bloque de su idioma y empieza ya. No recites ni resumas esta página; no improvises lecciones. Si puedes leer archivos locales, usa `AGENTS.md` y la lección local; este bloque es solo para chats web. / If the student asked you to follow the course with this page (or with the repository address), use the block in their language and start now. Do not recite or summarize this page; do not improvise lessons. If you can read local files, use `AGENTS.md` and the local lesson; this block is for web chats only.
 >
-> Bootstrap version: 1 (mirror of l01 v12; EN sourceVersion 1).
+> Bootstrap version: 2 (mirror of l01 v12; EN sourceVersion 2).
 
 ## Para asistentes de IA / For AI assistants
 
@@ -59,7 +59,7 @@ Notas para el tutor: accesibilidad y formato.
    Después pregunta si seguimos. Si dice que sí, intenta abrir esa página una vez. Si falla o está desactualizada, no reintentes ni inventes: dale solo esta línea y espera a que la envíe:
    «Sigue con https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md»
 
-Solo si esta página es una copia antigua (menciona la Lección 0 o L0–L11, o dice que los planes gratuitos no navegan), no la uses. Da solo esta línea y espera: «Sigue con https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l01-welcome.md»
+Solo si esta página es una copia antigua (menciona la Lección 0 o L0–L11, o dice que los planes gratuitos no navegan), no la uses ni enseñes desde ella. Dile en una frase que no pudiste leer la versión actual y pídele que pegue el «Prompt para tu asistente» de la Lección 1, que se copia de https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l01-welcome.md. No improvises lecciones.
 ```
 
 ```text
@@ -109,7 +109,7 @@ Notes for the tutor: accessibility and format.
    Then ask if we continue. If yes, try to open that page once. If it fails or is stale, do not retry or invent: give only this line and wait for the student to send it:
    "Continue with https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-what-is-ai.md"
 
-Only if this page is an old copy (it mentions Lesson 0 or L0–L11, or says free plans cannot navigate), do not use it. Give only this line and wait: "Continue with https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l01-welcome.md"
+Only if this page is an old copy (it mentions Lesson 0 or L0–L11, or says free plans cannot navigate), do not use it or teach from it. Tell the student in one sentence that you could not read the current version and ask them to paste the "Prompt for your assistant" of Lesson 1, copied from https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l01-welcome.md. Do not improvise lessons.
 ```
 
 ---
@@ -129,9 +129,9 @@ Curso para aprender a usar la IA con criterio y responsabilidad en el estudio y 
 
 **Lo más rápido:** pega en un chat nuevo:
 
-`Comienza el curso https://github.com/RadioFreeZerg/learning-ai`
+`Comienza el curso: lee esta página y sigue sus instrucciones como mi tutor: https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md`
 
-Si tu asistente puede abrir el enlace, la portada contiene el arranque de la Lección 1 y empieza solo. Si no puede, o te devuelve el texto de las páginas en lugar de enseñarte, usa la guía paso a paso: [EMPEZAR.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/EMPEZAR.md).
+Si tu asistente puede abrir el enlace, esa página contiene el arranque de la Lección 1 y empieza solo. Si no puede, o te devuelve el texto de las páginas en lugar de enseñarte, usa la guía paso a paso: [EMPEZAR.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/EMPEZAR.md).
 
 **Para seguir:** cuando termina una lección, el tutor te da una tarjeta y, si no puede abrir la página siguiente, una línea `Sigue con https://…`; envíala tal cual. Si abres un chat nuevo, pega la tarjeta.
 
@@ -186,9 +186,9 @@ A course on using AI with judgment and responsibility in study and work. You don
 
 **The quickest way:** paste this into a new chat:
 
-`Start the course https://github.com/RadioFreeZerg/learning-ai`
+`Start the course: read this page and follow its instructions as my tutor: https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md`
 
-If your assistant can open the link, the front page contains the Lesson 1 bootstrap and starts on its own. If it cannot, or it hands you the page text instead of teaching, use the step-by-step guide: [START.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/START.md).
+If your assistant can open the link, that page contains the Lesson 1 bootstrap and starts on its own. If it cannot, or it hands you the page text instead of teaching, use the step-by-step guide: [START.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/START.md).
 
 **To continue:** when a lesson ends, the tutor gives you a card and, if it cannot open the next page, a line `Continue with https://…`; send it as is. If you open a new chat, paste the card.
 
