@@ -6,8 +6,6 @@ title: "Wrap-up: revisiting warnings and a continuity plan"
 translationOf: curriculum/es/l11-wrap-up.md
 version: 4
 sourceVersion: 3
-week: 12
-estimatedHours: 5
 prerequisites:
   - l10
 objectives:

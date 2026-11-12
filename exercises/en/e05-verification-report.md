@@ -6,8 +6,6 @@ title: Verification report
 translationOf: exercises/es/e05-verification-report.md
 version: 4
 sourceVersion: 4
-week: 6
-estimatedHours: 2
 lesson: l05
 deliverable: Audited AI answer
 rubric: rubrics/en/general.md

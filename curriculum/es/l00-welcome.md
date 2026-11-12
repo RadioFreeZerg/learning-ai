@@ -4,10 +4,8 @@ slug: l00-welcome
 lang: es
 title: Bienvenida, entrevista y forma de trabajo
 translationOf: null
-version: 4
+version: 5
 sourceVersion: null
-week: 1
-estimatedHours: 5
 prerequisites: []
 objectives:
   - Explicar con tus palabras cómo funciona el curso: lecciones, ejercicios, revisión, avisos y tarjeta de continuidad.
@@ -24,11 +22,11 @@ Al terminar esta lección sabrás cómo se trabaja en el curso, tendrás tu perf
 
 ## Por qué importa
 
-Un curso sobre usar la IA con criterio empieza por usarla con criterio: saber qué le cuentas, qué te devuelve y cómo guardas tu avance. Si el tutor conoce tu área y tu ritmo, los ejemplos y el nivel de detalle se ajustan a ti, y no tendrás que repetirte en cada sesión.
+Un curso sobre usar la IA con criterio empieza por usarla con criterio: saber qué le cuentas, qué te devuelve y cómo guardas tu avance. Si el tutor conoce tu área y cómo aprendes, los ejemplos y el nivel de detalle se ajustan a ti, y no tendrás que repetirte en cada sesión.
 
 ## Conceptos clave
 
-**El curso.** Son 12 lecciones (L0–L11) y 10 ejercicios (E1–E10), una lección por semana, unas 70 horas en total. Tu asistente de IA hace de tutor: explica, propone actividades y revisa tus entregas.
+**El curso.** Son 12 lecciones (L0–L11) y 10 ejercicios (E1–E10), en orden. Tu asistente de IA hace de tutor: explica, propone actividades y revisa tus entregas.
 
 **Sesiones cortas.** Cada lección se reparte en 2 a 4 sesiones de 12 mensajes tuyos como máximo. Así el curso cabe en los planes gratuitos, que limitan los mensajes por ventana de tiempo.
 
@@ -36,7 +34,7 @@ Un curso sobre usar la IA con criterio empieza por usarla con criterio: saber qu
 
 **Revisión que orienta.** Cada ejercicio se revisa con una rúbrica de cinco dimensiones. Si no apruebas, recibes de 2 a 3 acciones concretas. Si fallas un segundo intento, eliges: revisar de nuevo o avanzar con un aviso que podrás retomar cuando quieras. Nada te bloquea.
 
-**Perfil.** La entrevista recoge diez datos (idioma, área, objetivos, experiencia, comodidad con la tecnología, estilo de aprendizaje, profundidad, herramientas que ya usas, horas por semana y accesibilidad), más un nombre opcional. Todo es local: lo guardas tú.
+**Perfil.** La entrevista recoge nueve datos (idioma, área, objetivos, experiencia, comodidad con la tecnología, estilo de aprendizaje, profundidad, herramientas que ya usas y accesibilidad), más un nombre opcional. Todo es local: lo guardas tú.
 
 **Privacidad.** Lo que escribes en un asistente lo procesa ese asistente según sus condiciones. Algunos planes gratuitos usan las conversaciones para mejorar sus productos. En este curso trabajarás con casos reales de tu área: anonimízalos y no pegues datos confidenciales de otras personas.
 
@@ -64,11 +62,11 @@ Además: si dudas entre dos niveles, pregúntame antes de puntuar. Esta sesión 
 
 QUÉ HACER, EN ORDEN
 1. Empieza tu primer mensaje con este aviso de privacidad, antes de cualquier otra cosa: «Lo que escribas se procesa según las condiciones de tu asistente de IA, y algunos planes gratuitos usan las conversaciones para mejorar sus productos. No compartas datos reales de terceros y anonimiza los casos reales.»
-2. Explícame cómo funciona el curso sin suponer que sé nada de IA, con una analogía cotidiana y un ejemplo: 12 lecciones y 10 ejercicios, una lección por semana; sesiones cortas; revisión con rúbrica; si fallo dos intentos elijo entre revisar de nuevo o avanzar con un aviso que puedo retomar; al final de cada sesión recibo una tarjeta de continuidad.
+2. Explícame cómo funciona el curso sin suponer que sé nada de IA, con una analogía cotidiana y un ejemplo: 12 lecciones y 10 ejercicios, en orden; sesiones cortas; revisión con rúbrica; si fallo dos intentos elijo entre revisar de nuevo o avanzar con un aviso que puedo retomar; al final de cada sesión recibo una tarjeta de continuidad.
 3. Hazme la entrevista en tres mensajes, uno por bloque. Acepta «prefiero no responder».
  Bloque 1: idioma del curso (es o en); a qué me dedico o qué estudio; cómo quiero que me llames (opcional); qué quiero poder hacer con IA al terminar (1 a 3 objetivos).
  Bloque 2: experiencia con asistentes de IA (ninguna, ocasional o frecuente); comodidad con la tecnología (baja, media o alta); cómo aprendo mejor (ejemplos, paso a paso, teoría primero o práctica primero); explicaciones breves o detalladas (esencial, estándar o profunda).
- Bloque 3: herramientas que ya uso; horas por semana que puedo dedicar; necesidades para que el curso sea accesible para mí (o «ninguna»).
+ Bloque 3: herramientas que ya uso; necesidades para que el curso sea accesible para mí (o «ninguna»).
 4. Con mis respuestas escribe mi perfil con este formato exacto y pídeme que lo corrija:
 ---
 lang: es|en
@@ -80,21 +78,19 @@ tech_comfort: low|medium|high
 learning_style: examples|step_by_step|theory_first|practice_first
 depth: essential|standard|deep
 current_tools: [lista]
-hours_per_week: número
 accessibility: texto o none
 created_at: AAAA-MM-DD
 updated_at: AAAA-MM-DD
 ---
 Quién soy y qué busco: 2–3 frases con mis palabras.
 Cómo quiero que me expliquen: tono, longitud y tipo de ejemplos.
-Notas para el tutor: accesibilidad y ritmo.
-Si mis horas por semana son menos de 4, dime una vez que el curso durará más de 12 semanas y propón un ritmo realista.
+Notas para el tutor: accesibilidad y formato.
 5. Cuando yo confirme el perfil, hazme cuatro preguntas de comprensión, una por mensaje: (a) qué pasa si fallo dos veces un ejercicio; (b) para qué sirve la tarjeta de continuidad; (c) qué cuidado debo tener con los datos que escribo; (d) cuántos mensajes tengo por sesión y por qué.
 6. Si respondo bien las cuatro, da la lección por completada. Si no, aclara lo que falte y vuelve a preguntar solo eso.
 
 CIERRE (cuando la lección esté completada, en este orden)
 a) Mi perfil final, para guardarlo como PROFILE.md.
-b) Un bloque de progreso: {"lessons":[{"id":"l00","status":"completed","completedAt":"AAAA-MM-DD"}],"student":{"lang":"<es|en>","hoursPerWeek":0,"profileCompleted":true},"current":{"lesson":"l01","exercise":null},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"} con mis datos reales y el idioma que elegí.
+b) Un bloque de progreso: {"lessons":[{"id":"l00","status":"completed","completedAt":"AAAA-MM-DD"}],"student":{"lang":"<es|en>","profileCompleted":true},"current":{"lesson":"l01","exercise":null},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"} con mis datos reales y el idioma que elegí.
 c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (L0=ok), Punto actual (L1, parte 1) y Siguiente paso (abrir un chat nuevo, pegar la tarjeta y la lección L1).
 
 Empieza ahora con el paso 1.

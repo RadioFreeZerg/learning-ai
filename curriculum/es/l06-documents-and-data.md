@@ -6,8 +6,6 @@ title: Trabajar con documentos y datos propios
 translationOf: null
 version: 3
 sourceVersion: null
-week: 7
-estimatedHours: 4
 prerequisites:
   - l05
 objectives:

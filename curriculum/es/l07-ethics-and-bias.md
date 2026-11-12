@@ -6,8 +6,6 @@ title: Ética, sesgos y uso responsable
 translationOf: null
 version: 3
 sourceVersion: null
-week: 8
-estimatedHours: 4
 prerequisites:
   - l06
 objectives:

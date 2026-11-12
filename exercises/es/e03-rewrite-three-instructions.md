@@ -6,8 +6,6 @@ title: Reescribe tres instrucciones
 translationOf: null
 version: 4
 sourceVersion: null
-week: 4
-estimatedHours: 2
 lesson: l03
 deliverable: Tres pares antes/después con el porqué de cada cambio
 rubric: rubrics/es/general.md

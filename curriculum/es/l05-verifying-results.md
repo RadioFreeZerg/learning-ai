@@ -6,8 +6,6 @@ title: "Verificar resultados: errores, invenciones y fuentes"
 translationOf: null
 version: 3
 sourceVersion: null
-week: 6
-estimatedHours: 4
 prerequisites:
   - l04
 objectives:

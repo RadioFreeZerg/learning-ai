@@ -10,12 +10,10 @@
 | `course.id` | texto | `ai-fundamentals-for-everyone` |
 | `course.title` | objeto | Título en `es` y `en` |
 | `course.contentVersion` | texto | Versión del contenido con la que se creó el archivo |
-| `course.totalWeeks`, `course.estimatedHours` | número | 12 y 70 |
 | `student.displayName` | texto o `null` | Nombre opcional |
 | `student.lang` | `es`, `en` o `null` | Idioma elegido en la entrevista |
 | `student.profileFile` | texto | Siempre `PROFILE.md` |
 | `student.profileCompleted` | booleano | `true` cuando la entrevista terminó |
-| `student.hoursPerWeek` | número o `null` | Copiado del perfil |
 | `student.startedAt` | fecha o `null` | `AAAA-MM-DD` |
 | `current.lesson` | `l00`–`l11` o `null` | Lección en curso; `null` cuando el curso ha terminado |
 | `current.exercise` | `e01`–`e10` o `null` | Ejercicio en curso |
@@ -25,6 +23,10 @@
 | `warnings[]` | lista | `id`, `type`, `exercise`, `lesson`, `failedDimensions`, `missingRequiredItems`, `note`, `createdAt`, `revisit`, `resolvedAt` |
 | `updatedAt` | fecha-hora o `null` | ISO 8601 en UTC |
 | `updatedBy` | `agent`, `student` o `null` | Quién escribió por última vez |
+
+### Campos retirados
+
+Las versiones anteriores del esquema incluían `course.totalWeeks`, `course.estimatedHours` y `student.hoursPerWeek`. Ya no se usan: el curso no declara duración ni horas semanales. Si un archivo antiguo los contiene, el tutor los ignora y los elimina la próxima vez que escriba el archivo; no son un error de validación.
 
 ## Estados de lección
 
@@ -73,7 +75,7 @@ Si algo falla, lo explica en lenguaje llano y propone la corrección.
 
 ## Ejemplo realista
 
-Una alumna en la semana 5: L0–L2 completadas, L3 completada con aviso, L4 en progreso, E2 aprobado al segundo intento y E3 avanzado sin aprobar.
+Una alumna con L0–L2 completadas, L3 completada con aviso, L4 en progreso, E2 aprobado al segundo intento y E3 avanzado sin aprobar.
 
 ```json
 {
@@ -84,16 +86,13 @@ Una alumna en la semana 5: L0–L2 completadas, L3 completada con aviso, L4 en p
       "es": "Fundamentos de IA para todos",
       "en": "AI Fundamentals for Everyone"
     },
-    "contentVersion": "1.0.0",
-    "totalWeeks": 12,
-    "estimatedHours": 70
+    "contentVersion": "1.0.0"
   },
   "student": {
     "displayName": null,
     "lang": "es",
     "profileFile": "PROFILE.md",
     "profileCompleted": true,
-    "hoursPerWeek": 6,
     "startedAt": "2026-11-16"
   },
   "current": { "lesson": "l04", "exercise": "e04" },

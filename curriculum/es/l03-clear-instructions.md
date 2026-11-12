@@ -6,8 +6,6 @@ title: "Comunicarse con la IA: instrucciones claras"
 translationOf: null
 version: 3
 sourceVersion: null
-week: 4
-estimatedHours: 4
 prerequisites:
   - l02
 objectives:

@@ -6,8 +6,6 @@ title: How a language model works, without math
 translationOf: curriculum/es/l02-how-language-models-work.md
 version: 3
 sourceVersion: 3
-week: 3
-estimatedHours: 4
 prerequisites:
   - l01
 objectives:

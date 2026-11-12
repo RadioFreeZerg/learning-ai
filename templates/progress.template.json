@@ -6,16 +6,13 @@
       "es": "Fundamentos de IA para todos",
       "en": "AI Fundamentals for Everyone"
     },
-    "contentVersion": "1.0.0",
-    "totalWeeks": 12,
-    "estimatedHours": 70
+    "contentVersion": "1.0.0"
   },
   "student": {
     "displayName": null,
     "lang": null,
     "profileFile": "PROFILE.md",
     "profileCompleted": false,
-    "hoursPerWeek": null,
     "startedAt": null
   },
   "current": {

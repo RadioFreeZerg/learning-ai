@@ -6,8 +6,6 @@ title: Data traffic light
 translationOf: exercises/es/e08-data-traffic-light.md
 version: 4
 sourceVersion: 4
-week: 9
-estimatedHours: 2
 lesson: l08
 deliverable: Classification of data from their work and a usage guide
 rubric: rubrics/en/general.md

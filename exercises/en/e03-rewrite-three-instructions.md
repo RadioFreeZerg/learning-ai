@@ -6,8 +6,6 @@ title: Rewrite three instructions
 translationOf: exercises/es/e03-rewrite-three-instructions.md
 version: 4
 sourceVersion: 4
-week: 4
-estimatedHours: 2
 lesson: l03
 deliverable: Three before/after pairs with the reason for each change
 rubric: rubrics/en/general.md

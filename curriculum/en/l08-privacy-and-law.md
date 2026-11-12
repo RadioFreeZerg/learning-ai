@@ -6,8 +6,6 @@ title: Privacy, intellectual property and the legal landscape
 translationOf: curriculum/es/l08-privacy-and-law.md
 version: 3
 sourceVersion: 3
-week: 9
-estimatedHours: 4
 prerequisites:
   - l07
 objectives:

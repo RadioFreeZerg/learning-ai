@@ -13,7 +13,7 @@ Versión resumida del plan de construcción. Los detalles ya implementados viven
 
 ## 1. Resumen ejecutivo
 
-«Fundamentos de IA para todos» / «AI Fundamentals for Everyone» es un curso de 12 semanas y unas 70 horas para aprender a usar la IA con criterio en tareas cotidianas. Está pensado para estudiantes y profesionales no técnicos: no pide terminal, código ni cuentas de pago.
+«Fundamentos de IA para todos» / «AI Fundamentals for Everyone» es un curso para aprender a usar la IA con criterio en tareas cotidianas. Está pensado para estudiantes y profesionales no técnicos: no pide terminal, código ni cuentas de pago.
 
 El curso es un repositorio Git de archivos de texto. El alumno abre la carpeta con el asistente de IA que prefiera, o copia un prompt en un chat. El asistente lee `AGENTS.md`, hace una entrevista inicial, guía 12 lecciones (L0–L11) y revisa 10 ejercicios (E1–E10) con una rúbrica común. El avance queda en `progress.json`.
 
@@ -24,12 +24,11 @@ Lo distinto: es bilingüe (ES/EN con archivos paralelos), funciona con el plan g
 | Tema | Decisión |
 | --- | --- |
 | Nombre | «Fundamentos de IA para todos» / «AI Fundamentals for Everyone» |
-| Duración | 12 semanas, ~70 h |
 | Estructura | 12 lecciones (L0–L11) y 10 ejercicios (E1–E10); L0 y L11 sin ejercicio |
 | Independencia | Cualquier asistente; `AGENTS.md` para quien lee archivos y prompt autocontenido por lección para el resto |
 | Idiomas | ES y EN en archivos paralelos con el mismo slug; ES es el original |
 | Progreso | `progress.json` en la raíz, legible por máquina |
-| Perfil | Entrevista en L0 que genera `PROFILE.md` con 10 campos más nombre opcional |
+| Perfil | Entrevista en L0 que genera `PROFILE.md` con 9 campos más nombre opcional |
 | Evaluación | Rúbrica 5 dimensiones × 4 niveles; aprobado = todos los imprescindibles + mínimo 2 por dimensión |
 | Segundo fallo | El alumno elige revisar de nuevo o avanzar con aviso (`warnings[]` con `revisit: true`) |
 | Límites de contenido | Sin certificaciones, sin marcas en el temario, sin código; agentes de programación solo como concepto en L9 |
@@ -38,10 +37,9 @@ Supuestos:
 
 1. El repositorio es `RadioFreeZerg/learning-ai`; la rama de trabajo inicial es `feature/course-scaffold`.
 2. Los slugs son ASCII en inglés y minúsculas, iguales en ambos idiomas.
-3. Mandan las ~70 h: L0 y L11 de 5 h y diez semanas de 6 h (lección 4 h + ejercicio 2 h).
-4. `PROFILE.md`, `progress.json` y las entregas se generan en la copia del alumno y git los ignora.
-5. El repositorio no incluye scripts; las comprobaciones las hace el asistente leyendo archivos.
-6. `AGENTS.md` está en inglés porque lo lee el agente; `README.md` y `COURSE.md` son bilingües en un mismo archivo.
+3. `PROFILE.md`, `progress.json` y las entregas se generan en la copia del alumno y git los ignora.
+4. El repositorio no incluye scripts; las comprobaciones las hace el asistente leyendo archivos.
+5. `AGENTS.md` está en inglés porque lo lee el agente; `README.md` y `COURSE.md` son bilingües en un mismo archivo.
 
 ## 3. Regla fundamental: planes gratuitos
 
@@ -63,21 +61,20 @@ Las cifras de los proveedores cambian a menudo; la matriz con fecha vive en [`fr
 
 ## 4. Mapa del curso
 
-| Sem. | Lección | Ejercicio | Entregable | Horas |
-| --- | --- | --- | --- | --- |
-| 1 | L0 · Bienvenida, entrevista y forma de trabajo | — | `PROFILE.md` y `progress.json` iniciados | 5 |
-| 2 | L1 · Qué es y qué no es la IA | E1 · Mitos y realidades | Tabla de 6 afirmaciones clasificadas y justificadas | 6 |
-| 3 | L2 · Cómo funciona un modelo de lenguaje, sin matemáticas | E2 · Explícalo a un colega | Explicación de una página con analogía propia y tres límites | 6 |
-| 4 | L3 · Comunicarse con la IA: instrucciones claras | E3 · Reescribe tres instrucciones | Tres pares antes/después con el porqué de cada cambio | 6 |
-| 5 | L4 · Contexto, ejemplos e iteración | E4 · Bitácora de iteración | Registro de una conversación mejorada en 3 rondas | 6 |
-| 6 | L5 · Verificar resultados: errores, invenciones y fuentes | E5 · Informe de verificación | Respuesta de IA auditada | 6 |
-| 7 | L6 · Trabajar con documentos y datos propios | E6 · Resumen verificado | Resumen con cada afirmación trazada al original | 6 |
-| 8 | L7 · Ética, sesgos y uso responsable | E7 · Caso ético de tu área | Análisis de un caso: afectados, riesgos y decisión | 6 |
-| 9 | L8 · Privacidad, propiedad intelectual y marco legal | E8 · Semáforo de datos | Guía personal de qué compartir, anonimizar o no compartir | 6 |
-| 10 | L9 · Automatización y agentes: conceptos | E9 · Mapa de automatización | Tareas clasificadas: delegar, asistir o no automatizar | 6 |
-| 11 | L10 · Diseñar un flujo de trabajo asistido por IA | E10 · Flujo de trabajo final | Flujo documentado: pasos, verificación, riesgos y límites | 6 |
-| 12 | L11 · Cierre: revisar avisos y plan de continuidad | — | Avisos revisados y plan personal a 90 días | 5 |
-| | | **Total** | | **70** |
+| Lección | Ejercicio | Entregable |
+| --- | --- | --- |
+| L0 · Bienvenida, entrevista y forma de trabajo | — | `PROFILE.md` y `progress.json` iniciados |
+| L1 · Qué es y qué no es la IA | E1 · Mitos y realidades | Tabla de 6 afirmaciones clasificadas y justificadas |
+| L2 · Cómo funciona un modelo de lenguaje, sin matemáticas | E2 · Explícalo a un colega | Explicación de una página con analogía propia y tres límites |
+| L3 · Comunicarse con la IA: instrucciones claras | E3 · Reescribe tres instrucciones | Tres pares antes/después con el porqué de cada cambio |
+| L4 · Contexto, ejemplos e iteración | E4 · Bitácora de iteración | Registro de una conversación mejorada en 3 rondas |
+| L5 · Verificar resultados: errores, invenciones y fuentes | E5 · Informe de verificación | Respuesta de IA auditada |
+| L6 · Trabajar con documentos y datos propios | E6 · Resumen verificado | Resumen con cada afirmación trazada al original |
+| L7 · Ética, sesgos y uso responsable | E7 · Caso ético de tu área | Análisis de un caso: afectados, riesgos y decisión |
+| L8 · Privacidad, propiedad intelectual y marco legal | E8 · Semáforo de datos | Guía personal de qué compartir, anonimizar o no compartir |
+| L9 · Automatización y agentes: conceptos | E9 · Mapa de automatización | Tareas clasificadas: delegar, asistir o no automatizar |
+| L10 · Diseñar un flujo de trabajo asistido por IA | E10 · Flujo de trabajo final | Flujo documentado: pasos, verificación, riesgos y límites |
+| L11 · Cierre: revisar avisos y plan de continuidad | — | Avisos revisados y plan personal de continuidad |
 
 ## 5. Fases de construcción
 
@@ -114,7 +111,7 @@ Las fases 1 a 3 fijan la mecánica con poco contenido; si algo del diseño falla
 - [x] El ejemplo de `progress.json` es JSON válido y cubre todos los estados.
 - [x] El protocolo contempla el segundo fallo sin bloquear.
 - [x] La rúbrica tiene 5 dimensiones y 4 niveles.
-- [x] El mapa suma 70 horas en 12 semanas.
+- [x] El mapa contiene las 12 lecciones y los 10 ejercicios en orden.
 - [x] Ninguna lección ni ejercicio exige pago, adjuntos, búsqueda web del asistente ni funciones fuera del chat de texto.
 - [x] Cada prompt y cada sesión cumplen el presupuesto de diseño.
 - [ ] El ciclo entrevista → L1 → E1 se ha completado en el plan gratuito de al menos cuatro asistentes, tres de ellos solo con chat de texto.

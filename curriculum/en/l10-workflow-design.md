@@ -6,8 +6,6 @@ title: Designing an AI-assisted workflow
 translationOf: curriculum/es/l10-workflow-design.md
 version: 3
 sourceVersion: 3
-week: 11
-estimatedHours: 4
 prerequisites:
   - l09
 objectives:

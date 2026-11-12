@@ -6,8 +6,6 @@ title: Título de la lección
 translationOf: null
 version: 1
 sourceVersion: null
-week: 1
-estimatedHours: 4
 prerequisites: []
 objectives:
   - Objetivo observable 1

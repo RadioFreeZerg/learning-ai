@@ -6,8 +6,6 @@ title: Automation map
 translationOf: exercises/es/e09-automation-map.md
 version: 4
 sourceVersion: 4
-week: 10
-estimatedHours: 2
 lesson: l09
 deliverable: Map of tasks with decision to automate and controls
 rubric: rubrics/en/general.md

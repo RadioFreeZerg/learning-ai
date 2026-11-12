@@ -6,8 +6,6 @@ title: Context, examples and iteration
 translationOf: curriculum/es/l04-context-and-iteration.md
 version: 3
 sourceVersion: 3
-week: 5
-estimatedHours: 4
 prerequisites:
   - l03
 objectives:

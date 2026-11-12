@@ -24,7 +24,7 @@ Cada sesión termina con una tarjeta de 150 palabras como máximo. El alumno la 
 
 ```text
 TARJETA DE CONTINUIDAD
-Perfil: idioma=es; rol=...; profundidad=...; ritmo=... h/sem; accesibilidad=...
+Perfil: idioma=es; rol=...; profundidad=...; accesibilidad=...
 Progreso: L0=ok L1=ok L2=doing | E1=ok
 Punto actual: lección L2, parte 2 de 3; falta: la actividad guiada
 Siguiente paso: abrir un chat nuevo, pegar esta tarjeta en el prompt de la lección y enviarlo

@@ -6,8 +6,6 @@ title: Mapa de automatización
 translationOf: null
 version: 4
 sourceVersion: null
-week: 10
-estimatedHours: 2
 lesson: l09
 deliverable: Mapa de tareas con decisión de automatizar y controles
 rubric: rubrics/es/general.md

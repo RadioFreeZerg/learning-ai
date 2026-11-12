@@ -6,8 +6,6 @@ title: Iteration log
 translationOf: exercises/es/e04-iteration-log.md
 version: 4
 sourceVersion: 4
-week: 5
-estimatedHours: 2
 lesson: l04
 deliverable: Record of a conversation improved over 3 rounds
 rubric: rubrics/en/general.md

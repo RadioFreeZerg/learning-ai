@@ -6,8 +6,6 @@ title: Myths and facts
 translationOf: exercises/es/e01-myths-and-facts.md
 version: 4
 sourceVersion: 4
-week: 2
-estimatedHours: 2
 lesson: l01
 deliverable: Table of 6 statements classified and justified
 rubric: rubrics/en/general.md

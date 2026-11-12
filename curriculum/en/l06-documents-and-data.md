@@ -6,8 +6,6 @@ title: Working with your own documents and data
 translationOf: curriculum/es/l06-documents-and-data.md
 version: 3
 sourceVersion: 3
-week: 7
-estimatedHours: 4
 prerequisites:
   - l05
 objectives:

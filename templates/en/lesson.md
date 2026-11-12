@@ -6,8 +6,6 @@ title: Lesson title
 translationOf: curriculum/es/lNN-slug-in-english.md
 version: 1
 sourceVersion: 1
-week: 1
-estimatedHours: 4
 prerequisites: []
 objectives:
   - Observable objective 1

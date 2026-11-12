@@ -6,8 +6,6 @@ title: "Checking results: mistakes, inventions and sources"
 translationOf: curriculum/es/l05-verifying-results.md
 version: 3
 sourceVersion: 3
-week: 6
-estimatedHours: 4
 prerequisites:
   - l04
 objectives:

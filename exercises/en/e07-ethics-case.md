@@ -6,8 +6,6 @@ title: Ethics case from your field
 translationOf: exercises/es/e07-ethics-case.md
 version: 4
 sourceVersion: 4
-week: 8
-estimatedHours: 2
 lesson: l07
 deliverable: Ethical analysis of a case with conditions of use
 rubric: rubrics/en/general.md

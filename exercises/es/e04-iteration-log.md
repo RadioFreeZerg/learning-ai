@@ -6,8 +6,6 @@ title: Bitácora de iteración
 translationOf: null
 version: 4
 sourceVersion: null
-week: 5
-estimatedHours: 2
 lesson: l04
 deliverable: Registro de una conversación mejorada en 3 rondas
 rubric: rubrics/es/general.md

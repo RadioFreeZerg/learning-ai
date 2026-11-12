@@ -6,8 +6,6 @@ title: "Talking to AI: clear instructions"
 translationOf: curriculum/es/l03-clear-instructions.md
 version: 3
 sourceVersion: 3
-week: 4
-estimatedHours: 4
 prerequisites:
   - l02
 objectives:

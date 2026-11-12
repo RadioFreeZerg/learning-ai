@@ -6,8 +6,6 @@ title: "Automation and agents: concepts"
 translationOf: curriculum/es/l09-automation-and-agents.md
 version: 3
 sourceVersion: 3
-week: 10
-estimatedHours: 4
 prerequisites:
   - l08
 objectives:

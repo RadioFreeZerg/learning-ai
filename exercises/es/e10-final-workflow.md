@@ -6,8 +6,6 @@ title: Flujo de trabajo final
 translationOf: null
 version: 4
 sourceVersion: null
-week: 11
-estimatedHours: 2
 lesson: l10
 deliverable: Flujo de trabajo asistido por IA documentado
 rubric: rubrics/es/general.md

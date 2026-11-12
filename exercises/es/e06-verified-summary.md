@@ -6,8 +6,6 @@ title: Resumen verificado
 translationOf: null
 version: 4
 sourceVersion: null
-week: 7
-estimatedHours: 2
 lesson: l06
 deliverable: Resumen de un documento comprobado contra el original
 rubric: rubrics/es/general.md

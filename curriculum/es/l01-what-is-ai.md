@@ -6,8 +6,6 @@ title: Qué es y qué no es la IA
 translationOf: null
 version: 4
 sourceVersion: null
-week: 2
-estimatedHours: 4
 prerequisites:
   - l00
 objectives:

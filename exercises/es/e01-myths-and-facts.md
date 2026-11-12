@@ -6,8 +6,6 @@ title: Mitos y realidades
 translationOf: null
 version: 4
 sourceVersion: null
-week: 2
-estimatedHours: 2
 lesson: l01
 deliverable: Tabla de 6 afirmaciones clasificadas y justificadas
 rubric: rubrics/es/general.md

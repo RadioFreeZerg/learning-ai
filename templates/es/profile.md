@@ -8,7 +8,6 @@ tech_comfort: medium
 learning_style: examples
 depth: standard
 current_tools: []
-hours_per_week: 6
 accessibility: none
 created_at: AAAA-MM-DD
 updated_at: AAAA-MM-DD
@@ -24,7 +23,7 @@ updated_at: AAAA-MM-DD
 
 ## Notas para el tutor
 
-<!-- Necesidades de accesibilidad y ajustes de ritmo. Sin diagnósticos. -->
+<!-- Necesidades de accesibilidad y formato. Sin diagnósticos. -->
 
 <!--
 Valores permitidos:

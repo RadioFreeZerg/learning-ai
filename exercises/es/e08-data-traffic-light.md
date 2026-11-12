@@ -6,8 +6,6 @@ title: Semáforo de datos
 translationOf: null
 version: 4
 sourceVersion: null
-week: 9
-estimatedHours: 2
 lesson: l08
 deliverable: Clasificación de datos de su trabajo y guía de uso
 rubric: rubrics/es/general.md

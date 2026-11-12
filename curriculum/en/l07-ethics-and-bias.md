@@ -6,8 +6,6 @@ title: Ethics, bias and responsible use
 translationOf: curriculum/es/l07-ethics-and-bias.md
 version: 3
 sourceVersion: 3
-week: 8
-estimatedHours: 4
 prerequisites:
   - l06
 objectives:

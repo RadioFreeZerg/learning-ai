@@ -6,8 +6,6 @@ title: Privacidad, propiedad intelectual y marco legal
 translationOf: null
 version: 3
 sourceVersion: null
-week: 9
-estimatedHours: 4
 prerequisites:
   - l07
 objectives:

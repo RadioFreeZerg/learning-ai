@@ -6,8 +6,6 @@ title: Explain it to a colleague
 translationOf: exercises/es/e02-explain-to-a-colleague.md
 version: 4
 sourceVersion: 4
-week: 3
-estimatedHours: 2
 lesson: l02
 deliverable: One-page explanation with your own analogy and three limits
 rubric: rubrics/en/general.md

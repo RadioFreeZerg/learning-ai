@@ -6,8 +6,6 @@ title: Exercise title
 translationOf: exercises/es/eNN-slug-in-english.md
 version: 1
 sourceVersion: 1
-week: 2
-estimatedHours: 2
 lesson: lNN
 deliverable: What is submitted, in one line
 rubric: rubrics/en/general.md

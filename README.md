@@ -8,11 +8,11 @@ A tool to help users learn how to use AI with discernment and responsibility in 
 
 ## Fundamentos de IA para todos
 
-Curso de 12 semanas (~70 horas) para aprender a usar la IA con criterio y responsabilidad en el estudio y el trabajo. No necesitas programar, instalar nada ni pagar: todo el curso está diseñado para funcionar con el plan gratuito de cualquier asistente de IA común.
+Curso para aprender a usar la IA con criterio y responsabilidad en el estudio y el trabajo. No necesitas programar, instalar nada ni pagar: todo el curso está diseñado para funcionar con el plan gratuito de cualquier asistente de IA común.
 
 ### Cómo funciona
 
-- 12 lecciones (L0–L11) y 10 ejercicios (E1–E10), una lección por semana.
+- 12 lecciones (L0–L11) y 10 ejercicios (E1–E10), en orden.
 - Tu asistente de IA hace de tutor: te entrevista al empezar, guía cada lección, revisa tus ejercicios con una rúbrica y anota tu avance.
 - La revisión orienta, no bloquea: si un ejercicio no aprueba en dos intentos, tú decides si lo repites o avanzas con un aviso que podrás retomar después.
 - Tu perfil, tu progreso y tus entregas se quedan en tu equipo; el repositorio no los publica.
@@ -30,7 +30,7 @@ Si tu asistente puede leer archivos, también puedes abrir esta carpeta con él 
 | Ruta | Contenido |
 | --- | --- |
 | `EMPEZAR.md`, `START.md` | Guía de inicio paso a paso |
-| `COURSE.md` | Índice y mapa de 12 semanas |
+| `COURSE.md` | Índice y orden del curso |
 | `AGENTS.md` | Instrucciones para el tutor (el asistente de IA) |
 | `CLAUDE.md`, `GEMINI.md` | Puntos de entrada que remiten a `AGENTS.md` |
 | `curriculum/es/`, `curriculum/en/` | Las 12 lecciones en cada idioma |
@@ -60,11 +60,11 @@ MIT. Ver [`LICENSE`](LICENSE).
 
 ## <a id="english"></a>AI Fundamentals for Everyone
 
-A 12-week course (~70 hours) on using AI with judgment and responsibility in study and work. You don't need to code, install anything, or pay: the whole course is designed to work on the free plan of any common AI assistant.
+A course on using AI with judgment and responsibility in study and work. You don't need to code, install anything, or pay: the whole course is designed to work on the free plan of any common AI assistant.
 
 ### How it works
 
-- 12 lessons (L0–L11) and 10 exercises (E1–E10), one lesson per week.
+- 12 lessons (L0–L11) and 10 exercises (E1–E10), in order.
 - Your AI assistant acts as the tutor: it interviews you at the start, guides each lesson, reviews your exercises with a rubric, and records your progress.
 - Review guides but never blocks: if an exercise doesn't pass in two attempts, you choose to retry or move on with a warning you can revisit later.
 - Your profile, progress and submissions stay on your computer; the repository does not publish them.
@@ -82,7 +82,7 @@ If your assistant can read files, you can also open this folder with it and type
 | Path | Content |
 | --- | --- |
 | `EMPEZAR.md`, `START.md` | Step-by-step start guide |
-| `COURSE.md` | Index and 12-week map |
+| `COURSE.md` | Course index and order |
 | `AGENTS.md` | Tutor instructions (the AI assistant) |
 | `CLAUDE.md`, `GEMINI.md` | Entry points that point to `AGENTS.md` |
 | `curriculum/es/`, `curriculum/en/` | The 12 lessons in each language |

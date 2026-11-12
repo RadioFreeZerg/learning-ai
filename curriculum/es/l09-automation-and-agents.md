@@ -6,8 +6,6 @@ title: "Automatización y agentes: conceptos"
 translationOf: null
 version: 3
 sourceVersion: null
-week: 10
-estimatedHours: 4
 prerequisites:
   - l08
 objectives:

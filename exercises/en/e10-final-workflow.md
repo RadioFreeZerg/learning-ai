@@ -6,8 +6,6 @@ title: Final workflow
 translationOf: exercises/es/e10-final-workflow.md
 version: 4
 sourceVersion: 4
-week: 11
-estimatedHours: 2
 lesson: l10
 deliverable: Documented AI-assisted workflow
 rubric: rubrics/en/general.md

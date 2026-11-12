@@ -6,8 +6,6 @@ title: "Cierre: revisar avisos y plan de continuidad"
 translationOf: null
 version: 3
 sourceVersion: null
-week: 12
-estimatedHours: 5
 prerequisites:
   - l10
 objectives:

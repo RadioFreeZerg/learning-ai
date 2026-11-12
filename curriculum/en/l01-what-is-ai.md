@@ -6,8 +6,6 @@ title: What AI is and is not
 translationOf: curriculum/es/l01-what-is-ai.md
 version: 4
 sourceVersion: 4
-week: 2
-estimatedHours: 4
 prerequisites:
   - l00
 objectives:

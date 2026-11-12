@@ -6,8 +6,6 @@ title: Verified summary
 translationOf: exercises/es/e06-verified-summary.md
 version: 4
 sourceVersion: 4
-week: 7
-estimatedHours: 2
 lesson: l06
 deliverable: Summary of a document checked against the original
 rubric: rubrics/en/general.md

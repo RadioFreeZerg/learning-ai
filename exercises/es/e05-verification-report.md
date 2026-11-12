@@ -6,8 +6,6 @@ title: Informe de verificación
 translationOf: null
 version: 4
 sourceVersion: null
-week: 6
-estimatedHours: 2
 lesson: l05
 deliverable: Respuesta de IA auditada
 rubric: rubrics/es/general.md

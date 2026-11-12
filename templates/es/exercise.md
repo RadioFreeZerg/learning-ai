@@ -6,8 +6,6 @@ title: Título del ejercicio
 translationOf: null
 version: 1
 sourceVersion: null
-week: 2
-estimatedHours: 2
 lesson: lNN
 deliverable: Qué se entrega, en una línea
 rubric: rubrics/es/general.md

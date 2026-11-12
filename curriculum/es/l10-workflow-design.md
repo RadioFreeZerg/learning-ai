@@ -6,8 +6,6 @@ title: Diseñar un flujo de trabajo asistido por IA
 translationOf: null
 version: 3
 sourceVersion: null
-week: 11
-estimatedHours: 4
 prerequisites:
   - l09
 objectives:

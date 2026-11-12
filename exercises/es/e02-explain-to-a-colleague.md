@@ -6,8 +6,6 @@ title: Explícalo a un colega
 translationOf: null
 version: 4
 sourceVersion: null
-week: 3
-estimatedHours: 2
 lesson: l02
 deliverable: Explicación de una página con analogía propia y tres límites
 rubric: rubrics/es/general.md

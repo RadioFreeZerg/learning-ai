@@ -6,8 +6,6 @@ title: Cómo funciona un modelo de lenguaje, sin matemáticas
 translationOf: null
 version: 3
 sourceVersion: null
-week: 3
-estimatedHours: 4
 prerequisites:
   - l01
 objectives:

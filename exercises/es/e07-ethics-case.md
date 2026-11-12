@@ -6,8 +6,6 @@ title: Caso ético de tu área
 translationOf: null
 version: 4
 sourceVersion: null
-week: 8
-estimatedHours: 2
 lesson: l07
 deliverable: Análisis ético de un caso con condiciones de uso
 rubric: rubrics/es/general.md

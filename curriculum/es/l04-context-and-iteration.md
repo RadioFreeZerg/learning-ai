@@ -6,8 +6,6 @@ title: Contexto, ejemplos e iteración
 translationOf: null
 version: 3
 sourceVersion: null
-week: 5
-estimatedHours: 4
 prerequisites:
   - l03
 objectives:
