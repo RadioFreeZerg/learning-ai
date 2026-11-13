@@ -45,7 +45,7 @@ Un ejercicio con aviso se escribe con su identificador: `E3=warn(w001)`.
 
 ## Estructura de una sesión corta
 
-1. En la primera sesión, el alumno puede enviar solo `Comienza el curso: lee esta página y sigue sus instrucciones como mi tutor: <dirección del README>`; esa página contiene el arranque. En las siguientes, pega la tarjeta o envía la línea `Sigue con <dirección>` que le dé el tutor.
+1. En la primera sesión, el alumno puede enviar solo `Comienza el curso: lee https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt y sigue sus instrucciones como mi tutor`; ese archivo contiene el arranque. En las siguientes, pega la tarjeta o envía la línea `Sigue con <dirección>` que le dé el tutor.
 2. El tutor resume el punto actual en dos frases y propone el objetivo de la sesión.
 3. Trabajo en bloques pequeños: concepto, ejemplo, actividad.
 4. Cierre: comprobación (si la lección la tiene), revisión del ejercicio, bloque de progreso y tarjeta nueva.

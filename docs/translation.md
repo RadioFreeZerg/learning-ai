@@ -48,6 +48,10 @@ El asistente del mantenedor recorre los pares de `curriculum/`, `exercises/` y `
 
 Si su lección está atrasada, el tutor se lo avisa una vez y ofrece trabajar desde el original en español. Ver `AGENTS.md`, regla 2.3.
 
+## Archivo `llms.txt`
+
+`llms.txt` es el archivo de entrada para asistentes de IA. Es un archivo bilingüe único (avisos en ES/EN) y debe actualizarse junto con el bootstrap del README y el prompt de la Lección 1. Se registra como `llms.txt` en [`translation-status.md`](translation-status.md).
+
 ## Bloque BOOTSTRAP del README
 
 El bloque `ARRANQUE DEL CURSO · LECCIÓN 1` / `COURSE START · LESSON 1` del `README.md` es una copia resumida del prompt de la Lección 1. Se actualiza primero en español, se sube su `bootstrapVersion`, y luego en inglés con `sourceVersion` igual a la nueva versión española. `docs/translation-status.md` lleva una fila `README-bootstrap`.

@@ -28,3 +28,4 @@
 | e10-final-workflow | 11 | 11 | sincronizado |
 | general | 1 | 1 | sincronizado |
 | README-bootstrap | 2 | 2 | sincronizado |
+| llms.txt | 1 | 1 | sincronizado |
