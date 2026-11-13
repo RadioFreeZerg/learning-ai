@@ -6,9 +6,10 @@ Versión: 3 (entrada para asistentes; el prompt de l01 sigue siendo la fuente de
 
 ## URLs
 
-- Lee páginas del curso solo en `https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/...`.
-- No uses URLs `/tree/`: GitHub puede responder `ROBOTS_DISALLOWED`. Si una `/blob/` falla, da al alumno la línea «Sigue con <URL raw>» con la misma ruta.
-- Si una URL falla, no busques en la web ni inventes: da la línea «Sigue con <URL raw>» y espera; si tampoco funciona, pide el prompt pegado.
+- Lee páginas del curso solo en `https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/...`. Las páginas de lección y ejercicio de este archivo y de las tarjetas usan raw.
+- No uses URLs `/tree/`: GitHub puede responder `ROBOTS_DISALLOWED`.
+- Si el alumno te da una URL `/blob/`, no la reescribas: úsala solo como enlace para su navegador y pide el prompt pegado.
+- Si una URL raw falla, no busques en la web ni inventes: pide el prompt pegado.
 
 ## Arranque de la Lección 1
 

@@ -4,7 +4,7 @@ slug: l09-privacy-and-law
 lang: es
 title: Privacidad, propiedad intelectual y marco legal
 translationOf: null
-version: 10
+version: 11
 sourceVersion: null
 prerequisites:
   - l08
@@ -79,7 +79,7 @@ OBJETIVOS DE LA LECCIÓN
 - Reconocer los puntos básicos de propiedad intelectual y de protección de datos que afectan al uso de la IA.
 - Saber dónde consultar la normativa de tu país y tu organización y cuándo pedir asesoramiento.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e08-data-traffic-light.md). Luego pregúntame si seguimos. Si sí, intenta abrir la página siguiente una vez; si falla o está desactualizada, no reintentes ni inventes: dame solo «Sigue con <página siguiente>» y espera.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/es/e08-data-traffic-light.md). Luego pregúntame si seguimos. Si sí, intenta abrir la página siguiente una vez; si falla o está desactualizada, no reintentes ni inventes: dame solo «Sigue con <página siguiente>» y espera.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 
@@ -118,7 +118,7 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E8 «Semáforo de datos» (archivo exercises/es/e08-data-traffic-light.md).
 b) Un bloque de progreso: {"lessons":[{"id":"l09","status":"in_progress"}],"exercises":[{"id":"e08","status":"in_progress"}],"current":{"lesson":"l09","exercise":"e08"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo l01=ok l09=doing), Punto actual y Siguiente paso (página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e08-data-traffic-light.md).
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo l01=ok l09=doing), Punto actual y Siguiente paso (página siguiente: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/es/e08-data-traffic-light.md).
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -140,7 +140,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E8 · Semáforo de datos (https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e08-data-traffic-light.md). Después, Lección 10 · Automatización y agentes: conceptos (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l10-automation-and-agents.md).
+Ejercicio E8 · Semáforo de datos (https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/es/e08-data-traffic-light.md). Después, Lección 10 · Automatización y agentes: conceptos (https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/es/l10-automation-and-agents.md).
 
 ## Opcional
 

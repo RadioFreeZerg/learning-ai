@@ -4,8 +4,8 @@ slug: l02-what-is-ai
 lang: en
 title: What AI is and is not
 translationOf: curriculum/es/l02-what-is-ai.md
-version: 11
-sourceVersion: 11
+version: 12
+sourceVersion: 12
 prerequisites:
   - l01
 objectives:
@@ -77,7 +77,7 @@ LESSON OBJECTIVES
 - Explain in your own words what an AI assistant usually does well and badly.
 - Recognize the most common myths about AI and why they are false or incomplete.
 
-SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e01-myths-and-facts.md). Then ask if we continue. If yes, try the next page once; if it fails or is stale, do not retry or invent: give me only "Continue with <next page>" and wait.
+SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/en/e01-myths-and-facts.md). Then ask if we continue. If yes, try the next page once; if it fails or is stale, do not retry or invent: give me only "Continue with <next page>" and wait.
 
 HOW TO EXPLAIN: do not assume I have any prior knowledge. Explain each idea in a single message of 150 to 250 words, with all of this: (1) a definition in everyday words, clarifying each new term the first time; (2) an analogy from daily life and where it falls short; (3) two concrete examples, one from my field and one general; (4) a common misunderstanding; (5) a single short question to check that I understood. Do not wait for me to ask for examples and do not move to the next idea until I answer.
 
@@ -114,7 +114,7 @@ Count the lesson part as done only if I answer the essentials of each question; 
 CLOSING (once I have passed the check, in this order)
 a) Tell me the lesson part is done and that the next step is exercise E1 "Myths and facts" (file exercises/en/e01-myths-and-facts.md).
 b) A progress block: {"lessons":[{"id":"l02","status":"in_progress"}],"exercises":[{"id":"e01","status":"in_progress"}],"current":{"lesson":"l02","exercise":"e01"},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"}
-c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example l01=ok l02=doing), Current point and Next step (next page: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e01-myths-and-facts.md).
+c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example l01=ok l02=doing), Current point and Next step (next page: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/en/e01-myths-and-facts.md).
 
 Start now: summarize in two sentences where I am and propose the goal for this session.
 ```
@@ -138,7 +138,7 @@ The tutor asks you these questions, one at a time:
 
 ## Next step
 
-Exercise E1 · Myths and facts (https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e01-myths-and-facts.md). Then, Lesson 3 · How a language model works, without math (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l03-how-language-models-work.md).
+Exercise E1 · Myths and facts (https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/en/e01-myths-and-facts.md). Then, Lesson 3 · How a language model works, without math (https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/en/l03-how-language-models-work.md).
 
 ## Optional
 

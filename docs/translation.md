@@ -54,7 +54,7 @@ Si su lección está atrasada, el tutor se lo avisa una vez y ofrece trabajar de
 
 ## Bloque BOOTSTRAP del README
 
-El bloque `ARRANQUE DEL CURSO · LECCIÓN 1` / `COURSE START · LESSON 1` del `README.md` es una copia resumida del prompt de la Lección 1. Se actualiza primero en español, se sube su `bootstrapVersion`, y luego en inglés con `sourceVersion` igual a la nueva versión española. `docs/translation-status.md` lleva una fila `README-bootstrap`.
+El bloque `ARRANQUE DEL CURSO · LECCIÓN 1` / `COURSE START · LESSON 1` del `README.md` es la entrada de arranque para asistentes; el prompt de la Lección 1 sigue siendo la fuente de la lección. Se actualiza primero en español, se sube su `bootstrapVersion`, y luego en inglés con `sourceVersion` igual a la nueva versión española. `docs/translation-status.md` lleva una fila `README-bootstrap`.
 
 ## Coherencia entre lección y prompt
 

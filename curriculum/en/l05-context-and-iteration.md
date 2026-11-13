@@ -4,8 +4,8 @@ slug: l05-context-and-iteration
 lang: en
 title: Context, examples and iteration
 translationOf: curriculum/es/l05-context-and-iteration.md
-version: 10
-sourceVersion: 10
+version: 11
+sourceVersion: 11
 prerequisites:
   - l04
 objectives:
@@ -77,7 +77,7 @@ LESSON OBJECTIVES
 - Improve a result in rounds with concrete corrections.
 - Decide when to close a chat and continue in a new one with a continuity card.
 
-SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e04-iteration-log.md). Then ask if we continue. If yes, try the next page once; if it fails or is stale, do not retry or invent: give me only "Continue with <next page>" and wait.
+SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/en/e04-iteration-log.md). Then ask if we continue. If yes, try the next page once; if it fails or is stale, do not retry or invent: give me only "Continue with <next page>" and wait.
 
 HOW TO EXPLAIN: do not assume I have any prior knowledge. Explain each idea in a single message of 150 to 250 words, with all of this: (1) a definition in everyday words, clarifying each new term the first time; (2) an analogy from daily life and where it falls short; (3) two concrete examples, one from my field and one general; (4) a common misunderstanding; (5) a single short question to check that I understood. Do not wait for me to ask for examples and do not move to the next idea until I answer.
 
@@ -114,7 +114,7 @@ Count the lesson part as done only if I answer the essentials of each question; 
 CLOSING (once I have passed the check, in this order)
 a) Tell me the lesson part is done and that the next step is exercise E4 "Iteration log" (file exercises/en/e04-iteration-log.md).
 b) A progress block: {"lessons":[{"id":"l05","status":"in_progress"}],"exercises":[{"id":"e04","status":"in_progress"}],"current":{"lesson":"l05","exercise":"e04"},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"}
-c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example l01=ok l05=doing), Current point and Next step (next page: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e04-iteration-log.md).
+c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example l01=ok l05=doing), Current point and Next step (next page: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/en/e04-iteration-log.md).
 
 Start now: summarize in two sentences where I am and propose the goal for this session.
 ```
@@ -136,7 +136,7 @@ Start now: summarize in two sentences where I am and propose the goal for this s
 
 ## Next step
 
-Exercise E4 · Iteration log (https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e04-iteration-log.md). Then, Lesson 6 · Checking results: mistakes, inventions and sources (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l06-verifying-results.md).
+Exercise E4 · Iteration log (https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/en/e04-iteration-log.md). Then, Lesson 6 · Checking results: mistakes, inventions and sources (https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/en/l06-verifying-results.md).
 
 ## Optional
 
