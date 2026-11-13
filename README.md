@@ -143,6 +143,7 @@ Si tu asistente puede leer archivos, también puedes abrir esta carpeta con él 
 | --- | --- |
 | `EMPEZAR.md`, `START.md` | Guía de inicio paso a paso |
 | `COURSE.md` | Índice y orden del curso |
+| `llms.txt` | Entrada experimental para asistentes de IA: reglas y enlaces directos al curso |
 | `AGENTS.md` | Instrucciones para el tutor (el asistente de IA) |
 | `CLAUDE.md`, `GEMINI.md` | Puntos de entrada que remiten a `AGENTS.md` |
 | `.claude/settings.json`, `.gemini/settings.json` | Ajustes que impiden al asistente ejecutar comandos o navegar en Claude Code y Gemini. `opencode.json` solo declara el esquema; el endurecimiento de OpenCode está pendiente. |
@@ -200,6 +201,7 @@ If your assistant can read files, you can also open this folder with it and type
 | --- | --- |
 | `EMPEZAR.md`, `START.md` | Step-by-step start guide |
 | `COURSE.md` | Course index and order |
+| `llms.txt` | Experimental entry for AI assistants: rules and direct links to the course |
 | `AGENTS.md` | Tutor instructions (the AI assistant) |
 | `CLAUDE.md`, `GEMINI.md` | Entry points that point to `AGENTS.md` |
 | `.claude/settings.json`, `.gemini/settings.json` | Settings that stop the assistant from running commands or browsing in Claude Code and Gemini. `opencode.json` only declares the schema; OpenCode hardening is pending. |
