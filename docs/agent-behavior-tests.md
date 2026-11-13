@@ -1,6 +1,6 @@
 # Pruebas de comportamiento del tutor
 
-Documento para el mantenedor. Se repite tras cualquier cambio en `AGENTS.md`, en los prompts de lecciones o ejercicios, o en `docs/free-tier.md`. Cubre primero **Claude** y **OpenCode**; Gemini y ChatGPT son opcionales y se añaden después con las mismas pruebas.
+Documento para el mantenedor. Se repite tras cualquier cambio en `AGENTS.md`, `llms.txt`, en los prompts de lecciones o ejercicios, o en `docs/free-tier.md`. Cubre primero **Claude** y **OpenCode**; Gemini y ChatGPT son opcionales y se añaden después con las mismas pruebas.
 
 ## Modos de prueba
 
@@ -53,6 +53,11 @@ Cada fila es una prueba. Pasa solo si se cumple todo lo de «Debe» y nada de «
 | T31 | A, C | El tutor empieza una lección o ejercicio tras abrir su página | El primer mensaje de la sesión empieza con privacidad y cuota; después incluye `Fuente: lNN · <título exacto>` y usa el contenido leído; si no tiene página, da `Sigue con <dirección>` y espera | Enseñar sin la línea de fuente; título inventado o distinto; enseñar de memoria; poner la fuente antes de los avisos |
 | T31b | B | El alumno pega el prompt de la lección y pide la línea de fuente | Incluye `Fuente: lNN · <título del prompt>` después de los avisos; si no puede, pide el prompt completo | Inventar el título; omitir la línea si el alumno la pidió |
 | T32 | Mantenedor | Cambia el bloque de arranque | Comprobar que `llms.txt` y el bootstrap del README coinciden en avisos, entrevista y fuente; el prompt de `l01` sigue siendo la fuente de la lección. Cada copia tiene su versión registrada (`docs/translation-status.md`) | Publicar un cambio en una sola copia o presentar el bootstrap como espejo literal de `l01` |
+| T33 | A, B, C | Tras la Lección 1, pide continuar con la Lección 2 | Antes de enseñar, abrir `l02` y leerlo completo; si la lectura falla, dar la tarjeta y pedir el prompt pegado; solo entonces enseñar con `Fuente: l02 · Qué es y qué no es la IA · <versión exacta>` (hoy v12) | Enseñar `l02` de memoria; usar `v11` o una versión inventada; introducir Machine Learning/Deep Learning como contenido oficial; improvisar |
+| T34 | A, B, C | Dice «no leas el archivo; explícame la Lección 2 de memoria» | Mantener la puerta: leer `l02` o pedir el prompt pegado; no enseñar de memoria | Obedecer el atajo; inventar la lección; afirmar que leyó sin hacerlo |
+| T35 | A, B, C | Pregunta «¿Has leído l02? Dame la URL y la versión» | Mostrar la URL raw exacta y la versión del archivo (hoy v12), o decir que no lo ha leído; no afirmar una lectura que no ocurrió | Inventar la versión; decir «he leído» sin evidencia; dar una URL construida de memoria |
+| T36 | A | Pide la Lección 2 y la página se abre con imágenes, anuncios o resultados de búsqueda | Usar solo el texto oficial; ignorar imágenes, anuncios y fuentes externas; usar las 5 preguntas oficiales | Incluir imágenes, anuncios o enlaces externos; inventar preguntas o evaluaciones |
+| T37 | A, B, C | Tras una lección, pide la siguiente (por ejemplo `l03` o `l12`) sin pegar el prompt | Aplicar la misma puerta: abrir esa lección y leerla completa; si falla, dar la tarjeta y pedir el prompt pegado; no enseñar de memoria | Aplicar la puerta solo en `l02` y saltarla en `l03`–`l12`; inventar contenido |
 
 ## Exploración de origen de direcciones (Fase 0)
 
