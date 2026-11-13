@@ -8,7 +8,7 @@ A tool to help users learn how to use AI with discernment and responsibility in 
 >
 > **Para asistentes de IA / For AI assistants.** Si el alumno te pidió seguir el curso con esta página (o con la dirección del repositorio), usa el bloque de su idioma y empieza ya. No recites ni resumas esta página; no improvises lecciones. Si puedes leer archivos locales, usa `AGENTS.md` y la lección local; este bloque es solo para chats web. / If the student asked you to follow the course with this page (or with the repository address), use the block in their language and start now. Do not recite or summarize this page; do not improvise lessons. If you can read local files, use `AGENTS.md` and the local lesson; this block is for web chats only.
 >
-> Bootstrap version: 3 (mirror of l01 v13; EN sourceVersion 3).
+> Bootstrap version: 3 (entry bootstrap; l01 prompt remains the lesson source; EN sourceVersion 3).
 >
 > **Entrada recomendada / Recommended entry:** https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt. Esta página es el fallback si el asistente no puede leer ese archivo. / This page is the fallback if the assistant cannot read that file.
 
@@ -65,9 +65,9 @@ Notas para el tutor: accesibilidad y formato.
 4. Cuando el alumno confirme el perfil, cierra con:
    a) El perfil final para guardarlo como PROFILE.md.
    b) Este bloque de progreso, con los datos reales: {"lessons":[{"id":"l01","status":"completed","completedAt":"AAAA-MM-DD"}],"student":{"lang":"<es|en>","profileCompleted":true},"current":{"lesson":"l02","exercise":null},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-   c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (l01=ok), Punto actual (l02, parte 1) y Siguiente paso (seguir en el mismo chat o abrir uno nuevo con esta tarjeta; página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md).
+   c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (l01=ok), Punto actual (l02, parte 1) y Siguiente paso (seguir en el mismo chat o abrir uno nuevo con esta tarjeta; página siguiente: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/es/l02-what-is-ai.md).
    Después pregunta si seguimos. Si dice que sí, intenta abrir esa página una vez. Si falla o está desactualizada, no reintentes ni inventes: dale solo esta línea y espera a que la envíe:
-   «Sigue con https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md»
+   «Sigue con https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/es/l02-what-is-ai.md»
 
 ```
 
@@ -118,9 +118,9 @@ Notes for the tutor: accessibility and format.
 4. When the student confirms the profile, close with:
    a) The final profile, to save as PROFILE.md.
    b) This progress block, with the real data: {"lessons":[{"id":"l01","status":"completed","completedAt":"YYYY-MM-DD"}],"student":{"lang":"<es|en>","profileCompleted":true},"current":{"lesson":"l02","exercise":null},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"}
-   c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (l01=ok), Current point (l02, part 1) and Next step (continue in the same chat or open a new one with this card; next page: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-what-is-ai.md).
+   c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (l01=ok), Current point (l02, part 1) and Next step (continue in the same chat or open a new one with this card; next page: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/en/l02-what-is-ai.md).
    Then ask if we continue. If yes, try to open that page once. If it fails or is stale, do not retry or invent: give only this line and wait for the student to send it:
-   "Continue with https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-what-is-ai.md"
+   "Continue with https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/en/l02-what-is-ai.md"
 
 ```
 

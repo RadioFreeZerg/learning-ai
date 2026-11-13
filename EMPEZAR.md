@@ -14,7 +14,7 @@ Si tu asistente puede abrir el enlace, ese archivo contiene el arranque de la Le
 
 **Si el tutor empieza por la Lección 0, dice que no puede navegar o inventa lecciones,** es una copia vieja. Envía: `Lee https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt y sigue sus instrucciones como mi tutor. No improvises lecciones ni busques en la web.`
 
-**Si quieres asegurar la lectura de las reglas completas,** pega este mensaje:
+**Si quieres reforzar el arranque,** pega este mensaje:
 
 ```text
 Sé mi tutor del curso "Fundamentos de IA para todos". Lee https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt y sigue sus instrucciones. Empieza la Lección 1. No me recites el archivo: enséñame en mensajes cortos.

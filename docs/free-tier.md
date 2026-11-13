@@ -28,7 +28,7 @@ TARJETA DE CONTINUIDAD
 Perfil: idioma=es; rol=...; profundidad=...; accesibilidad=...   (o: omitido)
 Progreso: l01=ok l02=ok l03=doing | E1=ok
 Punto actual: l03 (Lección 3), v9, parte 2 de 3; falta: la actividad guiada
-Siguiente paso: seguir en el mismo chat o abrir uno nuevo con esta tarjeta; página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l04-clear-instructions.md
+Siguiente paso: seguir en el mismo chat o abrir uno nuevo con esta tarjeta; página siguiente: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/es/l04-clear-instructions.md
 ```
 
 Si el tutor vio la versión del archivo, añade `vN` junto al id; si no, no la inventes.

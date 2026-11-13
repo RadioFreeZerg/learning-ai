@@ -14,7 +14,7 @@ If your assistant can open the link, that file contains the Lesson 1 bootstrap a
 
 **If the tutor starts with Lesson 0, says it cannot navigate or invents lessons,** it is an old copy. Send: `Read https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt and follow its instructions as my tutor. Do not improvise lessons or search the web.`
 
-**If you want to make sure it reads the full rules,** paste this message:
+**If you want to reinforce the start,** paste this message:
 
 ```text
 Be my tutor for the course "AI Fundamentals for Everyone". Read https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt and follow its instructions. Start Lesson 1. Do not recite the file: teach me in short messages.
