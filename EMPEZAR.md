@@ -7,10 +7,10 @@ No necesitas instalar nada, programar ni pagar. Solo un chat con un asistente de
 1. **Lo más rápido:** pega en un chat nuevo y envía:
 
 ```text
-Comienza el curso: lee esta página y sigue sus instrucciones como mi tutor: https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md
+Comienza el curso: lee esta página y sigue sus instrucciones como mi tutor: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt
 ```
 
-Si tu asistente puede abrir el enlace, esa página contiene el arranque de la Lección 1 y empieza solo. Pide expresamente que siga las instrucciones de la página: así el asistente sabe que tú se lo pides. Si no puede abrirlo, te lo dirá en una frase y te pedirá que envíes la línea `Sigue con <dirección de la Lección 1>`; si tampoco puede, te pedirá que pegues el prompt.
+Si tu asistente puede abrir el enlace, ese archivo le explica el curso y le indica cómo empezar la Lección 1. El mensaje pide expresamente que siga sus instrucciones: así el asistente sabe que se lo pides tú. Si no puede abrir el enlace, te lo dirá en una frase; si te da una línea `Sigue con <dirección>`, envíala tal cual; si tampoco puede, te pedirá que pegues el prompt.
 
 **Si quieres asegurar la lectura de las reglas completas,** pega este mensaje:
 

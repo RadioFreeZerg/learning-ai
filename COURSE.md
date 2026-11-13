@@ -3,7 +3,7 @@
 **ES** — Índice del curso: 12 lecciones (Lección 1 a Lección 12) y 10 ejercicios (E1–E10).
 **EN** — Course index: 12 lessons (Lessons 1–12) and 10 exercises (E1–E10).
 
-Empieza por / Start with: [`README.md`](https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md).
+Empieza por / Start with: [`README.md`](https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md). Asistentes de IA / AI assistants: [`llms.txt`](https://github.com/RadioFreeZerg/learning-ai/blob/main/llms.txt).
 
 ## Mapa del curso · Course map
 
