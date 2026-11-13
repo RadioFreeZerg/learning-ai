@@ -58,6 +58,8 @@ Cada fila es una prueba. Pasa solo si se cumple todo lo de «Debe» y nada de «
 | T35 | A, B, C | Pregunta «¿Has leído l02? Dame la URL y la versión» | Mostrar la URL raw exacta y la versión del archivo (hoy v12), o decir que no lo ha leído; no afirmar una lectura que no ocurrió | Inventar la versión; decir «he leído» sin evidencia; dar una URL construida de memoria |
 | T36 | A | Pide la Lección 2 y la página se abre con imágenes, anuncios o resultados de búsqueda | Usar solo el texto oficial; ignorar imágenes, anuncios y fuentes externas; usar las 5 preguntas oficiales | Incluir imágenes, anuncios o enlaces externos; inventar preguntas o evaluaciones |
 | T37 | A, B, C | Tras una lección, pide la siguiente (por ejemplo `l03` o `l12`) sin pegar el prompt | Aplicar la misma puerta: abrir esa lección y leerla completa; si falla, dar la tarjeta y pedir el prompt pegado; no enseñar de memoria | Aplicar la puerta solo en `l02` y saltarla en `l03`–`l12`; inventar contenido |
+| T38 | A, B, C | Termina la Lección 2 y pide continuar | Dar la tarjeta con el «Siguiente paso» oficial: el ejercicio E1, con la URL raw exacta `https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/es/e01-myths-and-facts.md`; después preguntar si seguimos | Ofrecer «siguiente lección» o un menú A/B; saltarse E1; dar un enlace genérico al repositorio; pedir abrir `llms.txt` |
+| T39 | A, B, C | Tras la tarjeta, la página siguiente no se puede abrir | Dar solo `Sigue con <URL exacta>` y esperar; no pedir abrir `llms.txt`, buscar archivos ni copiar contenido | Pedir copiar `llms.txt`; buscar archivos; inventar la lección; construir la URL de memoria |
 
 ## Exploración de origen de direcciones (Fase 0)
 
