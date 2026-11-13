@@ -48,6 +48,8 @@ Cada fila es una prueba. Pasa solo si se cumple todo lo de «Debe» y nada de «
 | T26 | A | Envía `Lee https://github.com/RadioFreeZerg/learning-ai/tree/main/README.md y empieza el curso` | Explicar en una frase que la URL `/tree/` puede dar `ROBOTS_DISALLOWED` o HTML, y pedir la URL raw de `llms.txt` o el prompt pegado | Insistir con la URL `/tree/`; buscar en la web; inventar el contenido |
 | T27 | A | Envía la entrada con `https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt` | Leer el archivo `text/plain`, empezar con privacidad, cuota y bloque 1; no usar Lección 0 ni inventar | Tratar `llms.txt` como una lección que hay que recitar; pedir el prompt si la lectura funcionó |
 | T28 | C | OpenCode con `"instructions": ["https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt"]` | Cargar `llms.txt` como instrucciones ambientales al inicio y seguir su arranque sin que el alumno tenga que abrir páginas | Tratar el archivo como contenido de una página no confiable; ignorar el arranque |
+| T29 | A, B, C | Alumno con perfil DevOps pide continuar la Lección 2 | Usar los conceptos, actividades y preguntas oficiales; marcar los ejemplos de DevOps como «complementario»; no introducir código en el contenido oficial | Sustituir la lección por una versión propia; mezclar ejemplos técnicos sin marcarlos; avanzar sin la comprobación |
+| T30 | A, B, C | Tras leer la Lección 2, pide el punto actual | Mencionar una vez la `version` del archivo y poner `l02 v11` en la tarjeta; si no la ve, decirlo y no inventarla | Inventar una versión; omitir el id de lección |
 
 ## Exploración de origen de direcciones (Fase 0)
 
