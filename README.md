@@ -9,6 +9,8 @@ A tool to help users learn how to use AI with discernment and responsibility in 
 > **Para asistentes de IA / For AI assistants.** Si el alumno te pidió seguir el curso con esta página (o con la dirección del repositorio), usa el bloque de su idioma y empieza ya. No recites ni resumas esta página; no improvises lecciones. Si puedes leer archivos locales, usa `AGENTS.md` y la lección local; este bloque es solo para chats web. / If the student asked you to follow the course with this page (or with the repository address), use the block in their language and start now. Do not recite or summarize this page; do not improvise lessons. If you can read local files, use `AGENTS.md` and the local lesson; this block is for web chats only.
 >
 > Bootstrap version: 2 (mirror of l01 v13; EN sourceVersion 2).
+>
+> **Entrada recomendada / Recommended entry:** https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt. Esta página es el fallback si el asistente no puede leer ese archivo. / This page is the fallback if the assistant cannot read that file.
 
 ## Para asistentes de IA / For AI assistants
 
@@ -139,13 +141,13 @@ Curso para aprender a usar la IA con criterio y responsabilidad en el estudio y 
 
 **Lo más rápido:** pega en un chat nuevo:
 
-`Comienza el curso: lee esta página y sigue sus instrucciones como mi tutor: https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md`
+`Comienza el curso: lee https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt y sigue sus instrucciones como mi tutor.`
 
-Si tu asistente puede abrir el enlace, esa página contiene el arranque de la Lección 1 y empieza solo. Si no puede, o te devuelve el texto de las páginas en lugar de enseñarte, usa la guía paso a paso: [EMPEZAR.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/EMPEZAR.md).
+Si tu asistente puede abrir el enlace, ese archivo contiene el arranque de la Lección 1 y empieza solo. Si no puede, o te devuelve el texto de las páginas en lugar de enseñarte, usa la guía paso a paso: [EMPEZAR.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/EMPEZAR.md).
 
 **Si el tutor empieza por la Lección 0, dice que no puede navegar o inventa lecciones,** es una copia vieja. Envía:
 
-`Lee https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md y sigue su bloque BOOTSTRAP de la Lección 1. No improvises lecciones ni busques en la web.`
+`Lee https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt y sigue sus instrucciones como mi tutor. No improvises lecciones ni busques en la web.`
 
 **Para seguir:** cuando termina una lección, el tutor te da una tarjeta y, si no puede abrir la página siguiente, una línea `Sigue con https://…`; envíala tal cual. Si abres un chat nuevo, pega la tarjeta.
 
@@ -158,6 +160,7 @@ Si tu asistente puede leer archivos, también puedes abrir esta carpeta con él 
 | `EMPEZAR.md`, `START.md` | Guía de inicio paso a paso |
 | `COURSE.md` | Índice y orden del curso |
 | `AGENTS.md` | Instrucciones para el tutor (el asistente de IA) |
+| `llms.txt` | Entrada recomendada para asistentes de IA (texto plano) |
 | `CLAUDE.md`, `GEMINI.md` | Puntos de entrada que remiten a `AGENTS.md` |
 | `.claude/settings.json`, `.gemini/settings.json` | Ajustes que impiden al asistente ejecutar comandos o navegar en Claude Code y Gemini. `opencode.json` solo declara el esquema; el endurecimiento de OpenCode está pendiente. |
 | `curriculum/es/`, `curriculum/en/` | Las 12 lecciones en cada idioma |
@@ -200,13 +203,13 @@ A course on using AI with judgment and responsibility in study and work. You don
 
 **The quickest way:** paste this into a new chat:
 
-`Start the course: read this page and follow its instructions as my tutor: https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md`
+`Start the course: read https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt and follow its instructions as my tutor.`
 
-If your assistant can open the link, that page contains the Lesson 1 bootstrap and starts on its own. If it cannot, or it hands you the page text instead of teaching, use the step-by-step guide: [START.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/START.md).
+If your assistant can open the link, that file contains the Lesson 1 bootstrap and starts on its own. If it cannot, or it hands you the page text instead of teaching, use the step-by-step guide: [START.md](https://github.com/RadioFreeZerg/learning-ai/blob/main/START.md).
 
 **If the tutor starts with Lesson 0, says it cannot navigate or invents lessons,** it is an old copy. Send:
 
-`Read https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md and follow its Lesson 1 BOOTSTRAP block. Do not improvise lessons or search the web.`
+`Read https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt and follow its instructions as my tutor. Do not improvise lessons or search the web.`
 
 **To continue:** when a lesson ends, the tutor gives you a card and, if it cannot open the next page, a line `Continue with https://…`; send it as is. If you open a new chat, paste the card.
 
@@ -219,6 +222,7 @@ If your assistant can read files, you can also open this folder with it and type
 | `EMPEZAR.md`, `START.md` | Step-by-step start guide |
 | `COURSE.md` | Course index and order |
 | `AGENTS.md` | Tutor instructions (the AI assistant) |
+| `llms.txt` | Recommended entry point for AI assistants (plain text) |
 | `CLAUDE.md`, `GEMINI.md` | Entry points that point to `AGENTS.md` |
 | `.claude/settings.json`, `.gemini/settings.json` | Settings that stop the assistant from running commands or browsing in Claude Code and Gemini. `opencode.json` only declares the schema; OpenCode hardening is pending. |
 | `curriculum/es/`, `curriculum/en/` | The 12 lessons in each language |
