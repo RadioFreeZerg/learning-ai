@@ -27,9 +27,11 @@ Cada sesión termina con una tarjeta de 150 palabras como máximo. El alumno la 
 TARJETA DE CONTINUIDAD
 Perfil: idioma=es; rol=...; profundidad=...; accesibilidad=...   (o: omitido)
 Progreso: l01=ok l02=ok l03=doing | E1=ok
-Punto actual: l03 (Lección 3), parte 2 de 3; falta: la actividad guiada
-Siguiente paso: seguir en el mismo chat o abrir uno nuevo con esta tarjeta; página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l04-clear-instructions.md
+Punto actual: l03 (Lección 3), v9, parte 2 de 3; falta: la actividad guiada
+Siguiente paso: seguir en el mismo chat o abrir uno nuevo con esta tarjeta; página siguiente: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/es/l04-clear-instructions.md
 ```
+
+Si el tutor vio la versión del archivo, añade `vN` junto al id; si no, no la inventes.
 
 ### Línea de progreso
 
@@ -45,7 +47,7 @@ Un ejercicio con aviso se escribe con su identificador: `E3=warn(w001)`.
 
 ## Estructura de una sesión corta
 
-1. En la primera sesión, el alumno puede enviar solo `Comienza el curso: lee esta página y sigue sus instrucciones como mi tutor: <dirección del README>`; esa página contiene el arranque. En las siguientes, pega la tarjeta o envía la línea `Sigue con <dirección>` que le dé el tutor.
+1. En la primera sesión, el alumno puede enviar solo `Comienza el curso: lee https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt y sigue sus instrucciones como mi tutor`; ese archivo contiene el arranque. En las siguientes, pega la tarjeta o envía la línea `Sigue con <dirección>` que le dé el tutor.
 2. El tutor resume el punto actual en dos frases y propone el objetivo de la sesión.
 3. Trabajo en bloques pequeños: concepto, ejemplo, actividad.
 4. Cierre: comprobación (si la lección la tiene), revisión del ejercicio, bloque de progreso y tarjeta nueva.

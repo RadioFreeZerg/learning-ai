@@ -4,7 +4,7 @@ slug: e07-ethics-case
 lang: es
 title: Caso ético de tu área
 translationOf: null
-version: 11
+version: 12
 sourceVersion: null
 lesson: l08
 deliverable: Análisis ético de un caso con condiciones de uso
@@ -115,7 +115,7 @@ BLOQUE DE PROGRESO TRAS LA REVISIÓN (JSON; incluye en «attempts» todos los in
 - Elijo B: ejercicio «passed_with_warning» («skipped» si no entregué), lección «completed_with_warning», un aviso con type «advanced_without_pass» («exercise_skipped» si no entregué), revisit true y resolvedAt null, y current {"lesson":"l09","exercise":"e08"}.
 - Elijo A o aún no apruebo: ejercicio «in_progress».
 Cada intento: {"n":1,"date":"AAAA-MM-DD","result":"pass|fail","requiredItemsMet":true,"scores":{"concept":0,"clarity":0,"verification":0,"ethics":0,"applicability":0}}.
-Termina con una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l09-privacy-and-law.md). Luego pregúntame si seguimos. Si sí, intenta abrir la página siguiente una vez; si falla o está desactualizada, no reintentes ni inventes: dame solo «Sigue con <página siguiente>» y espera.
+Termina con una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/es/l09-privacy-and-law.md). Luego pregúntame si seguimos. Si sí, intenta abrir la página siguiente una vez; si falla o está desactualizada, no reintentes ni inventes: dame solo «Sigue con <página siguiente>» y espera.
 ```
 
 ## Si no apruebas

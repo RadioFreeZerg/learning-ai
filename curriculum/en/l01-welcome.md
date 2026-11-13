@@ -4,8 +4,8 @@ slug: l01-welcome
 lang: en
 title: Welcome, interview and how we work
 translationOf: curriculum/es/l01-welcome.md
-version: 13
-sourceVersion: 13
+version: 14
+sourceVersion: 14
 prerequisites: []
 objectives:
   - Explain in your own words how the course works: lessons, exercises, review, warnings and the continuity card.
@@ -97,7 +97,7 @@ Notes for the tutor: accessibility and format.
 CLOSING (when the lesson is completed, in this order)
 a) My final profile, to save as PROFILE.md.
 b) A progress block: {"lessons":[{"id":"l01","status":"completed","completedAt":"YYYY-MM-DD"}],"student":{"lang":"<es|en>","profileCompleted":true},"current":{"lesson":"l02","exercise":null},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"} with my real data and the language I chose.
-c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (l01=ok), Current point (l02, part 1) and Next step (open a new chat, paste the card and read the lesson at https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-what-is-ai.md). Then ask if we continue. If I say yes, try https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-what-is-ai.md once. If it fails or is stale, do not retry or invent: give me only the line "Continue with https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-what-is-ai.md" and wait for me to send it.
+c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (l01=ok), Current point (l02, part 1) and Next step (open a new chat, paste the card and read the lesson at https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/en/l02-what-is-ai.md). Then ask if we continue. If I say yes, try https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/en/l02-what-is-ai.md once. If it fails or is stale, do not retry or invent: give me only the line "Continue with https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/en/l02-what-is-ai.md" and wait for me to send it.
 
 Start now with step 1.
 ```
@@ -111,7 +111,7 @@ Start now with step 1.
 
 ## Next step
 
-Next lesson: Lesson 2 · What AI is and is not (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l02-what-is-ai.md). Lesson 1 has no exercise.
+Next lesson: Lesson 2 · What AI is and is not (https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/en/l02-what-is-ai.md). Lesson 1 has no exercise.
 
 ## Optional
 

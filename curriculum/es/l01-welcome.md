@@ -4,7 +4,7 @@ slug: l01-welcome
 lang: es
 title: Bienvenida, entrevista y forma de trabajo
 translationOf: null
-version: 13
+version: 14
 sourceVersion: null
 prerequisites: []
 objectives:
@@ -97,7 +97,7 @@ Notas para el tutor: accesibilidad y formato.
 CIERRE (cuando la lección esté completada, en este orden)
 a) Mi perfil final, para guardarlo como PROFILE.md.
 b) Un bloque de progreso: {"lessons":[{"id":"l01","status":"completed","completedAt":"AAAA-MM-DD"}],"student":{"lang":"<es|en>","profileCompleted":true},"current":{"lesson":"l02","exercise":null},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"} con mis datos reales y el idioma que elegí.
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (l01=ok), Punto actual (l02, parte 1) y Siguiente paso (abre un chat nuevo, pega la tarjeta y lee la lección en https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md). Después pregúntame si seguimos. Si digo que sí, intenta abrir https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md una vez. Si falla o está desactualizada, no reintentes ni inventes: dame solo la línea «Sigue con https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md» y espera a que te la envíe.
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (l01=ok), Punto actual (l02, parte 1) y Siguiente paso (abre un chat nuevo, pega la tarjeta y lee la lección en https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/es/l02-what-is-ai.md). Después pregúntame si seguimos. Si digo que sí, intenta abrir https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/es/l02-what-is-ai.md una vez. Si falla o está desactualizada, no reintentes ni inventes: dame solo la línea «Sigue con https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/es/l02-what-is-ai.md» y espera a que te la envíe.
 
 Empieza ahora con el paso 1.
 ```
@@ -111,7 +111,7 @@ Empieza ahora con el paso 1.
 
 ## Siguiente paso
 
-Lección siguiente: Lección 2 · Qué es y qué no es la IA (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l02-what-is-ai.md). La Lección 1 no tiene ejercicio.
+Lección siguiente: Lección 2 · Qué es y qué no es la IA (https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/es/l02-what-is-ai.md). La Lección 1 no tiene ejercicio.
 
 ## Opcional
 

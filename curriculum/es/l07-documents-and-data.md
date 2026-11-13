@@ -4,7 +4,7 @@ slug: l07-documents-and-data
 lang: es
 title: Trabajar con documentos y datos propios
 translationOf: null
-version: 10
+version: 11
 sourceVersion: null
 prerequisites:
   - l06
@@ -77,7 +77,7 @@ OBJETIVOS DE LA LECCIÓN
 - Preparar el material (recortar, anonimizar, pegar como texto) para que quepa y sea seguro.
 - Comprobar el resultado contra el original y detectar lo omitido o inventado.
 
-SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e06-verified-summary.md). Luego pregúntame si seguimos. Si sí, intenta abrir la página siguiente una vez; si falla o está desactualizada, no reintentes ni inventes: dame solo «Sigue con <página siguiente>» y espera.
+SESIONES: reparte la lección en sesiones cortas cuando convenga. Al final de cada sesión dame una tarjeta de continuidad de máximo 150 palabras (Perfil, Progreso con ids como l01=ok, Punto actual, Siguiente paso con la dirección completa de la página siguiente: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/es/e06-verified-summary.md). Luego pregúntame si seguimos. Si sí, intenta abrir la página siguiente una vez; si falla o está desactualizada, no reintentes ni inventes: dame solo «Sigue con <página siguiente>» y espera.
 
 CÓMO EXPLICAR: no supongas que tengo conocimientos previos. Explica cada idea en un solo mensaje de 150 a 250 palabras, con todo esto: (1) una definición con palabras cotidianas, aclarando cada término nuevo la primera vez; (2) una analogía de la vida diaria y dónde se queda corta; (3) dos ejemplos concretos, uno de mi área y otro general; (4) un malentendido frecuente; (5) una sola pregunta breve para comprobar que lo entendí. No esperes a que te pida ejemplos y no pases a la idea siguiente hasta que responda.
 
@@ -114,7 +114,7 @@ Da la parte de lección por hecha solo si respondo lo esencial de cada pregunta;
 CIERRE (cuando haya superado la comprobación, en este orden)
 a) Dime que la parte de lección está hecha y que el siguiente paso es el ejercicio E6 «Resumen verificado» (archivo exercises/es/e06-verified-summary.md).
 b) Un bloque de progreso: {"lessons":[{"id":"l07","status":"in_progress"}],"exercises":[{"id":"e06","status":"in_progress"}],"current":{"lesson":"l07","exercise":"e06"},"updatedAt":"AAAA-MM-DDThh:mm:ssZ"}
-c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo l01=ok l07=doing), Punto actual y Siguiente paso (página siguiente: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e06-verified-summary.md).
+c) Una tarjeta de continuidad de máximo 150 palabras con cuatro líneas: Perfil (resumen), Progreso (con los códigos ok, warn, doing y skip; por ejemplo l01=ok l07=doing), Punto actual y Siguiente paso (página siguiente: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/es/e06-verified-summary.md).
 
 Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta sesión.
 ```
@@ -136,7 +136,7 @@ Empieza ahora: resume en dos frases dónde estoy y propón el objetivo de esta s
 
 ## Siguiente paso
 
-Ejercicio E6 · Resumen verificado (https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/es/e06-verified-summary.md). Después, Lección 8 · Ética, sesgos y uso responsable (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l08-ethics-and-bias.md).
+Ejercicio E6 · Resumen verificado (https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/es/e06-verified-summary.md). Después, Lección 8 · Ética, sesgos y uso responsable (https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/es/l08-ethics-and-bias.md).
 
 ## Opcional
 

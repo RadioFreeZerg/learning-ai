@@ -4,8 +4,8 @@ slug: l11-workflow-design
 lang: en
 title: Designing an AI-assisted workflow
 translationOf: curriculum/es/l11-workflow-design.md
-version: 10
-sourceVersion: 10
+version: 11
+sourceVersion: 11
 prerequisites:
   - l10
 objectives:
@@ -81,7 +81,7 @@ LESSON OBJECTIVES
 - Build into the workflow instructions, verification, data protection and control points.
 - Define how you will measure whether the workflow works and when you will review it.
 
-SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e10-final-workflow.md). Then ask if we continue. If yes, try the next page once; if it fails or is stale, do not retry or invent: give me only "Continue with <next page>" and wait.
+SESSIONS: split the lesson into short sessions when useful. At the end of each session give me a continuity card of at most 150 words (Profile, Progress with ids like l01=ok, Current point, Next step with the next page's full address: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/en/e10-final-workflow.md). Then ask if we continue. If yes, try the next page once; if it fails or is stale, do not retry or invent: give me only "Continue with <next page>" and wait.
 
 HOW TO EXPLAIN: do not assume I have any prior knowledge. Explain each idea in a single message of 150 to 250 words, with all of this: (1) a definition in everyday words, clarifying each new term the first time; (2) an analogy from daily life and where it falls short; (3) two concrete examples, one from my field and one general; (4) a common misunderstanding; (5) a single short question to check that I understood. Do not wait for me to ask for examples and do not move to the next idea until I answer.
 
@@ -122,7 +122,7 @@ Count the lesson part as done only if I answer the essentials of each question; 
 CLOSING (once I have passed the check, in this order)
 a) Tell me the lesson part is done and that the next step is exercise E10 "Final workflow" (file exercises/en/e10-final-workflow.md).
 b) A progress block: {"lessons":[{"id":"l11","status":"in_progress"}],"exercises":[{"id":"e10","status":"in_progress"}],"current":{"lesson":"l11","exercise":"e10"},"updatedAt":"YYYY-MM-DDThh:mm:ssZ"}
-c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example l01=ok l11=doing), Current point and Next step (next page: https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e10-final-workflow.md).
+c) A continuity card of at most 150 words with four lines: Profile (summary), Progress (with the codes ok, warn, doing and skip; for example l01=ok l11=doing), Current point and Next step (next page: https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/en/e10-final-workflow.md).
 
 Start now: summarize in two sentences where I am and propose the goal for this session.
 ```
@@ -144,7 +144,7 @@ Start now: summarize in two sentences where I am and propose the goal for this s
 
 ## Next step
 
-Exercise E10 · Final workflow (https://github.com/RadioFreeZerg/learning-ai/blob/main/exercises/en/e10-final-workflow.md). Then, Lesson 12 · Wrap-up: revisiting warnings and a continuity plan (https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l12-wrap-up.md).
+Exercise E10 · Final workflow (https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/exercises/en/e10-final-workflow.md). Then, Lesson 12 · Wrap-up: revisiting warnings and a continuity plan (https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/curriculum/en/l12-wrap-up.md).
 
 ## Optional
 
