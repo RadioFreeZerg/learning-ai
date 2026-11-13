@@ -27,5 +27,5 @@
 | e09-automation-map | 11 | 11 | sincronizado |
 | e10-final-workflow | 11 | 11 | sincronizado |
 | general | 1 | 1 | sincronizado |
-| README-bootstrap | 2 | 2 | sincronizado |
-| llms.txt | 2 | 2 | sincronizado |
+| README-bootstrap | 3 | 3 | sincronizado |
+| llms.txt | 3 | 3 | sincronizado |

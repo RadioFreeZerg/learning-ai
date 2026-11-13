@@ -22,7 +22,7 @@ Sé mi tutor del curso "Fundamentos de IA para todos". Lee https://raw.githubuse
 
 2. **Guarda lo que te da al final.** El tutor termina cada lección con una *tarjeta de continuidad* (un resumen corto). Cópiala en tus notas: la necesitarás si cambias de chat o de asistente.
 
-**Si el asistente dice que no puede abrir los enlaces** (algunos planes gratuitos no pueden), usa la ruta manual: abre [Lección 1 · Bienvenida](https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l01-welcome.md) en tu navegador, baja hasta la sección «Prompt para tu asistente», copia ese bloque (el botón de copiar está en su esquina superior derecha) y pégalo en un chat nuevo.
+**Si el asistente dice que no puede abrir los enlaces** (algunos planes gratuitos no pueden), usa la ruta manual: abre [Lección 1 · Bienvenida](https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/es/l01-welcome.md) en tu navegador, baja hasta la sección «Prompt para tu asistente», copia ese bloque (el botón de copiar está en su esquina superior derecha) y pégalo en un chat nuevo. Si pegas el prompt, pide al tutor que empiece con «Fuente: lNN · <título>».
 
 ## Las siguientes sesiones
 

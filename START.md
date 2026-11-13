@@ -22,7 +22,7 @@ Be my tutor for the course "AI Fundamentals for Everyone". Read https://raw.gith
 
 2. **Save what it gives you at the end.** The tutor finishes each lesson with a *continuity card* (a short summary). Copy it into your notes: you will need it if you change chat or assistant.
 
-**If the assistant says it cannot open the links** (some free plans cannot), use the manual route: open [Lesson 1 · Welcome](https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l01-welcome.md) in your browser, scroll to the section "Prompt for your assistant", copy that block (the copy button is in its top-right corner) and paste it into a new chat.
+**If the assistant says it cannot open the links** (some free plans cannot), use the manual route: open [Lesson 1 · Welcome](https://github.com/RadioFreeZerg/learning-ai/blob/main/curriculum/en/l01-welcome.md) in your browser, scroll to the section "Prompt for your assistant", copy that block (the copy button is in its top-right corner) and paste it into a new chat. If you paste the prompt, ask the tutor to start with "Source: lNN · <title>".
 
 ## The following sessions
 
