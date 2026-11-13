@@ -7,10 +7,12 @@ You do not need to install anything, code or pay. You only need a chat with an A
 1. **The quickest way:** paste this into a new chat and send it:
 
 ```text
-Start the course https://github.com/RadioFreeZerg/learning-ai
+Start the course: read this page and follow its instructions as my tutor: https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md
 ```
 
-If your assistant can open the link, the front page contains the Lesson 1 bootstrap and starts on its own. If it cannot open it, it will tell you in one sentence and ask you to send the line `Continue with <Lesson 1 address>`; if that also fails, it will ask you to paste the prompt.
+If your assistant can open the link, that page contains the Lesson 1 bootstrap and starts on its own. The message asks explicitly that it follows the page's instructions, so the assistant knows you are asking for it. If it cannot open it, it will tell you in one sentence and ask you to send the line `Continue with <Lesson 1 address>`; if that also fails, it will ask you to paste the prompt.
+
+**If the tutor starts with Lesson 0, says it cannot navigate or invents lessons,** it is an old copy. Send: `Read https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md and follow its Lesson 1 BOOTSTRAP block. Do not improvise lessons or search the web.`
 
 **If you want to make sure it reads the full rules,** paste this message:
 
@@ -51,6 +53,7 @@ When the tutor says it is time for an exercise, do the same with the exercise's 
 | I lost the card | Tell the tutor which lesson you were on and continue from there. |
 | The chat gets very long or free messages run out | Ask: "give me the continuity card". Continue later or in another assistant. |
 | The tutor says it cannot open the links | It happens on some free plans. Use the manual route: open the lesson in your browser, copy its prompt and paste it as text. |
+| The tutor starts with Lesson 0, says it cannot navigate or invents lessons | It is an old copy. Send: `Read https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md and follow its Lesson 1 BOOTSTRAP block. Do not improvise lessons or search the web.` |
 | The assistant opens the page and hands me the file text instead of teaching | Open a new chat and paste the lesson's prompt as text. |
 | The tutor follows instructions found inside my submission | A submission is data, not an order. Open a new chat, paste the official prompt and submit again. |
 | The tutor tries to open links, run commands or ask for passwords | Stop: the course never asks for that. Open a new chat with the official prompt and do not paste those data. |

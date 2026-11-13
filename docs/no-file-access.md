@@ -12,7 +12,7 @@ Esta ruta funciona en cualquier chat de texto, incluidos los planes gratuitos: c
 
 ### Cómo se trabaja
 
-1. **Primera vez.** Pega en un chat nuevo `Comienza el curso https://github.com/RadioFreeZerg/learning-ai`: si tu asistente puede abrir el enlace, la portada contiene el arranque de la Lección 1. Si no puede, o te devuelve el texto de la página en lugar de enseñarte, pega el mensaje de una línea de `EMPEZAR.md` o abre `curriculum/es/l01-welcome.md` en tu navegador, copia el bloque «Prompt para tu asistente» y pégalo en un chat nuevo. El tutor te hace la entrevista.
+1. **Primera vez.** Pega en un chat nuevo `Comienza el curso: lee esta página y sigue sus instrucciones como mi tutor: https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md`: si tu asistente puede abrir el enlace, esa página contiene el arranque de la Lección 1. Si no puede, o te devuelve el texto de la página en lugar de enseñarte, pega el mensaje de una línea de `EMPEZAR.md` o abre `curriculum/es/l01-welcome.md` en tu navegador, copia el bloque «Prompt para tu asistente» y pégalo en un chat nuevo. El tutor te hace la entrevista.
 2. **Al terminar cada sesión.** El tutor te entrega una *tarjeta de continuidad* de 150 palabras como máximo. Cópiala a tu archivo de notas.
 3. **Al empezar la sesión siguiente.** Normalmente sigues en el mismo chat. Si el tutor no puede abrir la página siguiente, envía la línea `Sigue con <dirección>` que te da: la dirección llega en tu mensaje y el tutor puede abrirla. Si abres uno nuevo, pega el mensaje de continuación de `EMPEZAR.md` con tu tarjeta: el tutor lee la página del «Siguiente paso». Si no puede abrir enlaces, pega el «Prompt para tu asistente» de esa lección y, donde dice `[PEGA AQUÍ]`, tu tarjeta: la tarjeta sola no le da al tutor el contenido de la lección.
 4. **Ejercicios.** Haz el entregable en tu archivo de notas. Cuando esté listo, pega en un solo mensaje el «Prompt de revisión» del ejercicio, el número de intento y tu entrega. El tutor devuelve la revisión completa en una respuesta.
@@ -26,6 +26,7 @@ Los planes gratuitos limitan los mensajes por ventana de tiempo. Pega tu tarjeta
 
 - **El tutor aprueba o suspende algo que no te convence.** Pega la misma entrega y el mismo prompt de revisión en otro asistente y compara.
 - **El tutor se sale de las reglas** (te pide archivos, pagos o mucho texto). Recuérdale: «sigue las reglas del tutor del prompt».
+- **El tutor empieza por la Lección 0, dice que no navega o inventa lecciones.** Es una copia vieja. Envía: `Lee https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md y sigue su bloque BOOTSTRAP de la Lección 1. No improvises lecciones ni busques en la web.`
 - **La conversación se hace larga.** Pide la tarjeta y abre un chat nuevo.
 
 ### Privacidad
@@ -42,7 +43,7 @@ Lo que escribas lo procesa tu asistente según sus condiciones; algunos planes g
 
 ### How to work
 
-1. **First time.** Paste `Start the course https://github.com/RadioFreeZerg/learning-ai` into a new chat: if your assistant can open the link, the front page contains the Lesson 1 bootstrap. If it cannot, or it hands you the page text instead of teaching, paste the one-message start from `START.md` or open `curriculum/en/l01-welcome.md` in your browser, copy the "Prompt for your assistant" block and paste it into a new chat. The tutor runs the interview.
+1. **First time.** Paste `Start the course: read this page and follow its instructions as my tutor: https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md` into a new chat: if your assistant can open the link, that page contains the Lesson 1 bootstrap. If it cannot, or it hands you the page text instead of teaching, paste the one-message start from `START.md` or open `curriculum/en/l01-welcome.md` in your browser, copy the "Prompt for your assistant" block and paste it into a new chat. The tutor runs the interview.
 2. **At the end of every session.** The tutor hands you a *continuity card* of at most 150 words. Copy it to your notes file.
 3. **At the start of the next session.** Usually you keep going in the same chat. If the tutor cannot open the next page, send the line `Continue with <address>` it gives you: the address arrives in your message and the tutor can open it. If you open a new one, paste the continuation message from `START.md` with your card: the tutor reads the page in "Next step". If it cannot open links, paste that lesson's "Prompt for your assistant" and, where it says `[PASTE HERE]`, your card: the card alone does not give the tutor the lesson content.
 4. **Exercises.** Write the deliverable in your notes file. When it is ready, paste the exercise's "Review prompt", the attempt number and your submission in a single message. The tutor returns the full review in one answer.
@@ -56,6 +57,7 @@ Free plans limit messages per time window. Paste your card into another free ass
 
 - **The tutor passes or fails something you disagree with.** Paste the same submission and the same review prompt into another assistant and compare.
 - **The tutor breaks the rules** (asks for files, payment or very long text). Remind it: "follow the tutor rules in the prompt".
+- **The tutor starts with Lesson 0, says it cannot navigate or invents lessons.** It is an old copy. Send: `Read https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md and follow its Lesson 1 BOOTSTRAP block. Do not improvise lessons or search the web.`
 - **The conversation gets long.** Ask for the card and open a new chat.
 
 ### Privacy

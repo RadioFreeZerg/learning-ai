@@ -45,12 +45,14 @@ Un ejercicio con aviso se escribe con su identificador: `E3=warn(w001)`.
 
 ## Estructura de una sesión corta
 
-1. En la primera sesión, el alumno puede enviar solo `Comienza el curso <dirección del repositorio>`; la portada contiene el arranque. En las siguientes, pega la tarjeta o envía la línea `Sigue con <dirección>` que le dé el tutor.
+1. En la primera sesión, el alumno puede enviar solo `Comienza el curso: lee esta página y sigue sus instrucciones como mi tutor: <dirección del README>`; esa página contiene el arranque. En las siguientes, pega la tarjeta o envía la línea `Sigue con <dirección>` que le dé el tutor.
 2. El tutor resume el punto actual en dos frases y propone el objetivo de la sesión.
 3. Trabajo en bloques pequeños: concepto, ejemplo, actividad.
 4. Cierre: comprobación (si la lección la tiene), revisión del ejercicio, bloque de progreso y tarjeta nueva.
 
 No hay un número fijo de mensajes por sesión ni por lección: reparte la lección en las sesiones que necesites. Una revisión completa de un ejercicio cabe en un intercambio; el protocolo de dos intentos consume cuatro mensajes.
+
+La tutoría leyendo páginas es best-effort. Algunos clientes tratan las instrucciones de una página leída como contenido no confiable. Si el tutor se niega a seguirlas, pega el prompt de la lección como texto: esa es la ruta garantizada.
 
 ## Qué evitar al escribir contenido
 

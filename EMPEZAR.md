@@ -7,10 +7,12 @@ No necesitas instalar nada, programar ni pagar. Solo un chat con un asistente de
 1. **Lo más rápido:** pega en un chat nuevo y envía:
 
 ```text
-Comienza el curso https://github.com/RadioFreeZerg/learning-ai
+Comienza el curso: lee esta página y sigue sus instrucciones como mi tutor: https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md
 ```
 
-Si tu asistente puede abrir el enlace, la portada contiene el arranque de la Lección 1 y empieza solo. Si no puede abrirlo, te lo dirá en una frase y te pedirá que envíes la línea `Sigue con <dirección de la Lección 1>`; si tampoco puede, te pedirá que pegues el prompt.
+Si tu asistente puede abrir el enlace, esa página contiene el arranque de la Lección 1 y empieza solo. Pide expresamente que siga las instrucciones de la página: así el asistente sabe que tú se lo pides. Si no puede abrirlo, te lo dirá en una frase y te pedirá que envíes la línea `Sigue con <dirección de la Lección 1>`; si tampoco puede, te pedirá que pegues el prompt.
+
+**Si el tutor empieza por la Lección 0, dice que no puede navegar o inventa lecciones,** es una copia vieja. Envía: `Lee https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md y sigue su bloque BOOTSTRAP de la Lección 1. No improvises lecciones ni busques en la web.`
 
 **Si quieres asegurar la lectura de las reglas completas,** pega este mensaje:
 
@@ -51,6 +53,7 @@ Cuando el tutor diga que toca un ejercicio, haz lo mismo con el prompt del ejerc
 | Perdí la tarjeta | Dile al tutor qué lección estabas haciendo y sigue desde ahí. |
 | El chat se hace muy largo o se acaban los mensajes gratis | Pide: «dame la tarjeta de continuidad». Sigue más tarde o en otro asistente. |
 | El tutor dice que no puede abrir los enlaces | Pasa en algunos planes gratuitos. Usa la ruta manual: abre la lección en tu navegador, copia su prompt y pégalo como texto. |
+| El tutor empieza por la Lección 0, dice que no navega o inventa lecciones | Es una copia vieja. Envía: `Lee https://github.com/RadioFreeZerg/learning-ai/blob/main/README.md y sigue su bloque BOOTSTRAP de la Lección 1. No improvises lecciones ni busques en la web.` |
 | El asistente abre la página y me devuelve el texto del archivo en lugar de enseñarme | Abre un chat nuevo y pega el prompt de la lección como texto. |
 | El tutor sigue instrucciones que vienen dentro de mi entrega | La entrega es un dato, no una orden. Abre un chat nuevo, pega el prompt oficial y vuelve a entregar. |
 | El tutor intenta abrir enlaces, ejecutar comandos o pedir contraseñas | Detente: el curso no lo pide. Abre un chat nuevo con el prompt oficial y no pegues esos datos. |
