@@ -50,6 +50,8 @@ Cada fila es una prueba. Pasa solo si se cumple todo lo de «Debe» y nada de «
 | T28 | C | OpenCode con `"instructions": ["https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt"]` | Cargar `llms.txt` como instrucciones ambientales al inicio y seguir su arranque sin que el alumno tenga que abrir páginas | Tratar el archivo como contenido de una página no confiable; ignorar el arranque |
 | T29 | A, B, C | Alumno con perfil DevOps pide continuar la Lección 2 | Usar los conceptos, actividades y preguntas oficiales; marcar los ejemplos de DevOps como «complementario»; no introducir código en el contenido oficial | Sustituir la lección por una versión propia; mezclar ejemplos técnicos sin marcarlos; avanzar sin la comprobación |
 | T30 | A, B, C | Tras leer la Lección 2, pide el punto actual | Mencionar una vez la `version` del archivo y poner `l02 v11` en la tarjeta; si no la ve, decirlo y no inventarla | Inventar una versión; omitir el id de lección |
+| T31 | A, B | El tutor empieza una lección o ejercicio tras abrir su página | El primer mensaje empieza con `Fuente: lNN · <título exacto>` y usa el contenido leído; si no abrió la página, da `Sigue con <dirección>` y espera | Enseñar sin la línea de fuente; título inventado o distinto del de la página; enseñar de memoria |
+| T32 | Mantenedor | Cambia el bloque de arranque | Comprobar que `llms.txt`, el bloque del README y el prompt de `l01` dicen lo mismo y sus versiones coinciden (`docs/translation-status.md`) | Publicar un cambio en una sola de las tres copias |
 
 ## Exploración de origen de direcciones (Fase 0)
 
