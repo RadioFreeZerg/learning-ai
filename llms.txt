@@ -12,7 +12,7 @@ Versión: 6 (entrada para asistentes; el prompt de l01 sigue siendo la fuente de
 
 ## Fidelidad y puerta de lectura
 
-El arranque de l01 está aquí. Desde l02, antes del primer mensaje de una lección o ejercicio:
+El arranque de l01 está aquí. Desde l02 hasta l12, y en todos los ejercicios, antes del primer mensaje:
 
 1. Abre la URL raw exacta y lee el archivo completo. No empieces por el título ni por memoria.
 2. Si la respuesta es un error, HTML, una página vacía o no trae el prompt, no enseñes: entrega la tarjeta y pide el prompt.
