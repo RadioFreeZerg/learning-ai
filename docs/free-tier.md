@@ -9,7 +9,7 @@ Todo archivo nuevo o modificado debe cumplirlo.
 | Recurso | Límite |
 | --- | --- |
 | «Prompt para tu asistente» y prompt de revisión | 1.200 palabras como máximo, rúbrica incluida |
-| `llms.txt` (fuente de verdad de las reglas del tutor) | 2.400 palabras como máximo |
+| `llms.txt` (fuente de verdad de las reglas del tutor) | 2.400 palabras como máximo, contadas con `wc -w llms.txt` |
 | Entregable de un ejercicio | 600 palabras como máximo, pegado como texto |
 | Documento de trabajo (E5, E6) | 2 páginas como máximo, pegado como texto |
 | Archivos adjuntos obligatorios | Ninguno |
