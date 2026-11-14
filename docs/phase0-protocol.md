@@ -50,7 +50,7 @@ Objetivo: saber, con datos, qué direcciones acepta la herramienta de lectura we
 | Si ocurre | Decisión |
 | --- | --- |
 | P1 y P5 funcionan | Se mantienen el mensaje de entrada y el de continuación tal como están |
-| P1 falla | La lectura web no sirve en ese plan: la ruta principal pasa a ser el prompt pegado y el mensaje de una línea queda como opción |
+| P1 falla | La lectura web no sirve en ese plan: la línea de relevo con la dirección completa del `.md` es siempre el primer paso y la ruta principal; el prompt pegado es la emergencia, solo si esa línea también falla |
 | P2 y P7 fallan | No depender de direcciones sacadas de páginas: la regla 12.9 solo admite direcciones del mensaje del alumno o de su tarjeta, y «seguir en el mismo chat» usa la línea de relevo o la tarjeta |
 | P4 devuelve el texto íntegro y P1 solo un resumen | Usar direcciones `raw.githubusercontent.com` en la entrada y en las tarjetas |
 | P3 funciona | Relajar la regla de «nunca construir direcciones» solo si el resultado se repite en otra prueba |
