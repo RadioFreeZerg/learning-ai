@@ -50,7 +50,7 @@ Si su lección está atrasada, el tutor se lo avisa una vez y ofrece trabajar de
 
 ## Archivo `llms.txt`
 
-`llms.txt` es el archivo de entrada para asistentes de IA. Es un archivo bilingüe único (avisos en ES/EN) y debe actualizarse junto con el bootstrap del README y el prompt de la Lección 1. Se registra como `llms.txt` en [`translation-status.md`](translation-status.md).
+`llms.txt` es el archivo de entrada para asistentes de IA. Es un archivo bilingüe único (avisos en ES/EN) y debe actualizarse junto con el bootstrap del README y el prompt de la Lección 1. Se registra como `llms.txt` en [`translation-status.md`](translation-status.md). Es la fuente de verdad de las reglas duras del tutor: cualquier cambio de una regla se hace primero aquí y después en `AGENTS.md`, que debe decir lo mismo.
 
 ## Bloque BOOTSTRAP del README
 
