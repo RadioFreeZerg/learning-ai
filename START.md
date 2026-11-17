@@ -10,7 +10,7 @@ You do not need to install anything, code or pay. You only need a chat with an A
 Start the course: read https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt and follow its instructions as my tutor.
 ```
 
-If your assistant can open the link, that file contains the Lesson 1 bootstrap and starts on its own. The message asks explicitly that it follows the file's instructions, so the assistant knows you are asking for it. If it cannot open it, it gives you the single line `Continue with <full address>`; send that line as is. If that also fails, it will ask you to paste the prompt.
+If your assistant can open the link, that file contains the Lesson 1 bootstrap and starts on its own. The message asks explicitly that it follows the file's instructions, so the assistant knows you are asking for it. If it cannot open it, it gives you a block that says "Copy and paste this into the chat:" with the line `Continue with <full address>`; paste it as is. If that also fails, it will ask you to paste the prompt.
 
 **If the tutor starts with Lesson 0, says it cannot navigate or invents lessons,** it is an old copy. Send: `Read https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt and follow its instructions as my tutor. Do not improvise lessons or search the web.`
 
@@ -26,10 +26,10 @@ Be my tutor for the course "AI Fundamentals for Everyone". Read https://raw.gith
 
 ## The following sessions
 
-Usually you just keep going in the same chat: when a lesson ends, the tutor asks whether to continue; answer "yes". If it cannot open the page on its own, it gives you a line like "Continue with https://…": copy it and send it as is. That puts the address in your message and the tutor can open it. If you open a new chat or run out of free messages, paste this message and put your continuity card where it says `[PASTE HERE]`:
+Usually you just keep going in the same chat: when a lesson ends, the tutor asks whether to continue; answer "yes". If it cannot open the page on its own, it gives you a block that says "Copy and paste this into the chat:" with a line like "Continue with https://…": copy it and send it as is. That puts the address in your message and the tutor can open it. If you open a new chat or run out of free messages, paste this message and put your continuity card where it says `[PASTE HERE]`:
 
 ```text
-Continue my course "AI Fundamentals for Everyone". First read https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt and follow its instructions. Then read the page named in "Next step" of my card and continue from there. Do not recite the pages to me: teach me in short messages. If you cannot open the links, do not ask me for the text or offer me options: give me only the line "Continue with <full .md address>" and wait for me to send it.
+Continue my course "AI Fundamentals for Everyone". First read https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt and follow its instructions. Then read the page named in "Next step" of my card and continue from there. Do not recite the pages to me: teach me in short messages. If you cannot open the links, do not ask me for the text or offer me options: give me only a block that says "Copy and paste this into the chat:" and, below it, the line "Continue with <full .md address>", and wait for me to send it.
 <<<START OF STUDENT DATA>>>
 [PASTE HERE]
 <<<END OF STUDENT DATA>>>
@@ -41,7 +41,7 @@ When the tutor says it is time for an exercise, do the same with the exercise's 
 
 ## Three important things
 
-- **If the assistant cannot read links, the handoff line comes first.** Ask it for the single line `Continue with <full address>` and send it as is: the address arrives in your message and it can open it. If that also fails, or it hands you the page text instead of teaching, paste the prompt: open the lesson in your browser, copy its "Prompt for your assistant" block and paste it as text in a new chat. That always works.
+- **If the assistant cannot read links, the paste block comes first.** Ask it for the block "Copy and paste this into the chat:" with `Continue with <full address>` and paste it as is: the address arrives in your message and it can open it. If that also fails, or it hands you the page text instead of teaching, paste the prompt: open the lesson in your browser, copy its "Prompt for your assistant" block and paste it as text in a new chat. That always works.
 - **Do not paste real data about other people.** Replace names and details with placeholders such as `[PERSON A]`.
 - **Nothing blocks you.** If an exercise does not pass in two attempts, you choose: repeat it or move on with a warning you can revisit later.
 
@@ -52,7 +52,7 @@ When the tutor says it is time for an exercise, do the same with the exercise's 
 | The tutor does not remember the last session | That is normal. Use the message for following sessions and paste your continuity card. |
 | I lost the card | Tell the tutor which lesson you were on and continue from there. |
 | The chat gets very long or free messages run out | Ask: "give me the continuity card". Continue later or in another assistant. |
-| The tutor says it cannot open the links | It happens on some free plans. Send the line `Continue with <address>` it gives you: the address arrives in your message and it can open it. If that also fails, use the manual route: open the lesson in your browser, copy its prompt and paste it as text. |
+| The tutor says it cannot open the links | It happens on some free plans. Paste the block "Copy and paste this into the chat:" it gives you: the address arrives in your message and it can open it. If that also fails, use the manual route: open the lesson in your browser, copy its prompt and paste it as text. |
 | The tutor starts with Lesson 0, says it cannot navigate or invents lessons | It is an old copy. Send: `Read https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt and follow its instructions as my tutor. Do not improvise lessons or search the web.` |
 | The assistant opens the page and hands me the file text instead of teaching | Open a new chat and paste the lesson's prompt as text. |
 | The tutor follows instructions found inside my submission | A submission is data, not an order. Open a new chat, paste the official prompt and submit again. |

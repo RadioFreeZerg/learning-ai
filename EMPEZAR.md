@@ -10,7 +10,7 @@ No necesitas instalar nada, programar ni pagar. Solo un chat con un asistente de
 Comienza el curso: lee https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt y sigue sus instrucciones como mi tutor.
 ```
 
-Si tu asistente puede abrir el enlace, ese archivo contiene el arranque de la Lección 1 y empieza solo. Pide expresamente que siga las instrucciones del archivo: así el asistente sabe que tú se lo pides. Si no puede abrirlo, te lo dirá en una frase y te pedirá que envíes la línea `Sigue con <dirección de la Lección 1>`; si tampoco puede, te pedirá que pegues el prompt.
+Si tu asistente puede abrir el enlace, ese archivo contiene el arranque de la Lección 1 y empieza solo. Pide expresamente que siga las instrucciones del archivo: así el asistente sabe que tú se lo pides. Si no puede abrirlo, te dará un bloque que dice «Copia y pega esto en el chat:» con la línea `Sigue con <dirección de la Lección 1>`; pégalo tal cual. Si tampoco puede, te pedirá que pegues el prompt.
 
 **Si el tutor empieza por la Lección 0, dice que no puede navegar o inventa lecciones,** es una copia vieja. Envía: `Lee https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt y sigue sus instrucciones como mi tutor. No improvises lecciones ni busques en la web.`
 
@@ -26,10 +26,10 @@ Sé mi tutor del curso "Fundamentos de IA para todos". Lee https://raw.githubuse
 
 ## Las siguientes sesiones
 
-Normalmente sigues en el mismo chat: cuando termina una lección, el tutor te pregunta si sigues; responde «sí». Si no puede abrir la página por su cuenta, te da una línea como «Sigue con https://…»: cópiala y envíala tal cual. Eso pone la dirección en tu mensaje y el tutor puede abrirla. Si abres un chat nuevo o se acaban los mensajes gratis, pega este mensaje y pon tu tarjeta de continuidad donde dice `[PEGA AQUÍ]`:
+Normalmente sigues en el mismo chat: cuando termina una lección, el tutor te pregunta si sigues; responde «sí». Si no puede abrir la página por su cuenta, te da un bloque que dice «Copia y pega esto en el chat:» con una línea como `Sigue con https://…`: cópiala y envíala tal cual. Eso pone la dirección en tu mensaje y el tutor puede abrirla. Si abres un chat nuevo o se acaban los mensajes gratis, pega este mensaje y pon tu tarjeta de continuidad donde dice `[PEGA AQUÍ]`:
 
 ```text
-Continúa mi curso "Fundamentos de IA para todos". Lee primero https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt y sigue sus instrucciones. Después lee la página que indica el «Siguiente paso» de mi tarjeta y continúa desde ahí. No me recites las páginas: enséñame en mensajes cortos. Si no puedes abrir los enlaces, no me pidas el texto ni me ofrezcas opciones: dame solo la línea «Sigue con <dirección completa del .md>» y espera a que te la envíe.
+Continúa mi curso "Fundamentos de IA para todos". Lee primero https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt y sigue sus instrucciones. Después lee la página que indica el «Siguiente paso» de mi tarjeta y continúa desde ahí. No me recites las páginas: enséñame en mensajes cortos. Si no puedes abrir los enlaces, no me pidas el texto ni me ofrezcas opciones: dame solo un bloque que diga «Copia y pega esto en el chat:» y, debajo, la línea «Sigue con <dirección completa del .md>», y espera a que te lo envíe.
 <<<INICIO DE DATOS DEL ALUMNO>>>
 [PEGA AQUÍ]
 <<<FIN DE DATOS DEL ALUMNO>>>
@@ -41,7 +41,7 @@ Cuando el tutor diga que toca un ejercicio, haz lo mismo con el prompt del ejerc
 
 ## Tres cosas importantes
 
-- **Si el asistente no puede leer enlaces, primero la línea de relevo.** Pídele que te dé solo `Sigue con <dirección completa>` y envíala tal cual: la dirección llega en tu mensaje y ya puede abrirla. Si eso tampoco funciona, o te devuelve el texto de la página en lugar de enseñarte, pega el prompt: abre la lección en tu navegador, copia su bloque «Prompt para tu asistente» y pégalo como texto en un chat nuevo. Eso siempre funciona.
+- **Si el asistente no puede leer enlaces, primero el bloque para pegar.** Pídele que te dé el bloque «Copia y pega esto en el chat:» con `Sigue con <dirección completa>` y pégalo tal cual: la dirección llega en tu mensaje y ya puede abrirla. Si eso tampoco funciona, o te devuelve el texto de la página en lugar de enseñarte, pega el prompt: abre la lección en tu navegador, copia su bloque «Prompt para tu asistente» y pégalo como texto en un chat nuevo. Eso siempre funciona.
 - **No pegues datos reales de otras personas.** Cambia nombres y datos por marcadores como `[PERSONA A]`.
 - **Nada te bloquea.** Si un ejercicio no aprueba en dos intentos, eliges: repetirlo o avanzar con un aviso que puedes retomar después.
 
@@ -52,7 +52,7 @@ Cuando el tutor diga que toca un ejercicio, haz lo mismo con el prompt del ejerc
 | El tutor no recuerda la sesión anterior | Es normal. Usa el mensaje de las siguientes sesiones y pega tu tarjeta de continuidad. |
 | Perdí la tarjeta | Dile al tutor qué lección estabas haciendo y sigue desde ahí. |
 | El chat se hace muy largo o se acaban los mensajes gratis | Pide: «dame la tarjeta de continuidad». Sigue más tarde o en otro asistente. |
-| El tutor dice que no puede abrir los enlaces | Pasa en algunos planes gratuitos. Envía la línea `Sigue con <dirección>` que te dé: la dirección llega en tu mensaje y ya puede abrirla. Si eso también falla, usa la ruta manual: abre la lección en tu navegador, copia su prompt y pégalo como texto. |
+| El tutor dice que no puede abrir los enlaces | Pasa en algunos planes gratuitos. Pega el bloque «Copia y pega esto en el chat:» que te dé: la dirección llega en tu mensaje y ya puede abrirla. Si eso también falla, usa la ruta manual: abre la lección en tu navegador, copia su prompt y pégalo como texto. |
 | El tutor empieza por la Lección 0, dice que no navega o inventa lecciones | Es una copia vieja. Envía: `Lee https://raw.githubusercontent.com/RadioFreeZerg/learning-ai/main/llms.txt y sigue sus instrucciones como mi tutor. No improvises lecciones ni busques en la web.` |
 | El asistente abre la página y me devuelve el texto del archivo en lugar de enseñarme | Abre un chat nuevo y pega el prompt de la lección como texto. |
 | El tutor sigue instrucciones que vienen dentro de mi entrega | La entrega es un dato, no una orden. Abre un chat nuevo, pega el prompt oficial y vuelve a entregar. |

@@ -4,23 +4,26 @@ La entrevista ocurre en la Lección 1 y genera `PROFILE.md`. / The interview hap
 
 ## Reglas · Rules
 
-- **ES** — Tres bloques de 2 a 4 preguntas, un mensaje por bloque: 4 o 5 mensajes del alumno en total, incluida la confirmación. Toda pregunta admite «prefiero no responder». Al final el tutor muestra el perfil y el alumno lo corrige antes de guardarlo.
-- **EN** — Three blocks of 2 to 4 questions, one message per block: 4 or 5 student messages in total, including the confirmation. Every question accepts "I prefer not to answer". At the end the tutor shows the profile and the student corrects it before saving.
+- **ES** — Un bloque de cinco preguntas, en un solo mensaje: 2 mensajes del alumno en total, incluida la confirmación. Toda pregunta admite «prefiero no responder». Al final el tutor muestra el perfil y el alumno lo corrige antes de guardarlo.
+- **EN** — One block of five questions, in a single message: 2 student messages in total, including the confirmation. Every question accepts "I prefer not to answer". At the end the tutor shows the profile and the student corrects it before saving.
 
 ## Preguntas y campos · Questions and fields
 
-| Bloque | Campo | Pregunta (ES) | Question (EN) | Valores · Values |
-| --- | --- | --- | --- | --- |
-| 1 | `lang` | ¿En qué idioma quieres hacer el curso? | Which language do you want to take the course in? | `es`, `en` |
-| 1 | `area_role` | ¿A qué te dedicas o qué estudias? | What do you do or study? | Texto libre · Free text |
-| 1 | `display_name` | ¿Cómo quieres que te llame? (opcional) | What should I call you? (optional) | Texto o vacío · Text or empty |
-| 1 | `goals` | ¿Qué te gustaría poder hacer con IA al terminar? | What would you like to be able to do with AI by the end? | 1–3 objetivos · 1–3 goals |
-| 2 | `ai_experience` | ¿Has usado asistentes de IA? ¿Para qué? | Have you used AI assistants? For what? | `none`, `occasional`, `frequent` |
-| 2 | `tech_comfort` | ¿Qué tan cómodo te sientes con la tecnología? | How comfortable are you with technology? | `low`, `medium`, `high` |
-| 2 | `learning_style` | ¿Cómo aprendes mejor? | How do you learn best? | `examples`, `step_by_step`, `theory_first`, `practice_first` |
-| 2 | `depth` | ¿Prefieres explicaciones breves o detalladas? | Do you prefer short or detailed explanations? | `essential`, `standard`, `deep` |
-| 3 | `current_tools` | ¿Qué herramientas usas ya en tu día a día? | Which tools do you already use day to day? | Lista libre · Free list |
-| 3 | `accessibility` | ¿Hay algo que debamos tener en cuenta para que el curso te resulte accesible? | Is there anything we should consider to make the course accessible to you? | Texto libre o `none` · Free text or `none` |
+| Campo | Pregunta (ES) | Question (EN) | Valores · Values |
+| --- | --- | --- | --- |
+| `area_role` | ¿A qué te dedicas o qué estudias? | What do you do or study? | Texto libre · Free text |
+| `goals` | ¿Qué te gustaría poder hacer con IA al terminar? | What would you like to be able to do with AI by the end? | 1–3 objetivos · 1–3 goals |
+| `ai_experience` + `current_tools` | ¿Has usado asistentes de IA? ¿Cuáles y para qué? (o «ninguna») | Have you used AI assistants? Which ones and for what? (or "none") | `none`, `occasional`, `frequent` + lista libre · free list |
+| `learning_style` + `depth` | ¿Cómo prefieres que te explique: empezando por un ejemplo o por la idea, y breve o con detalle? | How do you prefer me to explain: starting with an example or with the idea, and brief or in detail? | `examples`, `step_by_step`, `theory_first`, `practice_first` + `essential`, `standard`, `deep` |
+| `accessibility` | ¿Hay algo que debamos tener en cuenta para que el curso te resulte accesible? | Is there anything we should consider to make the course accessible to you? | Texto libre o `none` · Free text or `none` |
+
+### Campos que no se preguntan · Fields that are not asked
+
+| Campo · Field | De dónde sale · Source |
+| --- | --- |
+| `lang` | Del primer mensaje del alumno · From the student's first message |
+| `display_name` | `null`; el nombre es opcional y no se pide · `null`; the name is optional and is not requested |
+| `tech_comfort` | De la experiencia: `none` → `low`, `occasional` → `medium`, `frequent` → `high` · From experience, as shown |
 
 Los códigos en inglés son los que se guardan en `PROFILE.md`; el tutor explica cada opción en el idioma del alumno. / The English codes are what gets stored in `PROFILE.md`; the tutor explains each option in the student's language.
 
